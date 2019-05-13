@@ -113,7 +113,12 @@ const Title = styled('h1')({
   maxWidth: 700,
   marginBottom: 0,
   fontStyle: 'italic'
-})
+}, ({theme}) => ({
+  [theme.media.sm]: {
+    fontSize: 35,
+    padding: '0px 15px'
+  }
+}))
 
 const Description = styled('p')({
 
@@ -126,4 +131,9 @@ const ContentWrapper = styled('article')({
   '& p': {
     // textAlign: 'justify'
   }
-})
+}, ({theme}) => ({
+  [theme.media.sm]: {
+    fontSize: 18,
+    padding: '0px 20px'
+  }
+}))

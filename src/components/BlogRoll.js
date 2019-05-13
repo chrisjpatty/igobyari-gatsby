@@ -35,9 +35,9 @@ class BlogRoll extends React.Component {
                       {post.frontmatter.title}
                       <Num>{posts.length - i}</Num>
                     </Link>
-                    <span>
+                    <DateWrapper>
                       {post.frontmatter.date}
-                    </span>
+                    </DateWrapper>
                   </PostMeta>
                 </header>
                 <Excerpt>
@@ -115,6 +115,12 @@ const PostMeta = styled('div')({
     textDecoration: 'none',
     // paddingLeft: 20
   }
+}), ({theme}) => ({
+  [theme.media.sm]: {
+    '& a': {
+      fontSize: 28
+    }
+  }
 }))
 
 const PostWrapper = styled('div')({
@@ -125,7 +131,11 @@ const PostWrapper = styled('div')({
   '&:last-child': {
     marginBottom: 0
   }
-})
+}, ({theme}) => ({
+  [theme.media.sm]: {
+    padding: '0px 20px',
+  }
+}))
 
 const Excerpt = styled('p')({
   // '&:first-letter': {
@@ -139,11 +149,23 @@ const Excerpt = styled('p')({
 })
 
 const Num = styled('span')({
-  color: 'rgb(223, 223, 223)',
+  color: 'rgba(255, 179, 114, 0.32)',
   fontSize: 100,
   position: 'absolute',
-  left: -50,
+  left: -40,
   top: -30,
   zIndex: -1,
+  fontStyle: 'italic',
+  transform: 'rotate(-15deg)'
+}, ({theme}) => ({
+  [theme.media.sm]: {
+    fontSize: 70,
+    left: -10,
+    top: -30,
+  }
+}))
+
+const DateWrapper = styled('span')({
+  opacity: .5,
   fontStyle: 'italic'
 })

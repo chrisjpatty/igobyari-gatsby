@@ -29,4 +29,8 @@ const Footer = styled('footer')({
   textAlign: 'left',
   flex: '1 0 auto',
   padding: '30px 0px'
-})
+}, ({theme}) => ({
+  [theme.media.sm]: {
+    padding: '30px 20px'
+  }
+}))
