@@ -112,7 +112,8 @@ const Title = styled('h1')({
   width: '100%',
   maxWidth: 700,
   marginBottom: 0,
-  fontStyle: 'italic'
+  fontStyle: 'italic',
+  fontWeight: 400,
 }, ({theme}) => ({
   [theme.media.sm]: {
     fontSize: 35,
