@@ -44,7 +44,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
-        <meta property="og:image" content="/img/og-image.jpg" />
+        {/* <meta property="og:image" content="/img/og-image.jpg" /> */}
       </Helmet>
       <ThemeProvider theme={theme}>
         <React.Fragment>
