@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import styled from '@emotion/styled'
 
 export const BlogPostTemplate = ({
   content,
@@ -17,32 +18,28 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
+    <PageWrapper>
       {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
+      <Title>
+        {title}
+      </Title>
+      <Description>{description}</Description>
+      <ContentWrapper>
+        <PostContent content={content} />
+      </ContentWrapper>
+      {/* {tags && tags.length ? (
+        <div>
+          <h4>Tags</h4>
+          <ul>
+            {tags.map(tag => (
+              <li key={tag + `tag`}>
+                <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+              </li>
+            ))}
+          </ul>
         </div>
-      </div>
-    </section>
+      ) : null} */}
+    </PageWrapper>
   )
 }
 
@@ -101,3 +98,32 @@ export const pageQuery = graphql`
     }
   }
 `
+
+const PageWrapper = styled('div')({
+  width: '100%',
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center'
+})
+
+const Title = styled('h1')({
+  fontSize: 50,
+  textAlign: 'center',
+  width: '100%',
+  maxWidth: 700,
+  marginBottom: 0,
+  fontStyle: 'italic'
+})
+
+const Description = styled('p')({
+
+})
+
+const ContentWrapper = styled('article')({
+  width: '100%',
+  maxWidth: 700,
+  fontSize: 20,
+  '& p': {
+    // textAlign: 'justify'
+  }
+})

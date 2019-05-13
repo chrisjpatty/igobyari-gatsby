@@ -4,6 +4,8 @@ import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.scss'
 import useSiteMetadata from './SiteMetadata'
+import { ThemeProvider } from 'emotion-theming'
+import theme from '../theme.js'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
@@ -44,9 +46,13 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta property="og:image" content="/img/og-image.jpg" />
       </Helmet>
-      <Navbar />
-      <div>{children}</div>
-      <Footer />
+      <ThemeProvider theme={theme}>
+        <React.Fragment>
+          <Navbar />
+          <div>{children}</div>
+          <Footer />
+        </React.Fragment>
+      </ThemeProvider>
     </div>
   )
 }

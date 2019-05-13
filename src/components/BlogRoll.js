@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import styled from '@emotion/styled'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
@@ -11,16 +12,12 @@ class BlogRoll extends React.Component {
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
-              >
+          posts.map(({ node: post }, i) => (
+            <PostWrapper key={post.id}>
+              <article>
                 <header>
                   {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
+                    <div>
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
@@ -31,29 +28,28 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <p className="post-meta">
+                  <PostMeta className="post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
+                      <Num>{posts.length - i}</Num>
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
+                    <span>
                       {post.frontmatter.date}
                     </span>
-                  </p>
+                  </PostMeta>
                 </header>
-                <p>
+                <Excerpt>
                   {post.excerpt}
+                  {/* <br />
                   <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
+                  <Link to={post.fields.slug}>
                     Keep Reading →
-                  </Link>
-                </p>
+                  </Link> */}
+                </Excerpt>
               </article>
-            </div>
+            </PostWrapper>
           ))}
       </div>
     )
@@ -103,3 +99,51 @@ export default () => (
     render={(data, count) => <BlogRoll data={data} count={count} />}
   />
 )
+
+const PostMeta = styled('div')({
+
+}, ({theme}) => ({
+  display: 'flex',
+  flexDirection: 'column',
+  position: 'relative',
+  '& a': {
+    fontFamily: theme.fonts.title,
+    color: 'inherit',
+    // textTransform: 'uppercase',
+    fontSize: 36,
+    fontStyle: 'normal',
+    textDecoration: 'none',
+    // paddingLeft: 20
+  }
+}))
+
+const PostWrapper = styled('div')({
+  margin: '60px 0px',
+  '&:first-of-type': {
+    marginTop: 0
+  },
+  '&:last-child': {
+    marginBottom: 0
+  }
+})
+
+const Excerpt = styled('p')({
+  // '&:first-letter': {
+  //   color: '#903',
+  //   fontSize: 40,
+  //   lineHeight: 3,
+  //   paddingTop: 4,
+  //   paddingTight: 8,
+  //   paddingLeft: 3
+  // }
+})
+
+const Num = styled('span')({
+  color: 'rgb(223, 223, 223)',
+  fontSize: 100,
+  position: 'absolute',
+  left: -50,
+  top: -30,
+  zIndex: -1,
+  fontStyle: 'italic'
+})
