@@ -21,6 +21,18 @@ tags:
   - Uncategorized
 
 ---
-<div dir="ltr" style="text-align: left;">
-  Write. A TON.<br />Explore Green Canyon a little more.<br />Go climbing. Praise the heavens.<br />Read whatever books I want! YEEEEAH.<br />Sleep outside in a makeshift tent.<br />Reupholster my desk chair and spruce up my desk with some spray paint.<br />Learn how to longboard.<br />Learn Spanish &#8212; maybe.<br />Hike up Logan River.<br />Climb up the 420 tower.<br />Have dance parties.<br />Watch movies outside.<br />Take more photos.<br />Sing more songs.<br />Live again.&nbsp;
-</div>
+Write. A TON.  
+Explore Green Canyon a little more.  
+Go climbing. Praise the heavens.  
+Read whatever books I want! YEEEEAH.  
+Sleep outside in a makeshift tent.  
+Reupholster my desk chair and spruce up my desk with some spray paint.  
+Learn how to longboard.  
+Learn Spanish — maybe.  
+Hike up Logan River.  
+Climb up the 420 tower.  
+Have dance parties.  
+Watch movies outside.  
+Take more photos.  
+Sing more songs.  
+Live again.

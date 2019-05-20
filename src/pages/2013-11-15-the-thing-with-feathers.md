@@ -24,136 +24,60 @@ tags:
   - writing
 
 ---
-<div dir="ltr" style="text-align: left;">
-  Sunday afternoon slips through the windows and curls up on the carpet, making itself at home. It&#8217;s tired, but content. Dust, like a galaxy, is suspended in each band of sunlight, vulnerable, exposed, but lovely, still the same, as it dances in midair.</p> 
+Sunday afternoon slips through the windows and curls up on the carpet, making itself at home. It’s tired, but content. Dust, like a galaxy, is suspended in each band of sunlight, vulnerable, exposed, but lovely, still the same, as it dances in midair.
+
+The husky is sleeping in the crook of the old, green couch in the living room. Her body is curled into an infinite, furry loop, interrupted only by shadow-rimmed and icy eyes that flicker open at the smallest sound. Her name is Sam, affectionately altered to Samantha, Samwell, Samwhich, Sammathy, and Samwise on occasion. She’s a sentinel, but I don’t know what she’s protecting. For a moment, our eyes meet, blue on blue, and I wonder if, maybe, she sees something in me that I don’t see. 
+
+Tired, cold, I slip down the hallway and into my room, slip through my floral print skirt, slip into a pair of old school Utah State sweatpants. I hear Sam’s claws click against the hardwood, and I fall to my knees.  
+
+“Sammy! Come here, Sammy!” I cry. 
+
+The claws stop. She’s curious, but she moves on. 
+
+For just a moment, I allow myself to stretch out in awkward angles on the carpet, half in my room, half in the hall. My hair fans out beneath me and I stare, dead-eyed, ahead with eyes that are still a little swollen. Multi-layered context looks unflinchingly back at me, sad poetry looks back at me, my life looks back at me. November and I have a hard and repetitive history.
+
+I’m ashamed to admit that my struggles mean nothing compared to the struggles of others. Every now and again, I feel deep loss in my gut, but not loss of family, loss of life, or loss of health.
+
+Loss of self, loss of opportunity. Loss of things that I take for granted or don’t take at all.
+
+If I took my Self and cupped it in my hands, I would see something as fragile and vulnerable as dust in a sunbeam. I would see something scarred with criticism and words that someone didn’t think about before they spoke. I would see something that, if it could, would run to the mountains or the stars. I protect it from loving recklessly, living vulnerably, saying what it wants to say, being rejected. I protect it from everything but myself, and it is now dependent upon me, even though I think I hurt it the most.
+
+But that little Self chose to be here, chose to align itself with a heart and a mind that would often berate it and be cruel to it. Chose to deal with the pain of rejection, the pain of comparison, the pain of things going wrong. That little Self is more courageous than I think she is. The little engine that could, that would, that _does_.
+
+I rest on that carpet Sunday afternoon, and I look up at the tilted world around me. There’s a navy blue quote board above the desk in the living room that says “Live Well, Laugh Often, Love Much,” and it’s glowing in a spatter of sunlight. Just a little bit that speckles it like freckles. And for some reason, I’m fixated on those freckles. They change something in me.
+
+As I lie on that carpet, I feel a distinct contrast between the previous dark and lonely Friday night and this Sunday afternoon. Isolation in a chaotic room vs. liberation in a narrow hall. Physical pain vs. mental peace. Seeing myself as a failure who only ruins the things she tries to build vs. seeing myself as a girl, as a 21-year old girl with a whole lifetime to create, as a girl who sometimes break things, but always builds something new up in place of them. I was hunched over, crying out to Heavenly Father and pleading for the ability to give my burdens, my fears to my Savior. Now, I’m spread out, wondering at the strange calm bubbling in my chest as I realize that he’s already trying to take those burdens from me and that I have the ability, but that I’m reluctant, because these emotions are easy and familiar to me. He’s standing at the door, waiting to redo the inside of the house I’ve occupied, but I’m not opening it for him for fear that I won’t recognize the final product, that I’ll be living in a house that isn’t mine when, from the very beginning, it never was. I’ve built around experience and failure. He builds around who he knew me to be and knows me to become.
+
+On that carpet, I open the door just a crack, and even a crack is enough to feel something. That something is the thing with feathers, the thing that, as the poet Emily Dickinson said, “perches in the soul – and sings the tune without the words – and never stops – at all.
+
+“And sweetest – in the Gale – is heard –
+
+And sore must be the storm –
+
+That could abash the little Bird
+
+That kept so many warm –
+
   
-  <div>
-  </div>
+
+“I’ve heard it in the chillest land –
+
+And on the strangest Sea –
+
+Yet – never – in Extremity,
+
+It asked a crumb – of me.”
+
+That thing is hope. 
+
   
-  <div>
-    The husky is sleeping in the crook of the old, green couch in the living room. Her body is curled into an infinite, furry loop, interrupted only by shadow-rimmed and icy eyes that flicker open at the smallest sound. Her name is Sam, affectionately altered to Samantha, Samwell, Samwhich, Sammathy, and Samwise on occasion. She&#8217;s a sentinel, but I don&#8217;t know what she&#8217;s protecting. For a moment, our eyes meet, blue on blue, and I wonder if, maybe, she sees something in me that I don&#8217;t see.&nbsp;
-  </div>
+
+Hope is not often overwhelming — it doesn’t come into town like the circus. Hope is the thing that catches you off guard in the quiet moments, the thing that flutters in your chest to let you know that it is there. Hope is the thing with feathers
+
   
-  <div>
-  </div>
+
+The thing spotted in specks of sun.
+
   
-  <div>
-    Tired, cold, I slip down the hallway and into my room, slip through my floral print skirt, slip into a pair of old school Utah State sweatpants. I hear Sam&#8217;s claws click against the hardwood, and I fall to my knees. &nbsp;
-  </div>
-  
-  <div>
-  </div>
-  
-  <div>
-    &#8220;Sammy! Come here, Sammy!&#8221; I cry.&nbsp;
-  </div>
-  
-  <div>
-  </div>
-  
-  <div>
-    The claws stop. She&#8217;s curious, but she moves on.&nbsp;
-  </div>
-  
-  <div>
-  </div>
-  
-  <div>
-    For just a moment, I allow myself to stretch out in awkward angles on the carpet, half in my room, half in the hall. My hair fans out beneath me and I stare, dead-eyed, ahead with eyes that are still a little swollen. Multi-layered context looks unflinchingly back at me, sad poetry looks back at me, my life looks back at me. November and I have a hard and repetitive history.</p> 
-    
-    <p>
-      I&#8217;m ashamed to admit that my struggles mean nothing compared to the struggles of others. Every now and again, I feel deep loss in my gut, but not loss of family, loss of life, or loss of health.
-    </p>
-    
-    <p>
-      Loss of self, loss of opportunity. Loss of things that I take for granted or don&#8217;t take at all.
-    </p>
-    
-    <p>
-      If I took my Self and cupped it in my hands, I would see something as fragile and vulnerable as dust in a sunbeam. I would see something scarred with criticism and words that someone didn&#8217;t think about before they spoke. I would see something that, if it could, would run to the mountains or the stars. I protect it from loving recklessly, living vulnerably, saying what it wants to say, being rejected. I protect it from everything but myself, and it is now dependent upon me, even though I think I hurt it the most.
-    </p>
-    
-    <p>
-      But that little Self chose to be here, chose to align itself with a heart and a mind that would often berate it and be cruel to it. Chose to deal with the pain of rejection, the pain of comparison, the pain of things going wrong. That little Self is more courageous than I think she is. The little engine that could, that would, that <i>does</i>.
-    </p>
-    
-    <p>
-      I rest on that carpet Sunday afternoon, and I look up at the tilted world around me. There&#8217;s a navy blue quote board above the desk in the living room that says &#8220;Live Well, Laugh Often, Love Much,&#8221; and it&#8217;s glowing in a spatter of sunlight. Just a little bit that speckles it like freckles. And for some reason, I&#8217;m fixated on those freckles. They change something in me.
-    </p>
-    
-    <p>
-      As I lie on that carpet, I feel a distinct contrast between the previous dark and lonely Friday night and this Sunday afternoon. Isolation in a chaotic room vs. liberation in a narrow hall. Physical pain vs. mental peace. Seeing myself as a failure who only ruins the things she tries to build vs. seeing myself as a girl, as a 21-year old girl with a whole lifetime to create, as a girl who sometimes break things, but always builds something new up in place of them. I was hunched over, crying out to Heavenly Father and pleading for the ability to give my burdens, my fears to my Savior. Now, I&#8217;m spread out, wondering at the strange calm bubbling in my chest as I realize that he&#8217;s already trying to take those burdens from me and that I have the ability, but that I&#8217;m reluctant, because these emotions are easy and familiar to me. He&#8217;s standing at the door, waiting to redo the inside of the house I&#8217;ve occupied, but I&#8217;m not opening it for him for fear that I won&#8217;t recognize the final product, that I&#8217;ll be living in a house that isn&#8217;t mine when, from the very beginning, it never was. I&#8217;ve built around experience and failure. He builds around who he knew me to be and knows me to become.
-    </p>
-    
-    <p>
-      On that carpet, I open the door just a crack, and even a crack is enough to feel something. That something is the thing with feathers, the thing that, as the poet Emily Dickinson said, &#8220;perches in the soul &#8211; and sings the tune without the words &#8211; and never stops &#8211; at all.
-    </p>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-      <span style="color: #bf9000;">&#8220;And sweetest &#8211; in the Gale &#8211; is heard &#8211;</span>
-    </div>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-      <span style="color: #bf9000;">And sore must be the storm &#8211;</span>
-    </div>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-      <span style="color: #bf9000;">That could abash the little Bird</span>
-    </div>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-      <span style="color: #bf9000;">That kept so many warm &#8211;</span>
-    </div>
-    
-    <div style="text-align: center;">
-      <span style="color: #bf9000;"><br style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px;" /></span>
-    </div>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-      <span style="color: #bf9000;">&#8220;I’ve heard it in the chillest land &#8211;</span>
-    </div>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-      <span style="color: #bf9000;">And on the strangest Sea &#8211;</span>
-    </div>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-      <span style="color: #bf9000;">Yet &#8211; never &#8211; in Extremity,</span>
-    </div>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-      <span style="color: #bf9000;">It asked a crumb &#8211; of me.&#8221;</span>
-    </div>
-    
-    <div style="background-color: white; font-family: Georgia; font-size: 16px; line-height: 24px; padding-left: 1em; text-align: center; text-indent: -1em;">
-    </div>
-    
-    <div style="background-color: white; line-height: 24px; padding-left: 1em; text-align: left; text-indent: -1em;">
-      <span style="font-family: inherit;">That thing is hope.&nbsp;</span>
-    </div>
-    
-    <div style="background-color: white; line-height: 24px; padding-left: 1em; text-align: left; text-indent: -1em;">
-      <span style="font-family: inherit;"><br /></span>
-    </div>
-    
-    <div style="background-color: white; line-height: 24px; padding-left: 1em; text-align: left; text-indent: -1em;">
-      <span style="font-family: inherit;">Hope is not often overwhelming &#8212; it doesn&#8217;t come into town like the circus. Hope is the thing that catches you off guard in the quiet moments, the thing that flutters in your chest to let you know that it is there. Hope is the thing with feathers</span>
-    </div>
-    
-    <div style="background-color: white; line-height: 24px; padding-left: 1em; text-align: left; text-indent: -1em;">
-      <span style="font-family: inherit;"><br /></span>
-    </div>
-    
-    <div style="background-color: white; line-height: 24px; padding-left: 1em; text-align: left; text-indent: -1em;">
-      <span style="font-family: inherit;">The thing spotted in specks of sun.</span>
-    </div>
-  </div>
-  
-  <div style="background-color: white; line-height: 24px; padding-left: 1em; text-align: left; text-indent: -1em;">
-    <span style="font-family: inherit;"><br /></span>
-  </div>
-  
-  <div style="background-color: white; line-height: 24px; padding-left: 1em; text-align: left; text-indent: -1em;">
-    <img src="http://www.igobyari.com/wp-content/uploads/2013/11/6833910545_761dab6a06_z.jpg" />
-  </div>
-</div>
+
+![](http://www.igobyari.com/wp-content/uploads/2013/11/6833910545_761dab6a06_z.jpg)

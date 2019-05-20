@@ -21,6 +21,12 @@ tags:
   - Uncategorized
 
 ---
-<div dir="ltr" style="text-align: left;">
-  <i>The mom who puts 5,001 photos of her baby on Facebook.&nbsp;</i><br /><i><br /></i><i>The old woman whose body is incapable of doing anything besides pumping blood and being confined to a chair.&nbsp;</i><br /><i><br /></i><i>The employee whose favorite conversations are all spoken behind a back.&nbsp;</i><br /><i><br /></i><i>The girl who has to have perfect hair and perfect makeup at all costs.&nbsp;</i><br /><i><br /></i><i>The writer who sacrifices her values to be &#8220;real&#8221;.&nbsp;</i><br /><i><br /></i><i>The Mormon who scoffs at those who struggle instead of being sensitive.&nbsp;</i><br /><i><br /></i><i>The woman who finds womanhood to be mundane. &nbsp;</i><br /><i><br /></i><i>The speaker who doesn&#8217;t listen.&nbsp;</i><br /><i><br /></i><i>The climber who doesn&#8217;t savor the top of the climb.&nbsp;</i>
-</div>
+_The mom who puts 5,001 photos of her baby on Facebook. _  
+_The old woman whose body is incapable of doing anything besides pumping blood and being confined to a chair. _  
+_The employee whose favorite conversations are all spoken behind a back. _  
+_The girl who has to have perfect hair and perfect makeup at all costs. _  
+_The writer who sacrifices her values to be “real”. _  
+_The Mormon who scoffs at those who struggle instead of being sensitive. _  
+_The woman who finds womanhood to be mundane.  _  
+_The speaker who doesn’t listen. _  
+_The climber who doesn’t savor the top of the climb. _

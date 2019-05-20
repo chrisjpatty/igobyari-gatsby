@@ -21,20 +21,10 @@ tags:
   - thoughts
 
 ---
-<div dir="ltr" style="text-align: left;">
-  Today another girl in my ward announced her call. Sometimes I wish I could be that girl.</p> 
-  
-  <p>
-    I was driving home from church and listening to Hill Cumorah soundtrack and missing it so badly that it made me cry. I&#8217;m desperate for that feeling again. It was the most amazing feeling I&#8217;ve ever had in my entire life, and I want it back. I haven&#8217;t yet been able to replicate it on my own, and I think that&#8217;s part of the reason why I want to serve so much. A mission would bring it back.
-  </p>
-  
-  <p>
-    Sometimes I think I talk about going so much because I just want to get away from where I am. I love my ward, my family, but I don&#8217;t love being harassed so much about marriage and careers and what I&#8217;m doing with my degree and who I&#8217;m dating, whom, at the moment, is no one, and I&#8217;m perfectly happy with that.
-  </p>
-  
-  <p>
-    I want to give the Lord a year and a half of my life. He gave me four great years at Utah State, and I want to repay him. I wish it were that easy.
-  </p>
-  
-  <p>
-    </div>
+Today another girl in my ward announced her call. Sometimes I wish I could be that girl.
+
+I was driving home from church and listening to Hill Cumorah soundtrack and missing it so badly that it made me cry. I’m desperate for that feeling again. It was the most amazing feeling I’ve ever had in my entire life, and I want it back. I haven’t yet been able to replicate it on my own, and I think that’s part of the reason why I want to serve so much. A mission would bring it back.
+
+Sometimes I think I talk about going so much because I just want to get away from where I am. I love my ward, my family, but I don’t love being harassed so much about marriage and careers and what I’m doing with my degree and who I’m dating, whom, at the moment, is no one, and I’m perfectly happy with that.
+
+I want to give the Lord a year and a half of my life. He gave me four great years at Utah State, and I want to repay him. I wish it were that easy.

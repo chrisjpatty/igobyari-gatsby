@@ -21,8 +21,4 @@ tags:
   - music
 
 ---
-<div dir="ltr" style="text-align: left;">
-  Here are a few songs that truly define my life and my experiences, particularly my weaknesses:</p> 
-  
-  <p>
-    <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F6847039" width="100%"></iframe><br /><iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F59497948" width="100%"></iframe> <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F62375819" width="100%"></iframe> <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32435196" width="100%"></iframe> <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F90149704" width="100%"></iframe> <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F66072308" width="100%"></iframe> <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F4729615" width="100%"></iframe> </div>
+Here are a few songs that truly define my life and my experiences, particularly my weaknesses:

@@ -25,24 +25,12 @@ tags:
   - life
 
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both;">
-    Hi. My name&#8217;s Ari, and I&#8217;m human.
-  </div>
-  
-  <p>
-    In high school, my best friend said my teeth made me look like a chipmunk and I&#8217;ve been somewhat self-conscious of them ever since. I love harmonizing with the radio in my car, but the idea of singing karaoke terrifies me. I get attached to people easily. I hate November, because I tend to get my heart broken in November. I&#8217;m kind of impatient and need to be in control of situations to feel comfortable. I have road mild annoyance and sometimes road rage. If I&#8217;m feeling particularly introverted, I can convince myself out of doing anything. Last fall, I had a major anxiety attack, and this fall, I learned that anxiety can come back. If it&#8217;s not obvious at this point, I stink at dating. I push people away a lot. One of my worst fears is that I disappoint people, that I&#8217;m not what they expect, or that I&#8217;m better in writing. I can&#8217;t enjoy football, no matter how hard I try. I&#8217;ve tripped while going upstairs twice this month. I often feel lonely. I&#8217;ve got a rebellious streak in me. If I&#8217;m not careful, I&#8217;m &#8220;that Mormon&#8221; who raises her hand in class to correct the teacher&#8217;s doctrine/tone. Growing up, I was painfully shy and, as a result, have this complex where I worry I&#8217;ll always be overlooked. I&#8217;m too sensitive. I really like being right. Grammar mistakes throw me into a tizzy, especially when they&#8217;re my own. People can annoy me really easily if I&#8217;m not careful. I&#8217;m a worry wart. And I&#8217;m often more selfish than any person should be.
-  </p>
-  
-  <p>
-    Hi, my name&#8217;s Ari. I&#8217;m flawed, but I&#8217;m real.
-  </p>
-  
-  <p>
-    Having broken away from my social media for a bit, I thought it was important to mention that.
-  </p>
-  
-  <p>
-    Love: Me
-  </p>
-</div>
+Hi. My name’s Ari, and I’m human.
+
+In high school, my best friend said my teeth made me look like a chipmunk and I’ve been somewhat self-conscious of them ever since. I love harmonizing with the radio in my car, but the idea of singing karaoke terrifies me. I get attached to people easily. I hate November, because I tend to get my heart broken in November. I’m kind of impatient and need to be in control of situations to feel comfortable. I have road mild annoyance and sometimes road rage. If I’m feeling particularly introverted, I can convince myself out of doing anything. Last fall, I had a major anxiety attack, and this fall, I learned that anxiety can come back. If it’s not obvious at this point, I stink at dating. I push people away a lot. One of my worst fears is that I disappoint people, that I’m not what they expect, or that I’m better in writing. I can’t enjoy football, no matter how hard I try. I’ve tripped while going upstairs twice this month. I often feel lonely. I’ve got a rebellious streak in me. If I’m not careful, I’m “that Mormon” who raises her hand in class to correct the teacher’s doctrine/tone. Growing up, I was painfully shy and, as a result, have this complex where I worry I’ll always be overlooked. I’m too sensitive. I really like being right. Grammar mistakes throw me into a tizzy, especially when they’re my own. People can annoy me really easily if I’m not careful. I’m a worry wart. And I’m often more selfish than any person should be.
+
+Hi, my name’s Ari. I’m flawed, but I’m real.
+
+Having broken away from my social media for a bit, I thought it was important to mention that.
+
+Love: Me

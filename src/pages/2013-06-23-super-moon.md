@@ -21,17 +21,6 @@ tags:
   - nature
 
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="text-align: center;">
-    She was gorgeous.&nbsp;
-  </div>
-  
-  <p>
-  </p>
-  
-  <div style="clear: both; text-align: center;">
-    <a href="http://www.igobyari.com/wp-content/uploads/2013/06/moon1-1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="426" src="http://www.igobyari.com/wp-content/uploads/2013/06/moon1.jpg" width="640" /></a>
-  </div>
-  
-  <p>
-    </div>
+She was gorgeous. 
+
+[![](http://www.igobyari.com/wp-content/uploads/2013/06/moon1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/moon1-1.jpg)

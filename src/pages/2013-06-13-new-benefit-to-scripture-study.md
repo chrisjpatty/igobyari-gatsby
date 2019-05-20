@@ -22,6 +22,4 @@ tags:
   - Mormon
 
 ---
-<div dir="ltr" style="text-align: left;">
-  I studied (<i>actually </i>studied) my scriptures this morning, and you know what? All day long I&#8217;ve had an extreme amount of patience with myself. Those inner gremlins that come to tell you why you&#8217;re a failure? They were significantly quieter today. What a blessing. I love the Book of Mormon.&nbsp;
-</div>
+I studied (_actually_ studied) my scriptures this morning, and you know what? All day long I’ve had an extreme amount of patience with myself. Those inner gremlins that come to tell you why you’re a failure? They were significantly quieter today. What a blessing. I love the Book of Mormon.

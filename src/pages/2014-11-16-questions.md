@@ -21,19 +21,6 @@ tags:
   - Uncategorized
 
 ---
-<div dir="ltr" style="text-align: left;">
-  Has Heavenly Father ever asked you to do something really hard for you? Something that seemed so at odds with the circumstances that you had no idea how or why you should do it? Maybe it was something involving your job or school, or maybe it was something involving another person and their agency.</p> 
-  
-  <div>
-  </div>
-  
-  <div>
-    How did you move forward when everything else seemed to push you back? </p> 
-    
-    <div>
-    </div>
-    
-    <div>
-    </div>
-  </div>
-</div>
+Has Heavenly Father ever asked you to do something really hard for you? Something that seemed so at odds with the circumstances that you had no idea how or why you should do it? Maybe it was something involving your job or school, or maybe it was something involving another person and their agency.
+
+How did you move forward when everything else seemed to push you back?

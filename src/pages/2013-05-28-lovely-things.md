@@ -21,83 +21,18 @@ tags:
   - photography
 
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <p>
-  </p>
-  
-  <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
-    <tr>
-      <td style="text-align: center;">
-        <a href="http://www.igobyari.com/wp-content/uploads/2013/05/sam-1.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="640" src="http://www.igobyari.com/wp-content/uploads/2013/05/sam.jpg" width="494" /></a>
-      </td>
-    </tr>
-    
-    <tr>
-      <td style="text-align: center;">
-        My sister&#8217;s Siberian Husky, Sam
-      </td>
-    </tr>
-  </table>
-  
-  <p>
-  </p>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <p>
-  </p>
-  
-  <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
-    <tr>
-      <td style="text-align: center;">
-        <a href="http://www.igobyari.com/wp-content/uploads/2013/05/Georgie-1.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="640" src="http://www.igobyari.com/wp-content/uploads/2013/05/Georgie.jpg" width="426" /></a>
-      </td>
-    </tr>
-    
-    <tr>
-      <td style="text-align: center;">
-        Georgia, the family pig
-      </td>
-    </tr>
-  </table>
-  
-  <p>
-  </p>
-  
-  <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
-    <tr>
-      <td style="text-align: center;">
-        <a href="http://www.igobyari.com/wp-content/uploads/2013/05/bikeorange-1.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="640" src="http://www.igobyari.com/wp-content/uploads/2013/05/bikeorange.jpg" width="426" /></a>
-      </td>
-    </tr>
-    
-    <tr>
-      <td style="text-align: center;">
-        An old Schwinn bicycle
-      </td>
-    </tr>
-  </table>
-  
-  <p>
-  </p>
-  
-  <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
-    <tr>
-      <td style="text-align: center;">
-        <a href="http://www.igobyari.com/wp-content/uploads/2013/05/lola-1.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="426" src="http://www.igobyari.com/wp-content/uploads/2013/05/lola.jpg" width="640" /></a>
-      </td>
-    </tr>
-    
-    <tr>
-      <td style="text-align: center;">
-        Lola, the family pug
-      </td>
-    </tr>
-  </table>
-  
-  <p>
-    </div>
+[![](http://www.igobyari.com/wp-content/uploads/2013/05/sam.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/sam-1.jpg)
+
+My sister’s Siberian Husky, Sam
+
+[![](http://www.igobyari.com/wp-content/uploads/2013/05/Georgie.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Georgie-1.jpg)
+
+Georgia, the family pig
+
+[![](http://www.igobyari.com/wp-content/uploads/2013/05/bikeorange.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/bikeorange-1.jpg)
+
+An old Schwinn bicycle
+
+[![](http://www.igobyari.com/wp-content/uploads/2013/05/lola.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/lola-1.jpg)
+
+Lola, the family pug

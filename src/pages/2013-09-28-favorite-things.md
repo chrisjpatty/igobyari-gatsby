@@ -21,6 +21,37 @@ tags:
   - Uncategorized
 
 ---
-<div dir="ltr" style="text-align: left;">
-  jazz music<br />autumn in the canyon<br />scenic lake views<br />audrey hepburn movies<br />color coordination<br />full bookshelves<br />bollywood dancing<br />completing a climb<br />dancing in my bedroom<br />singing in my car<br />early morning temple trips<br />slurpees<br />native american prints<br />hymns sung acapella<br />dresses<br />rainy streets at night<br />chili<br />puppies<br />bbc period romances<br />stars and pictures of stars<br />reading in a comfy chair<br />dream catchers<br />ghost stories<br />the opinion section of the paper<br />the feel of scripture paper<br />fish<br />music from other cultures<br />political bumperstickers<br />feathers<br />quiet time<br />genuine smiles<br />rocks and minerals<br />thunderstorms<br />poetry</p>
-</div>
+jazz music  
+autumn in the canyon  
+scenic lake views  
+audrey hepburn movies  
+color coordination  
+full bookshelves  
+bollywood dancing  
+completing a climb  
+dancing in my bedroom  
+singing in my car  
+early morning temple trips  
+slurpees  
+native american prints  
+hymns sung acapella  
+dresses  
+rainy streets at night  
+chili  
+puppies  
+bbc period romances  
+stars and pictures of stars  
+reading in a comfy chair  
+dream catchers  
+ghost stories  
+the opinion section of the paper  
+the feel of scripture paper  
+fish  
+music from other cultures  
+political bumperstickers  
+feathers  
+quiet time  
+genuine smiles  
+rocks and minerals  
+thunderstorms  
+poetry

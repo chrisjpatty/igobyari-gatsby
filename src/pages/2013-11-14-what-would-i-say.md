@@ -21,164 +21,84 @@ tags:
   - Uncategorized
 
 ---
-<div dir="ltr" style="text-align: left;">
-  So there&#8217;s this funny website that takes your Facebook statuses and meshes them together at random to form sentences that sound like the way you talk (<a href="http://what-would-i-say.com/about.html">http://what-would-i-say.com/about.html</a>). Apparently, this is how I sound on a consistent basis:</p> 
-  
-  <p>
-    &#8220;Chris Christie will not marry Christmas, thanks, though!&#8221;
-  </p>
-  
-  <p>
-    &#8220;Trevor Rabin, Hans Zimmer, Rachel Portman, Thomas Newman, Dario Marianelli, Alexandre Desplat, James Madison is almost a spiritual experience.&#8221;
-  </p>
-  
-  <p>
-    &#8220;It&#8217;s a few goals, dreams, happenings, and comparative politics.&#8221;
-  </p>
-  
-  <p>
-    &#8220;I just haven&#8217;t seen others question the Institute.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Pulling a George Albert.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Unfortunately, USU Alumni, I went rock climbing jargon.&#8221;
-  </p>
-  
-  <p>
-    &#8220;<span style="background-color: white; line-height: 33px; text-align: center;"><span style="font-family: inherit;">I just started a faction against Obama&#8221;</span></span>
-  </p>
-  
-  <p>
-    &#8220;PIRACY, NOT LIBERTY.&#8221;
-  </p>
-  
-  <p>
-    &#8220;It makes a person happy &#8212; HOBBIT EVE!&#8221;
-  </p>
-  
-  <p>
-    &#8220;Here&#8217;s a weak female, rather discouraged about things.&#8221;
-  </p>
-  
-  <p>
-    &#8220;I&#8217;ve got a hot air balloon in the UNIVERSE.&#8221;
-  </p>
-  
-  <p>
-    &#8220;She needs to leave you, even if you have the best compliment of all nations.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Tolkien &#8212; definitely not sacrifice my testimony of that.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Wherefore, ye must press forward with your relationship status.&#8221;
-  </p>
-  
-  <p>
-    &#8220;A sheep herding rabbit.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Writing is great, but it makes you feel so useless.&#8221;
-  </p>
-  
-  <p>
-    &#8220;I want to share an elephant. Heeyah!&#8221;
-  </p>
-  
-  <p>
-    &#8220;Who would sell, buy, or wear this.&#8221;
-  </p>
-  
-  <p>
-    &#8220;I&#8217;m all for farmers. Please contact me.&#8221;
-  </p>
-  
-  <p>
-    &#8220;I&#8217;m all for the issues that ever BEEN THINGED.&#8221;
-  </p>
-  
-  <p>
-    &#8220;We are trying not to implode with a scarf.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Well, we should feel scammed.&#8221;
-  </p>
-  
-  <p>
-    &#8220;It&#8217;s good that I&#8217;m being a bench?&#8221;
-  </p>
-  
-  <p>
-    &#8220;How about that Casey Anthony?&#8221;
-  </p>
-  
-  <p>
-    &#8220;I want you to condemn religious beliefs.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Party in prose.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Writing is great, but it&#8217;s kind of extreme sports.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Really. I don&#8217;t understand satire or puffer fish!&#8221;
-  </p>
-  
-  <p>
-    &#8220;Watch out for the &#8216;middle class&#8217;?&#8221;
-  </p>
-  
-  <p>
-    &#8220;I want to get sickness to go see this.&#8221;
-  </p>
-  
-  <p>
-    &#8220;GONZAGA. Curse you, chocolate ice cream while sifting through my veins.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Eat, sleep, do homework, go to stand on sidewalks&#8230;&#8221;
-  </p>
-  
-  <p>
-    &#8220;An intriguing sneak peek into the carpet and Alex Boye! Coolest thing ever!&#8221;
-  </p>
-  
-  <p>
-    &#8220;I want to hurt Christopher Paolini severely.&#8221;
-  </p>
-  
-  <p>
-    &#8220;*evil, devil&#8217;s advocate grin*&#8221;
-  </p>
-  
-  <p>
-    &#8220;Moroni photo shoot with my favorite seminary teacher. He is neat.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Gaddafi and Rice 2012!&#8221;
-  </p>
-  
-  <p>
-    &#8220;I&#8217;m all like, OMNOMNOM.&#8221;
-  </p>
-  
-  <p>
-    &#8220;Buyin&#8217; fishies at the Smithfield.&#8221;
-  </p>
-  
-  <p>
-    &#8220;I want to get a stand, and nothing beats a pug in a nutshell.&#8221;</div>
+So there’s this funny website that takes your Facebook statuses and meshes them together at random to form sentences that sound like the way you talk ([http://what-would-i-say.com/about.html](http://what-would-i-say.com/about.html)). Apparently, this is how I sound on a consistent basis:
+
+“Chris Christie will not marry Christmas, thanks, though!”
+
+“Trevor Rabin, Hans Zimmer, Rachel Portman, Thomas Newman, Dario Marianelli, Alexandre Desplat, James Madison is almost a spiritual experience.”
+
+“It’s a few goals, dreams, happenings, and comparative politics.”
+
+“I just haven’t seen others question the Institute.”
+
+“Pulling a George Albert.”
+
+“Unfortunately, USU Alumni, I went rock climbing jargon.”
+
+“I just started a faction against Obama”
+
+“PIRACY, NOT LIBERTY.”
+
+“It makes a person happy — HOBBIT EVE!”
+
+“Here’s a weak female, rather discouraged about things.”
+
+“I’ve got a hot air balloon in the UNIVERSE.”
+
+“She needs to leave you, even if you have the best compliment of all nations.”
+
+“Tolkien — definitely not sacrifice my testimony of that.”
+
+“Wherefore, ye must press forward with your relationship status.”
+
+“A sheep herding rabbit.”
+
+“Writing is great, but it makes you feel so useless.”
+
+“I want to share an elephant. Heeyah!”
+
+“Who would sell, buy, or wear this.”
+
+“I’m all for farmers. Please contact me.”
+
+“I’m all for the issues that ever BEEN THINGED.”
+
+“We are trying not to implode with a scarf.”
+
+“Well, we should feel scammed.”
+
+“It’s good that I’m being a bench?”
+
+“How about that Casey Anthony?”
+
+“I want you to condemn religious beliefs.”
+
+“Party in prose.”
+
+“Writing is great, but it’s kind of extreme sports.”
+
+“Really. I don’t understand satire or puffer fish!”
+
+“Watch out for the ‘middle class’?”
+
+“I want to get sickness to go see this.”
+
+“GONZAGA. Curse you, chocolate ice cream while sifting through my veins.”
+
+“Eat, sleep, do homework, go to stand on sidewalks…”
+
+“An intriguing sneak peek into the carpet and Alex Boye! Coolest thing ever!”
+
+“I want to hurt Christopher Paolini severely.”
+
+“\*evil, devil’s advocate grin\*”
+
+“Moroni photo shoot with my favorite seminary teacher. He is neat.”
+
+“Gaddafi and Rice 2012!”
+
+“I’m all like, OMNOMNOM.”
+
+“Buyin’ fishies at the Smithfield.”
+
+“I want to get a stand, and nothing beats a pug in a nutshell.”

@@ -21,41 +21,6 @@ tags:
   - life
 
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
-    Can we talk about the fact that this letter came in the mail today? Oh my word. It&#8217;s actually happening.&nbsp;
-  </div>
-  
-  <div style="clear: both; text-align: left;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-    <a href="http://www.igobyari.com/wp-content/uploads/2014/01/usucollage.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://www.igobyari.com/wp-content/uploads/2014/01/usucollage.jpg" height="320" width="640" /></a>
-  </div>
-  
-  <p>
-    </div>
+Can we talk about the fact that this letter came in the mail today? Oh my word. It’s actually happening. 
+
+[![](http://www.igobyari.com/wp-content/uploads/2014/01/usucollage.jpg)](http://www.igobyari.com/wp-content/uploads/2014/01/usucollage.jpg)

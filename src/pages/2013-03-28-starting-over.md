@@ -21,22 +21,12 @@ tags:
   - boys
 
 ---
-<div dir="ltr" style="text-align: left;">
-  Today I discovered why I&#8217;ve had such an attitude about dating lately: it&#8217;s mainly me.</p> 
-  
-  <p>
-    Let&#8217;s be honest. I&#8217;m picky, I&#8217;m a bit a flighty, I do not just hand people my heart. I set huge expectations that seem to always fall apart. When someone gives me an inch of space, I run a mile . . . away. And I always end up in stupid situations.
-  </p>
-  
-  <p>
-    UGHHHHHH. Tempered with the fact that I&#8217;ve got a major attraction to Number Five, my relationships with other guys are just not happening.
-  </p>
-  
-  <p>
-    So I&#8217;m starting over. Clean slate. Maybe I should take a break from dating guys to just date myself for awhile, really come to understand who I am and what I want/need first.
-  </p>
-  
-  <p>
-    That actually is not a bad idea.&nbsp;
-  </p>
-</div>
+Today I discovered why I’ve had such an attitude about dating lately: it’s mainly me.
+
+Let’s be honest. I’m picky, I’m a bit a flighty, I do not just hand people my heart. I set huge expectations that seem to always fall apart. When someone gives me an inch of space, I run a mile . . . away. And I always end up in stupid situations.
+
+UGHHHHHH. Tempered with the fact that I’ve got a major attraction to Number Five, my relationships with other guys are just not happening.
+
+So I’m starting over. Clean slate. Maybe I should take a break from dating guys to just date myself for awhile, really come to understand who I am and what I want/need first.
+
+That actually is not a bad idea.

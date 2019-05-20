@@ -22,19 +22,4 @@ tags:
   - shy
 
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="text-align: center;">
-    Let me show you what happens to me when I really like someone:&nbsp;
-  </div>
-  
-  <div>
-    <i><br /></i>
-  </div>
-  
-  <div style="clear: both; text-align: center;">
-  </div>
-  
-  <div>
-    <i><br /></i>
-  </div>
-</div>
+Let me show you what happens to me when I really like someone:

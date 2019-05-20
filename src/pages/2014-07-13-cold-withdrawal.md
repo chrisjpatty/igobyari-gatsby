@@ -22,76 +22,32 @@ tags:
   - writing
 
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="text-align: center;">
-    I consider myself to be a glacier,
-  </div>
-  
-  <div style="text-align: center;">
-    moving inch by arctic inch and
-  </div>
-  
-  <div style="text-align: center;">
-    breaking apart invisibly,
-  </div>
-  
-  <div style="text-align: center;">
-  </div>
-  
-  <div style="text-align: center;">
-    always in a slow retreat.
-  </div>
-  
-  <div style="text-align: center;">
-  </div>
-  
-  <div style="text-align: center;">
-    I&#8217;m an avalanche when moments don&#8217;t matter,
-  </div>
-  
-  <div style="text-align: center;">
-    but packed ice when they do,
-  </div>
-  
-  <div style="text-align: center;">
-    sealed tight for fear of shattering,
-  </div>
-  
-  <div style="text-align: center;">
-    wearing my white mourning garb for
-  </div>
-  
-  <div style="text-align: center;">
-    the crevasses that still
-  </div>
-  
-  <div style="text-align: center;">
-    cut through,
-  </div>
-  
-  <div style="text-align: center;">
-  </div>
-  
-  <div style="text-align: center;">
-    old scars that erode me anew.
-  </div>
-  
-  <div style="text-align: center;">
-  </div>
-  
-  <div style="text-align: center;">
-    Sliding away,
-  </div>
-  
-  <div style="text-align: center;">
-    piece by icy piece,
-  </div>
-  
-  <div style="text-align: center;">
-    I give,
-  </div>
-  
-  <div style="text-align: center;">
-    because I don&#8217;t know how to take.
-  </div>
-</div>
+I consider myself to be a glacier,
+
+moving inch by arctic inch and
+
+breaking apart invisibly,
+
+always in a slow retreat.
+
+I’m an avalanche when moments don’t matter,
+
+but packed ice when they do,
+
+sealed tight for fear of shattering,
+
+wearing my white mourning garb for
+
+the crevasses that still
+
+cut through,
+
+old scars that erode me anew.
+
+Sliding away,
+
+piece by icy piece,
+
+I give,
+
+because I don’t know how to take.

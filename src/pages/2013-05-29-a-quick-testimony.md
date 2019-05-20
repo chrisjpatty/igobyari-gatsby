@@ -21,14 +21,8 @@ tags:
   - beliefs
 
 ---
-<div dir="ltr" style="text-align: left;">
-  Visiting teaching has done more good for me than I think it has done for anyone we&#8217;ve taught. You think it&#8217;s an obligation that forces you to serve others, but it&#8217;s really a blessing that helps you to understand who you and the people around you are. For a half hour or so, you get to bring someone the spirit. That is incredible! </p> 
-  
-  <p>
-    Tonight I felt a bit miserable, but I somehow managed to pick the exact message <i>I</i> needed to hear tonight. After visiting with one of our sisters, I felt so, so good. And happy.
-  </p>
-  
-  <p>
-    Visiting teaching does this consistently. That&#8217;s why we need to do it.&nbsp;
-  </p>
-</div>
+Visiting teaching has done more good for me than I think it has done for anyone we’ve taught. You think it’s an obligation that forces you to serve others, but it’s really a blessing that helps you to understand who you and the people around you are. For a half hour or so, you get to bring someone the spirit. That is incredible!
+
+Tonight I felt a bit miserable, but I somehow managed to pick the exact message _I_ needed to hear tonight. After visiting with one of our sisters, I felt so, so good. And happy.
+
+Visiting teaching does this consistently. That’s why we need to do it.

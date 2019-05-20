@@ -21,52 +21,77 @@ tags:
   - writing
 
 ---
-<div dir="ltr" style="text-align: left;">
-  pasty linoleum,<br />fish-eyed fifteen year-olds,<br />cluttered restroom counters,<br />cafeteria milk cartons<br />crunched into Stonehenge<br />monuments through<br />the halls</p> 
-  
-  <p>
-    days in tinsel town<br />when the future<br />was unpredictable<br />but we weren&#8217;t
-  </p>
-  
-  <p>
-    you and I weren&#8217;t
-  </p>
-  
-  <p>
-    smashing lockers,<br />tears in bathroom stalls,<br />shirts ripped untucked,<br />up-dos after laughed-at<br />attempts to curl my<br />hair on my own,<br />long and angry letters,<br />cold and bitter shoulders,<br />shrinking away into<br />spaceless corners, wherein<br />I prayed you couldn&#8217;t<br />find enough air<br />to say the things<br />you said to me
-  </p>
-  
-  <p>
-    making jokes you said<br />you never meant,<br />making jabs you said<br />would make me stronger
-  </p>
-  
-  <p>
-    a day after you told me my hair<br />was ugly long,<br />I chopped all of it off<br />and couldn&#8217;t look at myself<br />in the mirror without wanting<br />to cry
-  </p>
-  
-  <p>
-    I loved you like a sister<br />because you had great moments,<br />moments that are harder<br />for me to remember
-  </p>
-  
-  <p>
-    if you knew how many times<br />I&#8217;ve written about you,<br />how many times you&#8217;ve influenced<br />everything I&#8217;ve ever said<br />and everything I&#8217;ve ever done<br />since then . . .
-  </p>
-  
-  <p>
-    I don&#8217;t know how you&#8217;d feel
-  </p>
-  
-  <p>
-    grown up, we talk,<br />mostly about what&#8217;s important,<br />we can have a conversation<br />without it ending in a fight now
-  </p>
-  
-  <p>
-    but now and again<br />I can see that tone in your sentences,<br />feel my heart tremble,<br />feel myself shrink away<br />because everything comes back
-  </p>
-  
-  <p>
-    I catch myself grabbing<br />at my shoulder-length hair<br />and catch tears I<br />didn&#8217;t realize were coming
-  </p>
-  
-  <p>
-    the girl you were still haunts me<br />and I cannot forget her</div>
+pasty linoleum,  
+fish-eyed fifteen year-olds,  
+cluttered restroom counters,  
+cafeteria milk cartons  
+crunched into Stonehenge  
+monuments through  
+the halls
+
+days in tinsel town  
+when the future  
+was unpredictable  
+but we weren’t
+
+you and I weren’t
+
+smashing lockers,  
+tears in bathroom stalls,  
+shirts ripped untucked,  
+up-dos after laughed-at  
+attempts to curl my  
+hair on my own,  
+long and angry letters,  
+cold and bitter shoulders,  
+shrinking away into  
+spaceless corners, wherein  
+I prayed you couldn’t  
+find enough air  
+to say the things  
+you said to me
+
+making jokes you said  
+you never meant,  
+making jabs you said  
+would make me stronger
+
+a day after you told me my hair  
+was ugly long,  
+I chopped all of it off  
+and couldn’t look at myself  
+in the mirror without wanting  
+to cry
+
+I loved you like a sister  
+because you had great moments,  
+moments that are harder  
+for me to remember
+
+if you knew how many times  
+I’ve written about you,  
+how many times you’ve influenced  
+everything I’ve ever said  
+and everything I’ve ever done  
+since then . . .
+
+I don’t know how you’d feel
+
+grown up, we talk,  
+mostly about what’s important,  
+we can have a conversation  
+without it ending in a fight now
+
+but now and again  
+I can see that tone in your sentences,  
+feel my heart tremble,  
+feel myself shrink away  
+because everything comes back
+
+I catch myself grabbing  
+at my shoulder-length hair  
+and catch tears I  
+didn’t realize were coming
+
+the girl you were still haunts me  
+and I cannot forget her

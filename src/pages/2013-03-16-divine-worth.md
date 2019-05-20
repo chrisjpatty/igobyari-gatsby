@@ -26,8 +26,4 @@ tags:
   - photography
 
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
-    <a style="margin-left: 1em; margin-right: 1em;" href="http://www.igobyari.com/wp-content/uploads/2013/03/edithalf1-1.jpg"><img src="http://www.igobyari.com/wp-content/uploads/2013/03/edithalf1.jpg" alt="" width="425" height="640" border="0" /></a>
-  </div>
-</div>
+[![](http://www.igobyari.com/wp-content/uploads/2013/03/edithalf1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/03/edithalf1-1.jpg)
