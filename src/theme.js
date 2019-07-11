@@ -1,6 +1,6 @@
 export default {
   fonts: {
-    title: `'Old Standard TT', serif`,
+    title: `'Marcellus', serif`,
     body: `'Rubik', sans-serif`
   },
   media: {

@@ -8,11 +8,13 @@ import Content, { HTMLContent } from '../components/Content'
 import styled from '@emotion/styled'
 
 export const BlogPostTemplate = ({
+  htmlAst,
   content,
   contentComponent,
   description,
   tags,
   title,
+  date,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -23,9 +25,12 @@ export const BlogPostTemplate = ({
       <Title>
         {title}
       </Title>
+      <DateWrapper>
+        {date}
+      </DateWrapper>
       <Description>{description}</Description>
       <ContentWrapper>
-        <PostContent content={content} />
+        <PostContent htmlAst={htmlAst} content={content} />
       </ContentWrapper>
       {/* {tags && tags.length ? (
         <div>
@@ -44,7 +49,7 @@ export const BlogPostTemplate = ({
 }
 
 BlogPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
+  // content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
@@ -53,11 +58,10 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-
   return (
     <Layout>
       <BlogPostTemplate
-        content={post.html}
+        htmlAst={post.htmlAst}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
@@ -71,6 +75,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        date={post.frontmatter.date}
       />
     </Layout>
   )
@@ -88,7 +93,7 @@ export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
-      html
+      htmlAst
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
@@ -110,9 +115,9 @@ const Title = styled('h1')({
   fontSize: 50,
   textAlign: 'center',
   width: '100%',
-  maxWidth: 700,
+  maxWidth: 900,
   marginBottom: 0,
-  fontStyle: 'italic',
+  // fontStyle: 'italic',
   fontWeight: 400,
 }, ({theme}) => ({
   [theme.media.sm]: {
@@ -121,16 +126,40 @@ const Title = styled('h1')({
   }
 }))
 
+const DateWrapper = styled('span')({
+  textAlign: 'center',
+  marginTop: 30
+})
+
 const Description = styled('p')({
 
 })
 
 const ContentWrapper = styled('article')({
   width: '100%',
-  maxWidth: 700,
-  fontSize: 20,
+  maxWidth: 900,
+  fontSize: 21,
+  fontWeight: 300,
+  lineHeight: 1.6,
+  padding: '0px 20px',
   '& p': {
     // textAlign: 'justify'
+  },
+  '&::first-letter': {
+    fontSize: '475%',
+    fontStyle: 'normal',
+    fontWeight: 400,
+    verticalAlign: 'top',
+    lineHeight: .6,
+    float: 'left',
+    padding: '18px 0px 15px 0px',
+    marginRight: 13,
+    // background: '#000000',
+    marginTop: 0,
+    // color: '#fff',
+    // borderRadius: 3,
+    fontFamily: "'Marcellus', serif",
+    textTransform: 'uppercase'
   }
 }, ({theme}) => ({
   [theme.media.sm]: {
@@ -138,3 +167,18 @@ const ContentWrapper = styled('article')({
     padding: '0px 20px'
   }
 }))
+
+/*
+fontSize: '380%',
+fontStyle: 'normal',
+fontWeight: 600,
+verticalAlign: 'top',
+lineHeight: .6,
+float: 'left',
+padding: '18px 10px 15px 5px',
+marginRight: 15,
+background: '#000000',
+marginTop: 10,
+color: '#fff',
+// borderRadius: 3,
+fontFamily: "'Marcellus', serif"*/

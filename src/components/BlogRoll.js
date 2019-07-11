@@ -111,7 +111,6 @@ const PostMeta = styled('div')({
     color: 'inherit',
     // textTransform: 'uppercase',
     fontSize: 36,
-    fontStyle: 'normal',
     textDecoration: 'none',
     // paddingLeft: 20
   }
