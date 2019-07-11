@@ -5,7 +5,10 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import FeaturedImage from 'gatsby-image'
 import styled from '@emotion/styled'
+import { css } from '@emotion/core'
+import ShareIcons from '../components/ShareIcons'
 
 export const BlogPostTemplate = ({
   htmlAst,
@@ -14,20 +17,26 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
+  featuredimage,
   date,
   helmet,
+  slug
 }) => {
   const PostContent = contentComponent || Content
-
   return (
     <PageWrapper>
       {helmet || ''}
+      {
+        featuredimage &&
+        <FeaturedImage className='featured-image' fluid={featuredimage.childImageSharp.fluid} />
+      }
       <Title>
         {title}
       </Title>
       <DateWrapper>
         {date}
       </DateWrapper>
+      <ShareIcons slug={slug} />
       <Description>{description}</Description>
       <ContentWrapper>
         <PostContent htmlAst={htmlAst} content={content} />
@@ -76,6 +85,8 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         date={post.frontmatter.date}
+        featuredimage={post.frontmatter.featuredimage}
+        slug={post.fields.slug}
       />
     </Layout>
   )
@@ -94,9 +105,25 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       htmlAst
+      fields{
+        slug
+      }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        featuredimage{
+          childImageSharp{
+            fluid{
+              tracedSVG
+              aspectRatio
+              src
+              srcSet
+              sizes
+              presentationWidth
+              presentationHeight
+            }
+          }
+        }
         description
         tags
       }
@@ -108,7 +135,12 @@ const PageWrapper = styled('div')({
   width: '100%',
   display: 'flex',
   flexDirection: 'column',
-  alignItems: 'center'
+  alignItems: 'center',
+  '& .featured-image': {
+    width: '100%',
+    maxWidth: 1200,
+    maxHeight: 700
+  }
 })
 
 const Title = styled('h1')({

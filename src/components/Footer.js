@@ -25,11 +25,13 @@ const Wrapper = styled('div')({
 
 const Footer = styled('footer')({
   width: '100%',
-  maxWidth: 700,
+  maxWidth: 900,
   textAlign: 'left',
   flex: '1 0 auto',
-  padding: '30px 0px'
+  padding: '30px 20px',
+  fontWeight: 300
 }, ({theme}) => ({
+  fontFamily: theme.fonts.body,
   [theme.media.sm]: {
     padding: '30px 20px'
   }
