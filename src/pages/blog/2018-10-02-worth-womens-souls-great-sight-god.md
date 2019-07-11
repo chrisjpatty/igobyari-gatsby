@@ -1,31 +1,10 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 title: The Worth of a Woman’s Soul is Great in the Sight of God
-author: ariwrees
-type: post
-date: 2018-10-02T04:40:40+00:00
-url: /?p=2993
-slide_template:
-  - default
-essb_pc_facebook:
-  - 5
-pmc_featured_category:
-  - 1
-pmc_featured_post:
-  - 1
-rima_post_layout:
-  - default
-rima_post_sidebar:
-  - default
-rima_gallery_post_layout:
-  - slideshow
-wpmm_postgrid_views:
-  - 969
-categories:
-  - Gospel
+date: 2018-10-02T04:40:40.000Z
+featuredimage: /img/tachina-lee-wjk_ssqce4-unsplash.jpg
 tags:
   - womanhood
-
 ---
 <p style="text-align: left;">
   <em>This post originated as a thread on Twitter, which you can read here: </em>
@@ -41,8 +20,6 @@ tags:
   </p>
 </blockquote>
 
-
-
 This week, I listened to a woman share one of her hardest trials with a group of Latter-day Saint women. (For the sake of her privacy, we&#8217;ll call her Jessica.) Jessica&#8217;s grandmother was a very traditional woman who reinforced over and over again to her daughters that a woman&#8217;s worth was dependent upon being a mother. It was a message her daughters in turn internalized.
 
 Jessica&#8217;s mom got married and had eight kids, seven boys and one girl. As the only the daughter, and because of what her mother had been taught, Jessica was told her whole life that her greatest value as a woman would be found in motherhood. Jessica married and soon after, she and her husband tried to start their family. They tried for month after agonizing month until they eventually decided to see a doctor. That doctor informed Jessica that she was infertile and they would never be able to have their own children.
@@ -52,11 +29,9 @@ I listened to this woman weep as she shared how she has spent years feeling brok
 As I listened to Jessica&#8217;s story, I went from feeling heartbroken to angry, angry that this is the narrative that many of us women have been fed; angry that there are people teaching and convincing women that our worth depends on external and often uncontrollable variables. I especially get frustrated by this because even though we spend _years_ teaching young women in the Church that the worth of SOULS is great in the sight of God, they&#8217;re still being convinced by ward members, family members, and some leaders that that worth has exceptions and limitations.
 
 It doesn&#8217;t. It&#8217;s inherent and infinite, and we need to change the way we talk about the worth of women.
-  
+
 <!--more-->
 
-
-  
 When I was a young woman and a college student, these limitations and expectations were everywhere. The moments I remember the most clearly are the ones that hurt deeply.
 
 I was almost 21 when the mission age was lowered for sisters. I had spent the previous months agonizing over whether I should serve, and the answer I kept getting was, &#8220;Not now.&#8221; It never felt like the direction I should take, though I&#8217;d look at pictures of my friends on their missions and ache for it. When the age change happened, the pressure associated with that choice mounted.
