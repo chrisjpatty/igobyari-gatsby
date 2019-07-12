@@ -28,7 +28,7 @@ const RelatedPost = ({fields, frontmatter}) => (
   <Wrapper href={fields.slug}>
     {
       frontmatter.featuredimage ?
-      <Img resize={frontmatter.featuredimage} />
+      <Img fixed={frontmatter.featuredimage} />
       :
       <ImagePlaceholder />
     }

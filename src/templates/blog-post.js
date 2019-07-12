@@ -144,7 +144,7 @@ export const pageQuery = graphql`
         title
         featuredimage{
           childImageSharp{
-            resize(width: 350, height: 200){
+            fixed(width: 350, height: 200){
               tracedSVG
               aspectRatio
               src
@@ -163,7 +163,7 @@ export const pageQuery = graphql`
         title
         featuredimage{
           childImageSharp{
-            resize(width: 350, height: 200){
+            fixed(width: 350, height: 200){
               tracedSVG
               aspectRatio
               src
@@ -182,7 +182,7 @@ export const pageQuery = graphql`
         title
         featuredimage{
           childImageSharp{
-            resize(width: 350, height: 200){
+            fixed(width: 350, height: 200){
               tracedSVG
               aspectRatio
               src
