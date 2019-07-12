@@ -9,6 +9,7 @@ import FeaturedImage from 'gatsby-image'
 import styled from '@emotion/styled'
 import { css } from '@emotion/core'
 import ShareIcons from '../components/ShareIcons'
+import RelatedPosts from '../components/RelatedPosts'
 
 export const BlogPostTemplate = ({
   htmlAst,
@@ -20,9 +21,11 @@ export const BlogPostTemplate = ({
   featuredimage,
   date,
   helmet,
-  slug
+  slug,
+  relatedPosts
 }) => {
   const PostContent = contentComponent || Content
+  console.log(relatedPosts);
   return (
     <PageWrapper>
       {helmet || ''}
@@ -41,6 +44,7 @@ export const BlogPostTemplate = ({
       <ContentWrapper>
         <PostContent htmlAst={htmlAst} content={content} />
       </ContentWrapper>
+      <RelatedPosts posts={relatedPosts} />
       {/* {tags && tags.length ? (
         <div>
           <h4>Tags</h4>
@@ -66,7 +70,7 @@ BlogPostTemplate.propTypes = {
 }
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { current: post, relatedPost1, relatedPost2, relatedPost3 } = data
   return (
     <Layout>
       <BlogPostTemplate
@@ -87,6 +91,11 @@ const BlogPost = ({ data }) => {
         date={post.frontmatter.date}
         featuredimage={post.frontmatter.featuredimage}
         slug={post.fields.slug}
+        relatedPosts={[
+          relatedPost1,
+          relatedPost2,
+          relatedPost3
+        ]}
       />
     </Layout>
   )
@@ -101,8 +110,8 @@ BlogPost.propTypes = {
 export default BlogPost
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+  query BlogPostByID($id: String!, $relatedId1: String!, $relatedId2: String!, $relatedId3: String!) {
+    current: markdownRemark(id: { eq: $id }) {
       id
       htmlAst
       fields{
@@ -126,6 +135,63 @@ export const pageQuery = graphql`
         }
         description
         tags
+      }
+    }
+    relatedPost1: markdownRemark(id: { eq: $relatedId1 }) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        featuredimage{
+          childImageSharp{
+            resize(width: 350, height: 200){
+              tracedSVG
+              aspectRatio
+              src
+              width
+              height
+            }
+          }
+        }
+      }
+    }
+    relatedPost2: markdownRemark(id: { eq: $relatedId2 }) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        featuredimage{
+          childImageSharp{
+            resize(width: 350, height: 200){
+              tracedSVG
+              aspectRatio
+              src
+              width
+              height
+            }
+          }
+        }
+      }
+    }
+    relatedPost3: markdownRemark(id: { eq: $relatedId3 }) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        featuredimage{
+          childImageSharp{
+            resize(width: 350, height: 200){
+              tracedSVG
+              aspectRatio
+              src
+              width
+              height
+            }
+          }
+        }
       }
     }
   }

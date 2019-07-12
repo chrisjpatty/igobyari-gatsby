@@ -2,6 +2,7 @@ const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 const { fmImagesToRelative } = require('gatsby-remark-relative-images')
+const { getPostsByTags, getRelatedPosts } = require('./utilities')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -30,9 +31,11 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
-
+    const postsByTags = getPostsByTags(posts)
+    
     posts.forEach(edge => {
       const id = edge.node.id
+      const relatedIds = getRelatedPosts(edge, postsByTags, posts)
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
@@ -42,6 +45,9 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          relatedId1: relatedIds[0],
+          relatedId2: relatedIds[1],
+          relatedId3: relatedIds[2]
         },
       })
     })
