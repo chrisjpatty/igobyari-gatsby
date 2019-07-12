@@ -25,7 +25,6 @@ export const BlogPostTemplate = ({
   relatedPosts
 }) => {
   const PostContent = contentComponent || Content
-  console.log(relatedPosts);
   return (
     <PageWrapper>
       {helmet || ''}
