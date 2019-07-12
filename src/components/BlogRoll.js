@@ -137,6 +137,7 @@ const PostWrapper = styled('div')({
 }))
 
 const Excerpt = styled('p')({
+  overflowWrap: 'break-word'
   // '&:first-letter': {
   //   color: '#903',
   //   fontSize: 40,

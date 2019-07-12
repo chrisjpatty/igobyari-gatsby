@@ -242,6 +242,9 @@ const ContentWrapper = styled('article')({
   '& p': {
     // textAlign: 'justify'
   },
+  '& img': {
+    maxWidth: '100%'
+  },
   '&::first-letter': {
     fontSize: '475%',
     fontStyle: 'normal',
