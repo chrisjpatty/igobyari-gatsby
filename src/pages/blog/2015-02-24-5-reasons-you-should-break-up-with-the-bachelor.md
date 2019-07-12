@@ -22,7 +22,7 @@ tags:
   - rant
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/02/rose1.jpg)](http://www.igobyari.com/wp-content/uploads/2015/02/rose1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/02/rose1.jpg)](https://www.igobyari.com/wp-content/uploads/2015/02/rose1.jpg)
 
 I have a confession to make. For the past who knows how many years of my life, I’ve had an on and off fling with the popular show “The Bachelor.” I used to really enjoy it. After all, it’s mighty entertaining to see hearts get broken on primetime television. I used to love watching all of the awkward dates, laughing as The One Everyone Hates got sent home, and seeing the one girl that I liked actually get the guy. It was a fun little trip for me, a guilty pleasure.
 

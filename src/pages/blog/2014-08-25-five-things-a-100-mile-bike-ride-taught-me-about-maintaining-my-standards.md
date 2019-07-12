@@ -27,7 +27,7 @@ Back in June or so, my sister Kori, our friend Zayn, and I decided that we were 
 
 Well, the summer went by in a hurry, and before we knew it, we were waking up early yesterday morning with a long ride ahead of us. When we got to the starting line, we were given a map that outlined the entire route. It would take us from Richmond up to Franklin, through Preston, over to Dayton, down through Cornish, and then go up through Clarkston, Newton, Mendon, Benson, Amalga, Trenton, and finally, end back at Richmond. As you can see, it was no small ride, and a lot of it was uphill. 
 
-![](http://www.igobyari.com/wp-content/uploads/2014/08/century100.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2014/08/century100.jpg)
 
 Everything started off pretty great. The weather was beautiful and the roads were clear for the most part. But then things started getting unexpectedly hard. There were problems with bike gears, two flat tires, and right as we were crawling over the east hill getting into Newton, it began to rain. From Clarkston pretty much until the end of the ride we biked against strong wind, through gravel, up gradual and painful hills, thunderstorms, torrential rain (which feels like hail when you’re riding your bike) and then real hail, which felt a lot like being pelted with darts. In total, subtracting time at the pit stops, we spent a good 8 and ½ hours on our bicycles. It was the most physically challenging thing I have ever done in my life, but it taught me a lot of really good lessons.
 
@@ -103,6 +103,6 @@ The last thing we need to do to maintain our standards is to keep the end in sig
 
 We know what the finish will be like if we live strong and endure to the end. It will be glorious, especially if we do our best to be like our Savior. We must always be thinking about that end point, wherever we go in the world. It is worth all of the trials of today because it exceeds and remedies them. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/08/century.png)](http://www.igobyari.com/wp-content/uploads/2014/08/century.png)
+[![](https://www.igobyari.com/wp-content/uploads/2014/08/century.png)](https://www.igobyari.com/wp-content/uploads/2014/08/century.png)
 
 Riding 100 miles on a bicycle is probably the hardest thing I have ever done in my entire life. It was new, it was physically taxing, and it was surprisingly mentally challenging. But that’s how life is, and especially today. In order to maintain our pace and our standards, we need to put a lot of work in and resist the storms that life throws at us. But the finish is worth it. No matter what Satan and the world sends our way, we can maintain a strong spiritual pace and finish the race, as Paul said, by diligently preparing. The Lord won’t let us fight this fight alone, and He will be there to meet us in the end.

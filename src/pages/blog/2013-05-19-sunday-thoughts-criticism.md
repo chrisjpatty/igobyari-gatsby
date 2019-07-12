@@ -21,7 +21,7 @@ tags:
   - thoughts
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/criticism1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/criticism1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/criticism1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/criticism1.jpg)
 
 Once upon a time, I used to be a JCOM (journalism and communications) major. I _loved_ journalism. In fact, starting in high school, I couldn’t imagine doing anything else. There is nothing quite like finding the stories of other people and being the one to tell them. I desperately wanted to be a part of that.
 

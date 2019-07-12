@@ -22,7 +22,7 @@ tags:
   - thoughts
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/11/anonymous2Bpost.jpg)](http://www.igobyari.com/wp-content/uploads/2014/11/anonymous2Bpost.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/11/anonymous2Bpost.jpg)](https://www.igobyari.com/wp-content/uploads/2014/11/anonymous2Bpost.jpg)
 
 You guys are really good at what you do, but you don’t seem to get a lot of credit for it. Trust me. I know. I’ve seen the fights you get yourselves into on blog and website forums. They’re not pretty.   
 

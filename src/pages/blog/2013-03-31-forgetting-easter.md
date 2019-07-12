@@ -25,7 +25,7 @@ tags:
   - beliefs
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/03/ArtBook__084_084__JesusBlessesTheNephiteChildren____5B15D.jpg)](http://www.igobyari.com/wp-content/uploads/2013/03/ArtBook__084_084__JesusBlessesTheNephiteChildren____5B15D-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/03/ArtBook__084_084__JesusBlessesTheNephiteChildren____5B15D.jpg)](https://www.igobyari.com/wp-content/uploads/2013/03/ArtBook__084_084__JesusBlessesTheNephiteChildren____5B15D-1.jpg)
 
 The gay marriage debate and North Korean threats chose the last week they deserved to occur. As a consequence, I spent the week forgetting my Savior to defend my church and my stance. I forgot my Savior to cry doomsday about North Korea. I forgot my Savior by choosing to worry myself into paralysis about things I cannot control.
 

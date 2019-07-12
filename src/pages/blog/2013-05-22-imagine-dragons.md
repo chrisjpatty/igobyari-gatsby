@@ -23,7 +23,7 @@ tags:
 ---
 Yesterday started early. 6:00 am early with two Eggo waffles in my aunt’s charming little Sandy apartment, to be exact. My sister and I drove for an hour and 45 minutes to get there Sunday night and then left by 7:45 yesterday morning to go see the Imagine Dragons concert at UVU’s UCCU Center.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/dragonstickets.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/dragonstickets-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/dragonstickets.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/dragonstickets-1.jpg)
 
 Mom surprised both of us by buying tickets months ago. Finally, the big day arrived. 
 
@@ -33,7 +33,7 @@ We staked out a spot on the top of the cold, hard cement stairs. We were the ver
 
 This is how we felt after only two hours. It just got worse from here. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/DragonsLine.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/DragonsLine-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/DragonsLine.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/DragonsLine-1.jpg)
 
 Now we’re just reeaaaally bored. 
 
@@ -45,7 +45,7 @@ and then the stage was set up, the lights dimmed, and a spectrum filled with tho
 
 The show from that point was just more and more phenomenal. I had no idea that they would be so good live. No idea. The energy in the room was like a disease. The band was humble and engaging and grateful. And we were all so excited to be there with them.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Dragons.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Dragons-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Dragons.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Dragons-1.jpg)
 
 I ADORE them. 
 
@@ -53,13 +53,13 @@ Probably the best moment of the night was when Dan Reynolds got strapped to some
 
 HE FREAKING DROPPED FROM THE CEILING. AHHHH!
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/DanReynolds.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/DanReynolds-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/DanReynolds.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/DanReynolds-1.jpg)
 
 The other moment that was utterly magical was when Reynolds dedicated the concert to Tyler Robinson, a 17-year old who died of cancer. Before the song he sang specifically for Tyler, Wayne Sermon played a beautiful guitar solo and the whole room lit up with cell phone lights like stars.
 
 It was magic.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/magiclights.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/magiclights-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/magiclights.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/magiclights-1.jpg)
 
 Every song was amazing, every moment when Reynolds told us how happy they were to be home was personal. And when he told us to free ourselves of everything and forget what people might say about us and forget about every pressure in our life, it was emotional.
 

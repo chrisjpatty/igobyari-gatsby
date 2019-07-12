@@ -26,7 +26,7 @@ tags:
 _Do you want to be a better missionary this year? If so, have you ever considered being more active online or starting a blog to share your beliefs? Well, now is the time! The following is a guest post by one of my favorite bloggers, **Al Fox Carraway**, filled with great encouragement and advice for you and anyone you know who wants to start writing about their beliefs online, but isn’t sure how. Enjoy! _  
 ❤ : _Ari_  
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/belief2Bpost.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/belief2Bpost.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/belief2Bpost.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/belief2Bpost.jpg)
 
   
 The only thing that stops everyone from doing anything is fear. But let me echo what the Savior says; fear not. If you have had the impression to start a blog, or be more open about your beliefs on an online outlet you already have, do it! The spirit often speaks to us with reoccurring thoughts—don’t put off the prompting anymore. I strongly believe that most of the trials I have gone through are for the purpose of helping others, and actually the thought of, ‘how can I use this to help others,’ is one of the thoughts that helps me most while I am in the midst of the hardest times.  
@@ -44,7 +44,7 @@ And little do you know. Little do you know the impact you do and will have if yo
 Opposition will come. Rude comments will surely be there, (I have been told too many times over the past several years from comments and emails I should actually kill myself—ouch!). Regardless of the 30 incredible comments you’ve gotten, the adversary will try and use the one not so great one to tear away your confidence and efforts. Don’t listen. Don’t let him win. People need _you._ People need your stories and your example.  People and the world as a whole need more good. And help. And seeing the hand of the Lord help others through you is the most humbling feeling in the whole entire world. Perhaps the best. Your testimony will grow and you will be even closer to your Father in heaven in ways I cannot adequately express in words.  
   
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/about2Bal.png)](http://www.igobyari.com/wp-content/uploads/2015/01/about2Bal.png)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/about2Bal.png)](https://www.igobyari.com/wp-content/uploads/2015/01/about2Bal.png)
 
 Al Fox Carraway is a popular LDS speaker and blogger, a convert to the church, and a new mom.  
 

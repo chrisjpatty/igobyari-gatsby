@@ -21,7 +21,7 @@ tags:
   - life
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/PiDay.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/PiDay.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/PiDay.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/PiDay.jpg)
 
 ^Nope. Didn’t actually read Life of Pi, although I’ve started to read it at least three times in my lifetime.
 
@@ -29,7 +29,7 @@ So today I went to work. We ended up shoving a few tables up front, loading them
 
 I did end up eating my very first pie from said bakery, though! Weird, eh? I sometimes bake them, and yet, I’ve never eaten one. I am not a bad employee, I promise. Manhandling the merchandise just makes you not want to eat it.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/Pie.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/Pie.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/Pie.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/Pie.jpg)
 
 ^Sugar. So much sugar. 
 
@@ -41,7 +41,7 @@ High pressure day today, guys.
 
 A highlight of the day, though, was getting to show my friend Jamille the early Star Wars films for the first time.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/StarWarsCollage.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/StarWarsCollage.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/StarWarsCollage.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/StarWarsCollage.jpg)
 
 Final thoughts for the day:
 

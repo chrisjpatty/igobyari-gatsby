@@ -23,7 +23,7 @@ tags:
   - thoughts
 
 ---
-![](http://www.igobyari.com/wp-content/uploads/2013/11/P1050773.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2013/11/P1050773.jpg)
 
 It was a full-sheet chocolate cake with white buttercream frosting. I know because I was lifting the lid and peeking into the box long before the family arrived to pick it up. Drawn in big, red letters on top was a variation of the phrase, “Good luck, Elder \_\_\_\_\_\_ and Elder \_\_\_\_\_\_\_\_! We’ll miss you!” The words framed two flags, one from Texas, the other from a country in South America. It was a beautiful cake. Mainly beautiful, to me, because it was SO MUCH FREAKING CAKE. And chocolate, at that. But the decorators had definitely worked hard on it. The flags were pretty nifty.
 

@@ -23,7 +23,7 @@ tags:
   - thoughts
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/06/doubting.jpg)](http://www.igobyari.com/wp-content/uploads/2014/06/doubting.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/06/doubting.jpg)](https://www.igobyari.com/wp-content/uploads/2014/06/doubting.jpg)
 
 Earlier this week, I watched a news segment about the latest excommunication discussions occurring between LDS Church PR and local news organizations. It’s been pretty overwhelming and crazy, guys, even for someone who knows what’s going on from the inside. I’m sure it’s been that way for you, too. But anyway, in this news segment, sitting at a small table with a 2News reporter, was Kate Kelly, Ordain Women founder and the center of what has snowballed into a PR crisis. For the past year, Kate Kelly has fascinated me, angered me, and bewildered me. I’ve wanted to know who she is and what makes her tick. I noticed that her mouth was drawn in a serious line beneath serious eyes that sat unblinkingly behind thick, transparent glasses, hair drawn back, body bent over, attentive. She was dressed in a cheery floral blouse, letters used as props scattered around the sleeve that rested on the table. Her face flashed between disciplinary letter montages, words like ‘excommunication’ scrolling across the screen. Then, in what may well be the saddest and most misled resignation I have ever seen, she said, “If I’m guilty of apostasy, any person who has ever had a question and asked that question out loud is guilty of apostasy.”
 

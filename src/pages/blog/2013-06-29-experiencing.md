@@ -33,4 +33,4 @@ I think it hit me the other day that sharing my opinions is not as important as 
 
 Even if it takes logging off or turning off or zoning out or silencing the things that distract me from leaving the comfort of my world.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/infinite.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/infinite-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/infinite.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/infinite-1.jpg)

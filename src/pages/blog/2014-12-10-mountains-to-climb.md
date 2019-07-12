@@ -23,7 +23,7 @@ tags:
   - trials
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/12/mountainsblackandwhite.jpg)](http://www.igobyari.com/wp-content/uploads/2014/12/mountainsblackandwhite.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/12/mountainsblackandwhite.jpg)](https://www.igobyari.com/wp-content/uploads/2014/12/mountainsblackandwhite.jpg)
 
 Lately I’ve taken up long, off-trail hiking in the mountains. Whenever I’m feeling anxious or upset, I drive to the canyon and I just climb. It doesn’t matter where so much as it matters that I’m far away from the movement of the city and that I can keep going upward, that I can feel limestone beneath my fingers and leap over deep crevices and curl up on high, rocky outcrops to view the world the same way I imagine God views it. There I can breathe and relax and remember who I am. 
 

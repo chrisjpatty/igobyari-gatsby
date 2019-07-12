@@ -21,7 +21,7 @@ tags:
 ---
 This weekend, I learned about a little thing called Kintsugi (&#8220;golden repair&#8221;). You could call it the Japanese art of making broken things beautiful.
 
-In Kintsugi, artists take the pieces of dishware that have broken (pots, cups, plates, etc.) and put them back together again with lacquer. It&#8217;s kind of like that thing people do with puzzles &#8212; fitting the pieces together and then putting a protective coat over them to seal them together. Onl<img class="wp-image-2301 alignright" src="http://www.igobyari.com/wp-content/uploads/2016/03/kintsugggi-300x219.jpg" alt="kintsugggi" width="373" height="272" />y in Kintsugi, this sealing is done with lacquer mixed with golden powder.
+In Kintsugi, artists take the pieces of dishware that have broken (pots, cups, plates, etc.) and put them back together again with lacquer. It&#8217;s kind of like that thing people do with puzzles &#8212; fitting the pieces together and then putting a protective coat over them to seal them together. Onl<img class="wp-image-2301 alignright" src="https://www.igobyari.com/wp-content/uploads/2016/03/kintsugggi-300x219.jpg" alt="kintsugggi" width="373" height="272" />y in Kintsugi, this sealing is done with lacquer mixed with golden powder.
 
 What results from piecing together broken pots and plates with gold are pots and plates that are not only more valuable, but more beautiful than they were before. Every break is covered, every surface glittering with golden veins. You can see the places where the dish was vulnerable, but instead of seeing brokenness, you see wholeness, completion.
 

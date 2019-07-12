@@ -30,16 +30,16 @@ What I didn’t plan on was a little pop-up box called Magic-I Visual Effects. W
 
 Essentially, it went like this: 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/Image366.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/Image366.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/Image366.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/Image366.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/Image367.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/Image367.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/Image367.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/Image367.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/Image368.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/Image368.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/Image368.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/Image368.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/Image369.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/Image369.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/Image369.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/Image369.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/Image370.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/Image370.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/Image370.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/Image370.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/Image359.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/Image359.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/Image359.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/Image359.jpg)
 
 They will never forget who I am…

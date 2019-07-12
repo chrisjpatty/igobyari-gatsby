@@ -27,19 +27,19 @@ tags:
 
 A’right. Thanks, lady, for your kind, encouraging words about my future.
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/obama_not_amused.gif) 
+![](https://www.igobyari.com/wp-content/uploads/2014/10/obama_not_amused.gif) 
 
 **2\. Browsing keychain stands at the store becomes a regular and pointless occurrence that always ends in heartbreak, but you always do it anyway. Kind of like having a high school crush.  **
 
 “Oh, wait! Could it be?! I see an A! And an R! And an I! And it says…Arin. Not Arianna, Arin.”  
 
-![sad animated GIF ](http://www.igobyari.com/wp-content/uploads/2014/10/giphy.gif)
+![sad animated GIF ](https://www.igobyari.com/wp-content/uploads/2014/10/giphy.gif)
 
 WHYYY.
 
 **3\. You have to write your name out for people or they will not spell it right. Ever. **
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/92508-dont-worry-Ive-got-it-covered-HLb8.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/92508-dont-worry-Ive-got-it-covered-HLb8.gif)
 
 **4\. You become a walking kiosk. **
 
@@ -51,7 +51,7 @@ WHYYY.
 
 “What made your parents give you such a…different name?”
 
-![come at me bro animated GIF ](http://www.igobyari.com/wp-content/uploads/2014/10/giphy-1.gif)
+![come at me bro animated GIF ](https://www.igobyari.com/wp-content/uploads/2014/10/giphy-1.gif)
 
   
   
@@ -65,7 +65,7 @@ WHYYY.
 
 “Here.”  
 
-![Dramatic pause](http://www.igobyari.com/wp-content/uploads/2014/10/4ee1a8f009dadcb1abc8968abf0c86f8.gif)
+![Dramatic pause](https://www.igobyari.com/wp-content/uploads/2014/10/4ee1a8f009dadcb1abc8968abf0c86f8.gif)
 
 “………………………………..uh………………………uh……….ah-Ahreeawna Reez?”
 
@@ -73,13 +73,13 @@ WHYYY.
 
 “Uh, actually, it’s Arianna. Pronounced eh-ree-aaa-nuh.”
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/tumblr_inline_n04u8kbVjR1r2m22z.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/tumblr_inline_n04u8kbVjR1r2m22z.gif)
 
 **7\. Your teachers, colleagues, and acquaintances pride themselves on remembering your name, but they still pronounce it wrong. **
 
 “Oh! Arena! I got this!” 
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/giphy-2.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/giphy-2.gif)
 
 **8\. You correct them, but immediately afterward, they mispronounce it again. **
 
@@ -89,13 +89,13 @@ Them: “Oh! I knew that. Arrrrrrrrr-ee-aw-nah. Right?”
 
 Me: “Right…”
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/5zKXz.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/5zKXz.gif)
 
 **9\. People read your name off of lists and insert random letters that don’t belong in your business. **
 
 “Adrianna Rees, please come forward.”
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/tumblr_n1sjpnqwic1r6s5zro2_250.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/tumblr_n1sjpnqwic1r6s5zro2_250.gif)
 
 E’scuse me? Who you talkin’ ’bout? 
 
@@ -103,25 +103,25 @@ E’scuse me? Who you talkin’ ’bout? 
 
 “Here. It’s like…air and banana. Think air plus banana and you’ve got it.” 
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/Banana20Slips20on20Man.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/Banana20Slips20on20Man.gif)
 
 **11. ****Your teachers, colleagues, and acquaintances never quite get your name right and then they confuse it with your younger siblings’ names. **
 
 “Oh! Korianna! Right? Or no. Ariel!” 
 
-![disney animated GIF ](http://www.igobyari.com/wp-content/uploads/2014/10/giphy-3.gif)
+![disney animated GIF ](https://www.igobyari.com/wp-content/uploads/2014/10/giphy-3.gif)
 
 **12\. Sparing them the pain of embarrassment and sparing yourself the pain of having to pronounce your name for the fifty billionth time, you lie to them. **
 
 Yup! That’s how you pronounce it alright. 
 
-[![Things Working Moms Hate to Hear](http://www.igobyari.com/wp-content/uploads/2014/10/YHjg7Ts.gif)](http://www.igobyari.com/wp-content/uploads/2014/10/YHjg7Ts.gif)
+[![Things Working Moms Hate to Hear](https://www.igobyari.com/wp-content/uploads/2014/10/YHjg7Ts.gif)](https://www.igobyari.com/wp-content/uploads/2014/10/YHjg7Ts.gif)
 
 **13\. You stop being surprised when your name is misspelled on official/important documents. **
 
 You’re still friggin’ miffed, though. 
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/giphy-4.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/giphy-4.gif)
 
 Yeah. That was my National Scholar certificate. It’s not like it’s a BIG DEAL OR ANYTHING.
 
@@ -129,13 +129,13 @@ Yeah. That was my National Scholar certificate. It’s not like it’s a BIG DEA
 
 “Wait. You go by Ari? Like…airy? Let’s not call you that unless you dye your hair blonde. Haha.” 
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/tumblr_mdtj87Umj41qk58boo1_500.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/tumblr_mdtj87Umj41qk58boo1_500.gif)
 
 **15\. You just learn to accept your fate. **
 
 People are going to call me weird names. Such is life. 
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/tumblr_mj8s3rMoXB1rm085zo1_500.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/tumblr_mj8s3rMoXB1rm085zo1_500.gif)
 
 **16\. Then, out of the blue one day, someone nails your name on the first try and it feels like you just single-handedly collapsed the Empire, saved the galaxy, and are now having a dance party with Ewoks.  **
 

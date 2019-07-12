@@ -26,7 +26,7 @@ tags:
   - nature
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/04/forestphoto.jpg)](http://www.igobyari.com/wp-content/uploads/2015/04/forestphoto.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/04/forestphoto.jpg)](https://www.igobyari.com/wp-content/uploads/2015/04/forestphoto.jpg)
 
 I live about 20 minutes away from a beautiful canyon filled with a stunning national forest and over 200 natural climbing routes. Whenever I have the chance, I go up there to explore, hike, rock climb, and sometimes just to think. A lot of my friends joke about how I pretty much live up there. Secretly, I wish I did.
 

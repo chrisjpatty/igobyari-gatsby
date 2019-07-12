@@ -24,7 +24,7 @@ tags:
   - rant
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/11/joseph.jpg)](http://www.igobyari.com/wp-content/uploads/2014/11/joseph.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/11/joseph.jpg)](https://www.igobyari.com/wp-content/uploads/2014/11/joseph.jpg)
 
 Recently, the LDS Church (my church) [published online essays about the early practice of polygamy and particularly, Joseph Smith’s involvement with it](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng). The Internet exploded.
 

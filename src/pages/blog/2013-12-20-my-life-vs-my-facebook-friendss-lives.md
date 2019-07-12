@@ -42,7 +42,7 @@ Some of my friends are baby geniuses who have managed to not only get full-ride 
 
 Meanwhile, I sit at home and take pictures in my backyard. 
 
-![](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mqilq8KBJk1so8nq7o1_500.gif)
+![](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mqilq8KBJk1so8nq7o1_500.gif)
 
 They are seeing all of the things I’ve always wanted to see. 
 
@@ -78,7 +78,7 @@ Meanwhile, I’m just sitting at my desk with a cup of milk, overwhelmed by it a
 
 Really, though.
 
-![](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mr3feg9Zsa1rz2nelo1_250.gif)
+![](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mr3feg9Zsa1rz2nelo1_250.gif)
 
 ![](https://31.media.tumblr.com/f9b2b5407ba7f48dcbfc0cff75780633/tumblr_mt4io4UUBu1qgbcj3o3_250.gif)
 
@@ -101,7 +101,7 @@ There’s nothing wrong with being single. I like to think it’s the magical jo
 
 But with dating comes engagement and engagement photos and photos of the ring, and then marriage, and with marriage comes a slew of pictures, cards, cakes with tacky ribbons on them, colors, and sentimental feelings on the Interwebs that remind you of just how alone you are.
 
-![](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mbot7vS1Cy1rokla5.gif)
+![](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mbot7vS1Cy1rokla5.gif)
 
 First it was travel pictures. Now, every single profile picture for the past year is from the wedding, the bridals, the reception. It’s like social media suddenly becomes the figurative bridal bouquet that the girl next to you catches every time.
 
@@ -123,7 +123,7 @@ They’re posting pictures of their first Christmas tree as a couple.
 
 They’re posting pictures of their attempts at DIY home decorating.
 
-![image](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mdmzybafE81rz0x9z.gif)
+![image](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mdmzybafE81rz0x9z.gif)
 
 They’re posting pictures of them doing the laundry, cooking breakfast, cleaning their bathroom.
 
@@ -159,11 +159,11 @@ _See, I get to do this crap_ ALL OF THE TIME:
 
 SEE! LOOK! LOOK HOW FUN MY LIFE IS!
 
-![](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mqsdgdoau71qz4rgp.gif)
+![](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mqsdgdoau71qz4rgp.gif)
 
 LOOK HOW HAPPY I AM!
 
-![image](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mxiqktHjDG1qba5oi.gif)
+![image](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mxiqktHjDG1qba5oi.gif)
 
 YOU KNOW WHAT I DID YESTERDAY? CLEANED MY ROOM AND WENT INTO TOWN ALL BY MYSELF. AND I WORKED FOR FOUR HOURS. AND I READ A LOVELY BOOK. AND I WENT AND SAW “THE DESOLATION OF SMAUG” ALL BY MYSELF AND IT WAS GREAT.
 
@@ -171,7 +171,7 @@ SEE HOW FULFILLING MY LIFE IS?! LET ME POST PICTURES OF ME DOING FULFILLING THIN
 
 SEE THIS PICTURE?! I SAT HERE FOR **TWELVE HOURS** TO MAKE MY FUTURE BETTER. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/12/DSC9873.jpg)](http://www.igobyari.com/wp-content/uploads/2013/12/DSC9873-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/12/DSC9873.jpg)](https://www.igobyari.com/wp-content/uploads/2013/12/DSC9873-1.jpg)
 
 People don’t seem to get how awesome my life really truly is. They don’t truly appreciate how independent I am.
 
@@ -193,7 +193,7 @@ Meanwhile, I’m like, “That’s a baby?”
 
 While I’m making money and making progress with school, my friends are making strange-looking HUMAN BEINGS INSIDE OF THEMSELVES.
 
-![](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mh29lsIw6o1ro2d43.gif)
+![](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mh29lsIw6o1ro2d43.gif)
 
 They start using language that I don’t understand to prep for baby. 
 
@@ -236,7 +236,7 @@ Exhibits A-C:
 
 And like I’m cow meat in a piranha pond, new mothers attack.
 
-![](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_msjgusgUYx1sfwumuo1_500.gif)
+![](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_msjgusgUYx1sfwumuo1_500.gif)
 
 That baby and the way it’s parented is suddenly everywhere. In dark corners of the internet, in profile pictures, in threads, in comments. Every time a child is born, a biographer is, too. I could tell you what time that baby goes to bed, the bowel movements of that baby, and what its parents want it to grow up to be just by looking through my newsfeed.
 
@@ -257,7 +257,7 @@ Every single twitch of baby’s facial expressions is put online to prove that h
 
 Meanwhile, I’m like, “Look how cute my sister’s dog is!”
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/12/happysam.jpg)](http://www.igobyari.com/wp-content/uploads/2013/12/happysam-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/12/happysam.jpg)](https://www.igobyari.com/wp-content/uploads/2013/12/happysam-1.jpg)
 
 This is what blogs are for, people. 
 
@@ -275,15 +275,15 @@ This, beautiful this:
 
 adventure,
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/12/skydive.jpg)](http://www.igobyari.com/wp-content/uploads/2013/12/skydive-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/12/skydive.jpg)](https://www.igobyari.com/wp-content/uploads/2013/12/skydive-1.jpg)
 
 accomplishment,
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/12/voicesdone.jpg)](http://www.igobyari.com/wp-content/uploads/2013/12/voicesdone-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/12/voicesdone.jpg)](https://www.igobyari.com/wp-content/uploads/2013/12/voicesdone-1.jpg)
 
 professional selfie-taking skills,
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/12/wonder.jpg)](http://www.igobyari.com/wp-content/uploads/2013/12/wonder-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/12/wonder.jpg)](https://www.igobyari.com/wp-content/uploads/2013/12/wonder-1.jpg)
 
 and all the time in the world.
 

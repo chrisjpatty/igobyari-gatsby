@@ -45,4 +45,4 @@ It occurs to me afterward that no Sabrina, no Holly Golightly has ever seen the 
 
 Today, I’m 21, and I sit at work, not airports. School, not airplanes. One day, though, I’m going to see the world, get out of JFK and hop into a taxi that will take me to streets I’ve never seen. One day, I’m going to see heaven the way I saw it last July. Except this time, I’ll be one day and one month and one year closer to understanding where I fit in all of it. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/10/Px35tzw.jpg)](http://www.igobyari.com/wp-content/uploads/2013/10/Px35tzw.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/10/Px35tzw.jpg)](https://www.igobyari.com/wp-content/uploads/2013/10/Px35tzw.jpg)

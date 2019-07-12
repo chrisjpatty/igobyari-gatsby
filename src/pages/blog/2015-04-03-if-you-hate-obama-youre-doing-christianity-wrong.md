@@ -22,7 +22,7 @@ tags:
   - rant
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/04/Obama.jpg)](http://www.igobyari.com/wp-content/uploads/2015/04/Obama.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/04/Obama.jpg)](https://www.igobyari.com/wp-content/uploads/2015/04/Obama.jpg)
 
 _\*Disclaimer: this post is really not about politics, so if you feel the need to start a fight about it, please go do so somewhere else. _
 

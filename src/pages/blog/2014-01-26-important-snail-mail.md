@@ -23,4 +23,4 @@ tags:
 ---
 Can we talk about the fact that this letter came in the mail today? Oh my word. It’s actually happening. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/01/usucollage.jpg)](http://www.igobyari.com/wp-content/uploads/2014/01/usucollage.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/01/usucollage.jpg)](https://www.igobyari.com/wp-content/uploads/2014/01/usucollage.jpg)

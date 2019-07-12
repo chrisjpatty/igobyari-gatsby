@@ -29,7 +29,7 @@ tags:
 ---
 If I haven’t blogged in awhile, it’s probably because I’ve been reading my brains out to achieve the one resolution I never seem to keep — read one book a week, or at least 100 a year. The past few months have been crazy due to this ridiculous resolution, which I’ve kind of given up on. Usually, I stick to one book and one book only until said one book is finished. Last month, however, I somehow managed to find myself trapped between two self-help books, a classic as thick as my face, a book by Tad Callister, and the lovely book pictured below. It was one of only two that I finished this last month, and I want to take a short post to share it with you.
 
-![endoww](http://www.igobyari.com/wp-content/uploads/2016/02/endoww-200x300.jpg)
+![endoww](https://www.igobyari.com/wp-content/uploads/2016/02/endoww-200x300.jpg)
 
 When I started this book, I was under the erroneous assumption that it was only for people who have just gone through the temple. I thought it was a temple prep book. It seems like it, as it tends to feel pretty basic in parts. Truth is that it _is_ a temple prep book, but it’s one for both the new temple goer and the seasoned temple goer alike.
 

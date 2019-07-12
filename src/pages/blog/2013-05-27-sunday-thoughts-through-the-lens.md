@@ -22,7 +22,7 @@ tags:
   - thoughts
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/DSC7580.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/DSC7580-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/DSC7580.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/DSC7580-1.jpg)
 
 Something that I managed to keep as a sort of hidden talent for all of these years is suddenly getting all of the attention. That would be my photography.
 

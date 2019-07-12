@@ -30,7 +30,7 @@ Then I grew up and learned more about him. 
 
 And in one single, random moment of my life, when I was lying in a chair at the dentist’s, waiting for him to begin root canal surgery, I looked around the room and saw the most beautiful painting I had ever seen, and that’s when I realized I was wrong about van Gogh. 
 
-![](http://www.igobyari.com/wp-content/uploads/2014/11/1280px-Starry_Night_Over_the_Rhone.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2014/11/1280px-Starry_Night_Over_the_Rhone.jpg)
 
 It’s called “Starry Night Over the Rhone,” the lesser known starry night van Gogh painted in his lifetime. It reminds me of the way the church and house lights reflect in the river near my home. It reminds me of the way it rains in town, covering the streets in puddles that grab every glitter of light and stretch it into long columns on the asphalt. It is the way van Gogh saw light, and by that fact alone, incredibly priceless. 
 

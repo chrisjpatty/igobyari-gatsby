@@ -25,7 +25,7 @@ tags:
   - thoughts
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/04/tumblr_mc1zyxiITO1rz5xjjo1_5001.png)](http://www.igobyari.com/wp-content/uploads/2013/04/tumblr_mc1zyxiITO1rz5xjjo1_5001.png)
+[![](https://www.igobyari.com/wp-content/uploads/2013/04/tumblr_mc1zyxiITO1rz5xjjo1_5001.png)](https://www.igobyari.com/wp-content/uploads/2013/04/tumblr_mc1zyxiITO1rz5xjjo1_5001.png)
 
 The other day I had an amazing conversation with my good friend Eden. We started by catching up (as, for the moment, we live in separate countries), and then we started discussing dreams and goals. Few conversations I’ve had lately have bolstered my spirit as much as that one did.
 

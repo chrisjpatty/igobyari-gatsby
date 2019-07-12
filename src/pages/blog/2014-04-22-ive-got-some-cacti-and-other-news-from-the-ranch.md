@@ -27,7 +27,7 @@ Since it’s springtime, and since I’ve been dying to just take care of someth
 
 Meet Ophelia and Atticus, everybody! 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/04/Cacti.jpg)](http://www.igobyari.com/wp-content/uploads/2014/04/Cacti.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/04/Cacti.jpg)](https://www.igobyari.com/wp-content/uploads/2014/04/Cacti.jpg)
 
 They’re so cute and pokey. I just want to hug them, but I can’t. Ophie in particular has got a real sting (she’s the one on the right with the strawflower that some jerk hot-glued on to her head).
 
@@ -47,7 +47,7 @@ I’ve been trying to write an “I Remember” post to tell you all about my ex
 
 Here’s one fun thing I can share, though. We had the students write something they remembered about this year and tack it to the hallway walls. This one made my day: 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/04/iremember.jpg)](http://www.igobyari.com/wp-content/uploads/2014/04/iremember.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/04/iremember.jpg)](https://www.igobyari.com/wp-content/uploads/2014/04/iremember.jpg)
 
 “I Remember thinking the girl on the “I REMEMBER” poster was really cute.” And I love YOU, random citizen.
 

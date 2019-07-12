@@ -29,7 +29,7 @@ I used to think I was broken or weird, and I know some of the other girls though
 
 I was (and am) an introvert, and in a Gospel all about people, it’s been quite the adventure to fit in.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/06/melake.jpg)](http://www.igobyari.com/wp-content/uploads/2014/06/melake.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/06/melake.jpg)](https://www.igobyari.com/wp-content/uploads/2014/06/melake.jpg)
 
 Me on another camping trip.
 

@@ -25,7 +25,7 @@ tags:
   - writing
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/10/yosemite.jpg)](http://www.igobyari.com/wp-content/uploads/2015/10/yosemite-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/10/yosemite.jpg)](https://www.igobyari.com/wp-content/uploads/2015/10/yosemite-1.jpg)
 
 I don’t want to be human. At least, not in the way we’ve made being human.
 

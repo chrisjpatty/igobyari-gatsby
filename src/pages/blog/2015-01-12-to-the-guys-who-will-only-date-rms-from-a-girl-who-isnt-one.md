@@ -23,7 +23,7 @@ tags:
   - rant
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/SplitShire-8075.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/SplitShire-8075.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/SplitShire-8075.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/SplitShire-8075.jpg)
 
 Almost three years ago, my life changed entirely when President Monson announced the lowering of the mission age for girls and _I chose not to serve_.
 

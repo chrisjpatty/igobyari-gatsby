@@ -23,7 +23,7 @@ tags:
   - Mormon
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/new2Byear.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/new2Byear.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/new2Byear.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/new2Byear.jpg)
 
 If there’s one word I dislike more than the others, it might be ‘resolutions’. Why? Because I make dozens of them every year and find myself looking at a checklist that’s only a tenth of the way checked off by next New Year’s. It’s completely my fault, I know, but it’s still super overwhelming to see how many things I’ve left undone at the end of the year. Again.
 
@@ -39,7 +39,7 @@ The older I get, the more I realize how vital it is to not just read my scriptur
 
 *   One thing that keeps the spirit of application continually alive is to color code your scriptures. This is a coding system that I loosely follow that seems to work pretty well. It also helps me to see what I should or shouldn’t be doing in my life: 
 
-![idea for color code marking scriptures--good idea for helping kids learn to study Scriptures](http://www.igobyari.com/wp-content/uploads/2015/01/39cf4810377697555592d1a67620df21.jpg)
+![idea for color code marking scriptures--good idea for helping kids learn to study Scriptures](https://www.igobyari.com/wp-content/uploads/2015/01/39cf4810377697555592d1a67620df21.jpg)
 
  You can find other resources like this at sugardoodle.net.
 

@@ -23,7 +23,7 @@ tags:
   - reflection
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/13th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/13th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/13th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/13th-1.jpg)
 
 I have been the recipient of many miracles in the past two week. Literally one week ago, I had no financial aid. None. I went home from work and I prayed and I told my Heavenly Father, “If you don’t want me to go to school this fall, I won’t, but I’m going to keep trying to find some way to pay for it.” 
 

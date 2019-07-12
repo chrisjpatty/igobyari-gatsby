@@ -23,7 +23,7 @@ tags:
   - Mormon
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/06/modessty.jpg)](http://www.igobyari.com/wp-content/uploads/2014/06/modessty.jpg)I remember walking through the mall a few years ago with my mom, my sister, and my youngest brother. My siblings are big into snowboarding, and with snow season quickly approaching, my sister wanted to find a cool, new coat to wear on the slopes.
+[![](https://www.igobyari.com/wp-content/uploads/2014/06/modessty.jpg)](https://www.igobyari.com/wp-content/uploads/2014/06/modessty.jpg)I remember walking through the mall a few years ago with my mom, my sister, and my youngest brother. My siblings are big into snowboarding, and with snow season quickly approaching, my sister wanted to find a cool, new coat to wear on the slopes.
 
 We stepped into a popular board store that’s well known for its gear and clothing. Almost immediately, my eyes were drawn to the two employees managing the front desk. They were both young men who looked to be between the ages of 17 and 19. Barely perched on their heads were matching, gray, Smurf-like beanies that bobbed as they walked. Both were wearing dark jeans, and the seats of their pants were low enough to make me awkwardly squirm as I walked. They also had on electric blue shirts that were at least two sizes too big and fell to mid-thigh, which I guess was supposed to make up for the lost length in their pants.  
 

@@ -25,7 +25,7 @@ tags:
   - writing
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/11/social2Banxiety.png)](http://www.igobyari.com/wp-content/uploads/2014/11/social2Banxiety.png)
+[![](https://www.igobyari.com/wp-content/uploads/2014/11/social2Banxiety.png)](https://www.igobyari.com/wp-content/uploads/2014/11/social2Banxiety.png)
 
 When I was in the eighth grade, I didn’t love myself.
 

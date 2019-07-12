@@ -29,26 +29,26 @@ But yeah! After a summer interning with the English Department’s _Voices: On S
 
  What an amazing experience!
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8104.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8104-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8104.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8104-1.jpg)
 
 Our baby! 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8106.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8106-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8106.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8106-1.jpg)
 
 Front cover in all its glory. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8110.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8110-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8110.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8110-1.jpg)
 
 Blurry back view.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8115.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8115-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8115.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8115-1.jpg)
 
 Look, Ma! I’m published!
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8116.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8116-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8116.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8116-1.jpg)
 
 This year’s compared with the 2011 edition. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8117.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/DSC8117-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8117.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/DSC8117-1.jpg)
 
 Spine-age

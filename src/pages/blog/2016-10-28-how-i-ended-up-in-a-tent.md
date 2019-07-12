@@ -32,7 +32,7 @@ We arrived with excitement in Yosemite Friday morning &#8212; Alysha and Stacie 
 
 Alysha called up a two-star hotel and they told us they&#8217;d love to accommodate us if we&#8217;d be willing to sell our firstborns and sign away our prince-seducing singing voices. Obviously, we told them no &#8212; the other two have boyfriends, and my prince-seducing singing voice is all I&#8217;ve got. We looked up some campsites, all of which were hours away. We didn&#8217;t know anybody nearby we could stay with. Bears break into, on average, 100 cars a year in Yosemite, so sleeping in our car in some abandoned corner of the park was vetoed real quick, as was backcountry camping, sadly. At some point, frustrated and worried, I remembered the talk by Elder Wirthlin where he reinforced the words, &#8220;Come what may and _love _it.&#8221; So I tried and the others tried, too. Campless, we said a prayer and drove off to play in the meadow between Cap and Cathedral Rock. We took pictures, I gabbed about my man crush on John Muir, Stacie and Alysha patiently humored me, and we watched climbers crawl up the side of Cap like little ants with their gear bags in tow. The service in Yosemite is utterly elusive, but eventually, we got through to Alysha&#8217;s boyfriend, who managed to reserve a place for us an hour outside of the park. We had a place to sleep and things were good.
 
-<img class="wp-image-2557 aligncenter" src="http://www.igobyari.com/wp-content/uploads/2016/10/DSC02919-300x200.jpg" alt="dsc02919" width="841" height="561" />
+<img class="wp-image-2557 aligncenter" src="https://www.igobyari.com/wp-content/uploads/2016/10/DSC02919-300x200.jpg" alt="dsc02919" width="841" height="561" />
 
 Then the longest Saturday of my life dawned.
 
@@ -42,7 +42,7 @@ We woke up and adventured hard that day. We stopped at the famous tunnel view of
 
 We debated about it. After some back and forth, I whipped my car around and started driving back up to Glacier Point, determined to watch the sun set over the entire Yosemite Valley. We were going up a long stretch of road about 14 miles from Glacier Point when my car made the last noise I ever want to hear in the middle of nowhere again: it rattled, then it scraped, then it banged against the road like it had just given up on life.
 
-<img class="wp-image-2555 aligncenter" src="http://www.igobyari.com/wp-content/uploads/2016/10/DSC03161-300x200.jpg" alt="dsc03161" width="841" height="561" />
+<img class="wp-image-2555 aligncenter" src="https://www.igobyari.com/wp-content/uploads/2016/10/DSC03161-300x200.jpg" alt="dsc03161" width="841" height="561" />
 
 &#8220;Oh no, oh no, oh no,&#8221; I gasped as I pulled off into a ditch.
 
@@ -60,7 +60,7 @@ I didn&#8217;t understand Hindi, but I very much understood, &#8220;The axle is 
 
 I walked away and yes, reader, I cried. Real good.
 
-<img class="wp-image-2560 aligncenter" src="http://www.igobyari.com/wp-content/uploads/2016/10/DSC03167-300x200.jpg" alt="dsc03167" width="840" height="560" />
+<img class="wp-image-2560 aligncenter" src="https://www.igobyari.com/wp-content/uploads/2016/10/DSC03167-300x200.jpg" alt="dsc03167" width="840" height="560" />
 
 After talking among themselves, Kulvir and the others offered to drive us down to the nearest town to get service and call State Farm to get a tow truck up. I wrote down my parents&#8217; numbers as quickly as possible before my phone died and we packed all of our valuables into their rental car, which miraculously happened to seat eight people. We got to a little market where I spent ten minutes trying to stupidly explain to a 911 dispatcher where Yosemite is located. Five minutes after that call, a park ranger with pretty eyes named Officer Buckley stepped through the door with a crooked grin and the most cliche&#8217; heroic park ranger stride I&#8217;ve ever seen. &#8220;Which one of you has the broken car?&#8221; He said. For one gloriously stupid second, I was glad to say, &#8220;Me!&#8221; He was not unattractive, okay, leave me alone.
 
@@ -72,7 +72,7 @@ I managed to call my parents and was distraught as I spoke to them on the phone 
 
 We climbed into their car and I realized that none of us had said a prayer together. I asked the boys if we could pray, which freaked them out a little, as they&#8217;d never even heard of Mormons or knew anything about prayer, from what I could tell. After we prayed, Kulvir said, &#8220;Woah! I felt something! I&#8217;m serious! It&#8217;s like&#8230;it&#8217;s like God&#8217;s right there!&#8221; He waved his hands in the space right in front of him and I was touched by the thought that yes, God was there. He was going to be there through this whole thing.
 
-<img class="wp-image-2561 aligncenter" src="http://www.igobyari.com/wp-content/uploads/2016/10/DSC02954-300x200.jpg" alt="dsc02954" width="840" height="560" />
+<img class="wp-image-2561 aligncenter" src="https://www.igobyari.com/wp-content/uploads/2016/10/DSC02954-300x200.jpg" alt="dsc02954" width="840" height="560" />
 
 And that&#8217;s how, at 10 o&#8217;clock at night, we ended up in a car barreling towards the top of the mountains at 70-90 miles per hour, Punjabi music blasting from the speakers, and our three new friends, Jaskirat (Jazz), Kulvir, and Harpreet (Happy), singing in Hindi at the top of their lungs as I sat in the back with Stacie and Alysha and half laughed, half tried not to barf, because car sickness. We got to Glacier Point, where we could see headlamps dancing like fireflies on the sides of Half Dome and El Capitan. Like manna from Heaven, service fell from above up there and I was able to talk to my parents, who had contacted a nearby bishop with a mechanic in his ward willing to help tow and fix my car the next day. That mechanic would say, to my relief, that my axle was fine and it was just a small part that needed to be replaced, which he would help us with. This is why the church is bae, guys.
 
@@ -86,4 +86,4 @@ I didn&#8217;t understand why my car broke down. It wasn&#8217;t funny at the ti
 
 Smashed into the side of a too-small tent with friends and good Samaritans, I realized I knew that all too well.
 
-<img class="wp-image-2562 aligncenter" src="http://www.igobyari.com/wp-content/uploads/2016/10/indians-300x200.jpg" alt="indians" width="842" height="561" />
+<img class="wp-image-2562 aligncenter" src="https://www.igobyari.com/wp-content/uploads/2016/10/indians-300x200.jpg" alt="indians" width="842" height="561" />

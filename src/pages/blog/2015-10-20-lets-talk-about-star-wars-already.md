@@ -40,7 +40,7 @@ Sixth: What’s up with Kylo Ren’s zombie army at minute 1:24? Who is this fr
 
 Seventh: If you don’t love all of this TIE fighter/X-Wing drama, you are an android with no human feelings. Period. You need to go home and rethink your life.
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/10/o-FORCE-AWAKENS-GIFS-facebook.jpg)](http://www.igobyari.com/wp-content/uploads/2015/10/o-FORCE-AWAKENS-GIFS-facebook-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/10/o-FORCE-AWAKENS-GIFS-facebook.jpg)](https://www.igobyari.com/wp-content/uploads/2015/10/o-FORCE-AWAKENS-GIFS-facebook-1.jpg)
 
 Eighth: There is so much poetry in an older Han admitting what a younger Han would not believe, that the Force is real. Gospel analogies abound right there.
 
@@ -54,4 +54,4 @@ Twelfth: They pack that trailer with so much stuff that you almost forget about 
 
 CAN DECEMBER BE NOW?!
 
-![](http://www.igobyari.com/wp-content/uploads/2015/10/tumblr_m44bhqHIqv1qjp0avo1_500.gif)
+![](https://www.igobyari.com/wp-content/uploads/2015/10/tumblr_m44bhqHIqv1qjp0avo1_500.gif)

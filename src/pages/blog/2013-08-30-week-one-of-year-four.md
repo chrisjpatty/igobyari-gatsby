@@ -21,7 +21,7 @@ tags:
   - life
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/menews.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/menews-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/menews.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/menews-1.jpg)
 
 Me as a weird freshman.
 
@@ -59,7 +59,7 @@ It’s like a Hogwarts reading list. For English majors. But I’m also going to
 
 So, anywho, college. I woke up at 5:30 Monday morning for a meeting with my committee (I’m over the publicity committee for the Logan Institute). It’s a fun committee, but I’m definitely being pushed a little out of my comfort zone.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/firstlast.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/firstlast-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/firstlast.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/firstlast-1.jpg)
 
 Me as a secretly weird senior. 
 

@@ -23,7 +23,7 @@ tags:
   - rant
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/10/noobject.jpg)](http://www.igobyari.com/wp-content/uploads/2014/10/noobject.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/10/noobject.jpg)](https://www.igobyari.com/wp-content/uploads/2014/10/noobject.jpg)
 
 Dear girls,
 
@@ -59,7 +59,7 @@ Because it’s time to have some serious girl talk about what we are doing with 
 
 See this picture? Of course you do.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/10/o-CARLS-JR-NINA-AGDAL-570.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F3.bp.blogspot.com%2F-6fjpP6mxKzs%2FUZXEMTqN45I%2FAAAAAAAAABg%2FnmJRBn6ES8Y%2Fs1600%2Fo-CARLS-JR-NINA-AGDAL-570.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
+[![](https://www.igobyari.com/wp-content/uploads/2014/10/o-CARLS-JR-NINA-AGDAL-570.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F3.bp.blogspot.com%2F-6fjpP6mxKzs%2FUZXEMTqN45I%2FAAAAAAAAABg%2FnmJRBn6ES8Y%2Fs1600%2Fo-CARLS-JR-NINA-AGDAL-570.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
 It’s on every television, every movie, every magazine, and every book that lines the shelves of low culture — a woman whose body is a billboard and a tool. People love her and buy sandwiches, video games, and movie tickets because of her. People pay money to watch her move, as if she’s a prize race horse set to win the Triple Crown.
 

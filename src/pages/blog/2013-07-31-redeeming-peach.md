@@ -22,7 +22,7 @@ tags:
   - thoughts
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/peach.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/peach.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/peach.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/peach.jpg)
 
 Resting eleven places behind the first racer, I prepare myself for a  blood battle. The chrome of my vehicle glitters in the sunlight and the wheels sit taut on the dust. My hair is pulled back into a shaggy, blonde ponytail, my curves accentuated in a tight, pink and white racing uniform. The system always places me at the back where I can show off to no one, but I grit my teeth and determine to show them all up.
 

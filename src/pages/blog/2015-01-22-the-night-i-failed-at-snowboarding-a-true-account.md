@@ -24,7 +24,7 @@ tags:
 ---
 _A little Throwback Thursday to my first snowboarding experience three years ago. _
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/snowboard.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/snowboard.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/snowboard.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/snowboard.jpg)
 
 For almost four years now, I’ve been living a lie. For four years, I’ve been driving around in a car with a plate tacked on the back proclaiming, “Utah! The Greatest Snow On Earth!” as if I’m an expert on the slopes of Utah. As if I, like dozens of the people I went to high school with, leave my mediocre winter weekdays to spend my Saturdays skiing or snowboarding and come back with a smug grin and a bad sunburn and proclaim, “Guess what, guys? I went to the Beav _again_.”
 
@@ -72,7 +72,7 @@ I walked away last night feeling bruised, battered, but not broken! I finally di
 
 But I can cross off number 75 on my Bucket List. Success.
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/nancy-drew-mystery-at-the-ski-jump.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/nancy-drew-mystery-at-the-ski-jump.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/nancy-drew-mystery-at-the-ski-jump.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/nancy-drew-mystery-at-the-ski-jump.jpg)
 
 The Mystery at the Ski Jump? Bah. So lame. 
 

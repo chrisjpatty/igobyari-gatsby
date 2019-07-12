@@ -21,18 +21,18 @@ tags:
   - photography
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/sam.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/sam-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/sam.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/sam-1.jpg)
 
 My sister’s Siberian Husky, Sam
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Georgie.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Georgie-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Georgie.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Georgie-1.jpg)
 
 Georgia, the family pig
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/bikeorange.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/bikeorange-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/bikeorange.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/bikeorange-1.jpg)
 
 An old Schwinn bicycle
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/lola.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/lola-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/lola.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/lola-1.jpg)
 
 Lola, the family pug

@@ -25,7 +25,7 @@ tags:
   - nerdy
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/12/hobbit2Bcover.jpg)](http://www.igobyari.com/wp-content/uploads/2014/12/hobbit2Bcover.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/12/hobbit2Bcover.jpg)](https://www.igobyari.com/wp-content/uploads/2014/12/hobbit2Bcover.jpg)
 
 Two weeks from now will mark the end of a cinematic era. I’ve got my tickets and I might end up buying tissues. Just in case. 
 
@@ -41,7 +41,7 @@ From the beginning, it’s easy to cheer for Bilbo. He’s the underdog, the guy
 
 The Lord looks at us in the same way. We may be small or unfit or awkward or misunderstood, but we are called to do great things. The Lord knows our hearts and our intents when no one else can, and because He does, He trusts us. We are each a great part of His plan and a hero(ine) of our own kind. That’s what the Lord sees when He looks upon _us. _
 
-![](http://www.igobyari.com/wp-content/uploads/2014/12/131164-bilbo-smoking.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2014/12/131164-bilbo-smoking.jpg)
 
 **2\. The Lord’s will is not always our will. **  
 If Bilbo had his way, he would have kept sitting on his bench, smoking his pipe, and looking forward to a long life of doilies, second breakfasts, tea, and quiet. Imagine his bewilderment when his home was suddenly filled with dwarves and a wizard who spoke of lands beyond his scope! Not only did they speak of it, but they were there to take him along with them. His entire world was interrupted without his permission, and he resisted, at first. Even with Gandalf’s praise and faith in him, Bilbo was not cool with trekking across Middle-earth to help some dwarves reclaim their mountain.
@@ -52,7 +52,7 @@ That’s real life for us, too, folks. If the natural man had his or her way, we
 
 But the Lord’s vision and His plan for us is so much greater than our own. We are often asked to leave our Gardens of Eden, our “Shires,” to go to places we’ve never been, do things we’ve never done, and suffer trials we cannot see. And at the end of these journeys, we will not be the same person we were. But that is the point. We will be _better_ than we were.
 
-![](http://www.igobyari.com/wp-content/uploads/2014/12/BilboampButterflies.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2014/12/BilboampButterflies.jpg)
 
 **3\. Never leave the path, and if you do, seek the light.**  
 “Be good, take care of yourselves–AND DON’T LEAVE THE PATH,” Gandalf says before leaving the company to face Mirkwood on their own. It’s advice that, if heeded, would have spared a lot of trouble. But it wasn’t.
@@ -65,7 +65,7 @@ For awhile, the dwarves were overwhelmed and lost, wandering, and it took Bilbo 
 
 The danger comes when, like Gollum, we choose strange paths and pursue darkness, leading us to the depths of our own Misty Mountains (mists of darkness) where we are susceptible and more receptive to regression and wickedness.
 
-![](http://www.igobyari.com/wp-content/uploads/2014/12/tumblr_mg0n55nrDE1qm3i8ko6_250.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/12/tumblr_mg0n55nrDE1qm3i8ko6_250.gif)
 
 **4****. Life is precious. **  
 One of the most important statements in _The Hobbit_ is made by Gandalf when he remarks that true courage is knowing when to spare a life. When that line haunts Bilbo at the cusp of slaying Gollum, everybody collectively goes, “Why? Why would you spare Gollum, someone so disgusting and evil? Nobody would even miss him if he were gone. Half of your trouble would disappear overnight. Why spare him?”
@@ -74,7 +74,7 @@ It’s because life, even the seemingly most insignificant, is precious. Not thi
 
 Our lives are valuable things, and we need to treat them that way. Not only that, but we need to give of our love and charity and chances more freely. It is in the giving, not the taking, that we find true meaning in a life.
 
-![hobbit animated GIF ](http://www.igobyari.com/wp-content/uploads/2014/12/giphy.gif)
+![hobbit animated GIF ](https://www.igobyari.com/wp-content/uploads/2014/12/giphy.gif)
 
 **5\. Satan is subtle and crafty. **
 
@@ -86,7 +86,7 @@ The key thing to remember is that Smaug does not wake up on his own. It is the h
 
 Satan is the disembodied Sauron, seeking to enslave Middle-earth. He is the deceptive Necromancer and the brutal Azog. But he is also the dragon, the cunning and stealthy one. Whether we do good deeds or bad deeds, we will wake him up, but only one of those actions will spare us from his “desolation.”
 
-![](http://www.igobyari.com/wp-content/uploads/2014/12/tumblr_mg0p4rMIoU1qmsoako10_500.gif)
+![](https://www.igobyari.com/wp-content/uploads/2014/12/tumblr_mg0p4rMIoU1qmsoako10_500.gif)
 
 **6\. After all we can do, Christ carries us**. 
 

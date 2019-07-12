@@ -73,7 +73,7 @@ _Etc. _
 
 This show, this stupid, pea-brained show basically handed us a microscope and told us, “See, look how messed up this is!” But instead of cheering on Juan Pablo for being honest, everyone bristled in their seats like angry wasps.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/hungerharrison.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/hungerharrison.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/hungerharrison.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/hungerharrison.jpg)
 
 Instead of a show forcing human beings to exploit themselves, Juan Pablo got thrown under the bus. Instead of a show that inflicts emotional damage upon contestants, Juan Pablo got thrown under the bus. Instead of this sham of a relationship contest that no one in their right mind can possibly believe works, Juan Pablo got thrown under the bus.
 

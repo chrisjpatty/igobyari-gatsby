@@ -26,7 +26,7 @@ tags:
   - Mormon
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/03/happiness.jpg)](http://www.igobyari.com/wp-content/uploads/2015/03/happiness.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/03/happiness.jpg)](https://www.igobyari.com/wp-content/uploads/2015/03/happiness.jpg)
 
 At 11:30 today, I was sitting in a packed cultural hall at the Logan LDS Institute, waiting for Al Fox Carraway to speak. A blank notebook sat on my lap and my eyes were riveted on the pulpit. I’d been waiting _weeks_ to hear her, and I didn’t know if I could wait much longer.
 

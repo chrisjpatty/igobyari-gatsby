@@ -40,7 +40,7 @@ My sesh had just finished and I was walking out when I accidentally stumbled out
 
 I was pushed along until I reached a crosswalk humming with noise, and I couldn’t help but smile. There, standing within precisely measured, city-prescribed boundaries with Jewish flags, Amish dresses, and towering signs blaring words like “Hell” or “Joe Smith” or “idols” in blocky caps lock like they always are, were the most dedicated Conference attendees in town: protesters.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/04/protest.jpg)](http://www.igobyari.com/wp-content/uploads/2013/04/protest-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/04/protest.jpg)](https://www.igobyari.com/wp-content/uploads/2013/04/protest-1.jpg)
 
 Why would I smile? Well, to be honest, I like the protesters. A lot. I make it a point to pass by them and see them every time they’re nearby, because they’re really fascinating individuals. They’ve got stories. Seeing them also validates the power of my beliefs, because anything powerful has obvious adversary. That’s just how it is. Those guys on the street reaffirm my testimony every time. That’s why I walk past them without being bothered by them for the most part.
 

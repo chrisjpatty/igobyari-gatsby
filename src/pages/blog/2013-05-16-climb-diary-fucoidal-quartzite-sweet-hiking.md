@@ -27,61 +27,61 @@ _Two amateur climbers documenting their summer adventures. _
 
 The location: Fucoidal Quartzite, Logan Canyon
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/View2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/View2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/View2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/View2-1.jpg)
 
 The climbers: Ari (left), Kori (right)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/KoriandI.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/KoriandI-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/KoriandI.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/KoriandI-1.jpg)
 
 The wall: Tennis Ball, 5.8 (and one other mystery wall)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal-1.jpg)
 
 Preparation:
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal1-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Fucoidal2-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Me1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Me1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Me1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Me1-1.jpg)
 
 The climb: 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/AriEpic.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/AriEpic-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/AriEpic.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/AriEpic-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic2-1.jpg)
 
 On the ground: 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/AriEpic1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/AriEpic1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/AriEpic1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/AriEpic1-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic1-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/AriEpic2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/AriEpic2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/AriEpic2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/AriEpic2-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/AriEpic3.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/AriEpic3-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/AriEpic3.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/AriEpic3-1.jpg)
 
 Commentary: Fucoidal Quartzite is probably my favorite area in the canyon. Lots of fantastic and challenging walls to climb. After climbing, Kori and I went on a short hike upward, and it was just gorgeous. We may or may not have risked our lives by doing this . . . coughcough. 
 
 Hike:
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Kori1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Kori1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Kori1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Kori1-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Kori2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Kori2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Kori2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Kori2-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic3.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic3-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic3.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/KoriEpic3-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/Me2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/Me2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/Me2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/Me2-1.jpg)
 
 The views:
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/View.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/View-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/View.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/View-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/View1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/View1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/View1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/View1-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/05/View3.jpg)](http://www.igobyari.com/wp-content/uploads/2013/05/View3-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/05/View3.jpg)](https://www.igobyari.com/wp-content/uploads/2013/05/View3-1.jpg)
 
 Kori and I decided that our climbing motto is now, “Wow! What a hold!” 
 
