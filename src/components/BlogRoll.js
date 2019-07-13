@@ -33,7 +33,6 @@ class BlogRoll extends React.Component {
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
-                      <Num>{posts.length - i}</Num>
                     </Link>
                     <DateWrapper>
                       {post.frontmatter.date}
@@ -42,11 +41,6 @@ class BlogRoll extends React.Component {
                 </header>
                 <Excerpt>
                   {post.excerpt}
-                  {/* <br />
-                  <br />
-                  <Link to={post.fields.slug}>
-                    Keep Reading →
-                  </Link> */}
                 </Excerpt>
               </article>
             </PostWrapper>
@@ -74,7 +68,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 250)
               id
               fields {
                 slug
@@ -136,33 +130,9 @@ const PostWrapper = styled('div')({
   }
 }))
 
-const Excerpt = styled('p')({
-  // '&:first-letter': {
-  //   color: '#903',
-  //   fontSize: 40,
-  //   lineHeight: 3,
-  //   paddingTop: 4,
-  //   paddingTight: 8,
-  //   paddingLeft: 3
-  // }
-})
-
-const Num = styled('span')({
-  color: 'rgba(255, 179, 114, 0.32)',
-  fontSize: 100,
-  position: 'absolute',
-  left: -40,
-  top: -30,
-  zIndex: -1,
-  fontStyle: 'italic',
-  transform: 'rotate(-15deg)'
-}, ({theme}) => ({
-  [theme.media.sm]: {
-    fontSize: 70,
-    left: -10,
-    top: -30,
-  }
-}))
+const Excerpt = styled('p')`
+  line-height: 1.5;
+`
 
 const DateWrapper = styled('span')({
   opacity: .5,
