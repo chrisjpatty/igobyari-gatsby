@@ -23,7 +23,7 @@ tags:
 
 ---
 [  
-![](http://www.igobyari.com/wp-content/uploads/2013/07/fearnot.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/fearnot-1.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2013/07/fearnot.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/fearnot-1.jpg)
 
 Today was all about trials in our three-hour block. Relief Society, Sunday School, and even parts of Sacrament Meeting were devoted to them. This came a day after I was on my knees praying for help in overcoming my own. Very convenient. 
 

@@ -26,7 +26,7 @@ tags:
   - writing
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/08/purpose2Bof2Blife.jpg)](http://www.igobyari.com/wp-content/uploads/2015/08/purpose2Bof2Blife-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/08/purpose2Bof2Blife.jpg)](https://www.igobyari.com/wp-content/uploads/2015/08/purpose2Bof2Blife-1.jpg)
 
 I’ve been thinking lately. A lot. So much so that my friends and family have had to snap me out of stupors where my head is a billion miles away. It’s hard to come back down from a billion miles away.
 

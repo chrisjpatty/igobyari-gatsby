@@ -25,7 +25,7 @@ tags:
   - life
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/06/sad2Bface.jpg)](http://www.igobyari.com/wp-content/uploads/2015/06/sad2Bface-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/06/sad2Bface.jpg)](https://www.igobyari.com/wp-content/uploads/2015/06/sad2Bface-1.jpg)
 
 Today I had some bicycle time, and unfortunately for me, bicycle time gives me enough silence to consider the topic that’s been on my mind a lot lately: being human is the pits.
 

@@ -25,7 +25,7 @@ tags:
   - life
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/09/11809915_517942908362174_85597213_n252812529.jpg)](http://www.igobyari.com/wp-content/uploads/2015/09/11809915_517942908362174_85597213_n252812529-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/09/11809915_517942908362174_85597213_n252812529.jpg)](https://www.igobyari.com/wp-content/uploads/2015/09/11809915_517942908362174_85597213_n252812529-1.jpg)
 
 A recent photo of my face (in case you forgot what it looks like)
 
@@ -39,7 +39,7 @@ So what am I going to do? Blog about it. Here’s my life in a nutshell.
 
 Last week? Hiking. I did a night hike up Crimson Trail. It was so beautiful up there. I just sprawled on top of a cliff and watched the stars fill the whole sky, spilling in like grains of sand from the galaxy. The smell of the woods, the sound of the crickets, the feel of dirt beneath my feet, the way my headlamp spread sheets of white across the tops of the trees…oh, it was magic. I did see a rattlesnake, which was terrifying, and I did convince myself that animals were waiting to leap from the woods and eat me, but otherwise, it was such a good trip. I always feel so rejuvenated after hikes like that, like I’ve been holding my breath for ages without realizing it and I can finally exhale.
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/09/11374186_969923963051257_985804118_n.jpg)](http://www.igobyari.com/wp-content/uploads/2015/09/11374186_969923963051257_985804118_n-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/09/11374186_969923963051257_985804118_n.jpg)](https://www.igobyari.com/wp-content/uploads/2015/09/11374186_969923963051257_985804118_n-1.jpg)
 
 A picture from the trail
 

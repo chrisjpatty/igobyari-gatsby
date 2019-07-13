@@ -23,7 +23,7 @@ tags:
   - writing
 
 ---
-![](http://www.igobyari.com/wp-content/uploads/2013/10/HandsDrowningSea.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2013/10/HandsDrowningSea.jpg)
 
 You wake up like a bather, fresh, quiet, soothed. Your pink toes land on the carpet like parachutists, your arms stretch up into the air, fleshy canopies. Everything has been smoothed out like you are an ironed shirt and a yard of silk and a freshly paved sidewalk. New and beautiful and exciting. You push yourself gently to your knees, head dipping, eyes shutting, lips moving around a prayer. You say that you will be better today, that you will overcome your weaknesses. You say what you worry about and hope for. With an amen and the grumbling of waking bones, you stand and perch on your mattress and flip through eggshell-thin paper that comforts you with familiar names. Alma, Mosiah, Nephi, Moroni. You read until the flickering alarm clock drags you limb by limb into production and movement and machination. And like that, it ends where it begins. 
 

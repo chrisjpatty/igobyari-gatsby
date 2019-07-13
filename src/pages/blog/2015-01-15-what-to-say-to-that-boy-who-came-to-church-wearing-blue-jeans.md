@@ -22,7 +22,7 @@ tags:
   - rant
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/130H.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/130H.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/130H.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/130H.jpg)
 
 You see him walking through the back of the chapel, hair a bit messy, button-up shirt hanging over the lip of his waistline, hands in the pockets of an old pair of jeans with sneakers bleeding out of the bottoms. Maybe he looks around the room shyly, scuffing his feet on the carpet and glancing with panic from one pew to the next. Or maybe he’s glowering and marching in at the arm of a parent, looking like the last thing he wants to do is worship. You might know him, or maybe he’s a stranger. It doesn’t matter so much. Because when you see him, you shift on your bench uncomfortably.
 

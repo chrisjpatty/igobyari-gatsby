@@ -52,6 +52,6 @@ This week I thought about how much I love my job, how hard it would be to leave 
 
 This week I worked on my Halloween costume, which I realized is way too high maintenance. It usually is because I just want to go all out with it. Sigh. But here’s a small peek:
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/10/Image306.jpg)](http://www.igobyari.com/wp-content/uploads/2013/10/Image306.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/10/Image306.jpg)](https://www.igobyari.com/wp-content/uploads/2013/10/Image306.jpg)
 
 This week I learned about fear and how I must go and do what scares me. So I’m going to try. I’m going to try so hard that I may end up hurting myself in the process, but it will be worth it to say that I can overcome the things that scare me.

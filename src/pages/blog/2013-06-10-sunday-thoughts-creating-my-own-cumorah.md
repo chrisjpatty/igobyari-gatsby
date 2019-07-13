@@ -27,7 +27,7 @@ Most experiences I have in a day or a week or a month are not life-changing. In 
 
 My life can be defined by a few great things, but what may well be the greatest is what forced me to wear this dorky hat and this couch of a dress:
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/ny60.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/ny60-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/ny60.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/ny60-1.jpg)
 
 The Hill Cumorah Pageant changed _everything,_ evidenced by the first thing I wrote upon returning:
 
@@ -41,7 +41,7 @@ God is good, and I am so grateful to have walked where prophets walked and to ha
 
 Again, it changed everything. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/ny42.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/ny42-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/ny42.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/ny42-1.jpg)
 
 Every single day I feel a pang of loss because I’m not in Manchester, New York, practicing for opening night and preparing to spread the gospel to those in attendance. I still feel the need to share my experiences, and it hurts me when no one notices or cares. My heart is in New York all of the time. 
 
@@ -83,4 +83,4 @@ No WiFi, no television. Just music, phones, and photography. That was our techno
 
 These are just a few of the lessons I learned in New York, and these are the factors that help us to build our own Cumorahs. Since I’ve written them down, I’m going to work on them. One day I want to say that I feel the same way I felt in New York. All it will take is discipline and obedience.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/ny102.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/ny102-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/ny102.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/ny102-1.jpg)

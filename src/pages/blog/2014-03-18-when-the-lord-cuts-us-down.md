@@ -38,7 +38,7 @@ I remembered the first real time I felt that the Lord had cut me down. It was th
 
 I wanted to get out of Cache Valley the moment I graduated from high school. It was hard for me to grow up here, because I often felt left out and lonely, even and sometimes especially in my own neighborhood. I was excruciatingly shy in elementary school, and as a result, I struggled to make friends. Come high school, I was struggling to keep them, overwhelmed by a deep sense that I was somehow broken and unwanted.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/mechip.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/mechip.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/mechip.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/mechip.jpg)
 
 ^This was me. I was weird. I’d like to say things have changed, but they haven’t, really. 
 
@@ -78,7 +78,7 @@ My most pivotal moment was choosing to walk into the Institute that first day. I
 
 At BYU, I wanted to re-identify myself. At USU, I learned to love and celebrate my identity and become someone stronger. I have grown up here. Not only that, but I have _become_ someone great here. I could have never predicted that that would happen on my own, and I wouldn’t change anything for the world.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/bikeme.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/bikeme.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/bikeme.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/bikeme.jpg)
 
 ^Here’s me today. Still weird. I promise. 
 

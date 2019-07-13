@@ -42,7 +42,7 @@ So essentially, I was freaking out a little.
 
 I soon met my photographer, who shoved his camera into my face when I was unprepared for it, and then I met George, my tandem instructor. George was great. I trusted my life to George (literally), so we kind of bonded. We almost missed our plane together, but otherwise, we were on top of things.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/GeorgeandI.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/GeorgeandI-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/GeorgeandI.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/GeorgeandI-1.jpg)
 
 George and I preparing for takeoff. He’s all like, “My 500th jump! Yeah!” and I’m all like, “Save me. Pleeeeaase.” 
 
@@ -52,7 +52,7 @@ Ha. Haha. Oh no, it isn’t.
 
 George taught me what to do, how to breathe, how to jump, and meanwhile, I’m clutching my stomach and looking out the window and FREAKING. OUT.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/GeorgeandI1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/GeorgeandI1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/GeorgeandI1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/GeorgeandI1-1.jpg)
 
 Sign of my nerves: the strange faces I kept making at the camera. 
 
@@ -60,7 +60,7 @@ Ogden started overwhelming and then it got smaller and then it got smaller and t
 
 Then the light next to the door flashed red for “stand by” and the guy next to me was being pushed towards the gate. My photographer was lifting the gate and the temperature plummeted in the plane. The air got sucked out and I immediately stopped breathing. I started repeating, “Oh no, oh no, oh no, oh no.”
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/georgeandi2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/georgeandi2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/georgeandi2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/georgeandi2-1.jpg)
 
 Prepping for the jump. 
 
@@ -72,17 +72,17 @@ At this point, I was having a near panic attack. My face says, “I’m about to
 
 We were at the door. My photographer had crawled out before us and was hanging on the side like a crazy person. When I got to that door, I was resigned to it. “This is it. I am jumping out of an airplane,” I thought to myself. “No going back. Just down.”
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump-1.jpg)
 
 Beneath me, the land looked like a jigsaw puzzle of white squares and curled lines. It was breathtaking. Quite literally. I was practically heaving.
 
 “It’s impossible to not smile,” George had said earlier that day. I didn’t believe him one bit. But when I was perched on the edge of that airplane, staring at the entire world beneath me, my entire soul understood. I would tell him later, “I can’t imagine that doing this every day gets old.” And he responded, “Nope. It never gets old.”
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump1-1.jpg)
 
 Soon he was counting. One, push out, two, push in, three. And then we were jumping. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump2-1.jpg)
 
 We were ripped from that plane so fast, I could barely process what was going on. 12,000 feet of air was suddenly smashing against us and we were twirling like tops. I saw Ogden rotate at least 20 times beneath me. I experienced plummeting, and I could not stop laughing. My lips were morphing on my face in the rush.
 
@@ -90,45 +90,45 @@ It got kind of crazy when my right contact started flapping against my eye. Uggg
 
 But guys, it was . . . beyond words. We free fell at 120 miles per hour. And it was exhilarating.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump3.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump3-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump3.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump3-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump4.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump4-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump4.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump4-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump5.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump5-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump5.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump5-1.jpg)
 
 Cue Salvador Dali/chicken arms. I was so tense. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump6.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump6-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump6.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump6-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/skydive.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/skydive-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/skydive.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/skydive-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump7.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump7-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump7.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump7-1.jpg)
 
 Pretty soon the shoot was coming out. I was keenly disappointed that we weren’t still free-falling. Because I’m insane.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump8.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump8-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump8.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump8-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump9.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump9-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump9.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump9-1.jpg)
 
 When we jumped, the air smashed against us. When George let the shoot out, the wind seemed to be in our guts, it was so powerful. It pushed us upward with maximum force until my harness straps were tightening into my skin. And then we drifted like that over Ogden. That was the worst part physically. My stomach was a mess, folding and jumping all over itself.
 
 But that moment was beautiful. We were dangling over the entire world.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump10.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump10-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump10.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump10-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/jump11.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/jump11-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/jump11.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/jump11-1.jpg)
 
 George did some corkscrews downward, and I could not stop laughing. We were both dying. It was SO fun. The tarmac was spinning in circles and I was laughing so hard that I could have passed out from laughing. 
 
 And then we were prepping for landing. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/landing1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/landing1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/landing1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/landing1-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/landing.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/landing-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/landing.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/landing-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/landing2.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/landing2-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/landing2.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/landing2-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/landing3.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/landing3-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/landing3.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/landing3-1.jpg)
 
 Just like that, it was over. I realized afterward that I could barely remember anything. The adrenaline wiped out nearly everything. My ears popped so hard, it felt like an explosion. And I forgot almost everything George told me to do. 
 

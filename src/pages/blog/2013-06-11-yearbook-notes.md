@@ -25,7 +25,7 @@ If I could go back and tell you something that you would need to know for every 
 
 Right now, I am almost 21. Can you believe how fast we’ve grown up, you and I? I sure can’t. If I could go back to when I was that small, shy little eight year old and write something in her yearbook every year until this point, these are the things I would say: 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/3rd.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/3rd-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/3rd.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/3rd-1.jpg)
 
 **Third Grade**
 
@@ -36,7 +36,7 @@ Remember that the best of friends often come from places you don’t expect.
 Sincerely,  
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/4th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/4th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/4th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/4th-1.jpg)
 
 **Fourth Grade**
 
@@ -47,7 +47,7 @@ Whenever you feel like you have nothing to give, remember that your words can ch
 
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/5th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/5th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/5th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/5th-1.jpg)
 
 **Fifth Grade**
 
@@ -63,7 +63,7 @@ Love, 
 
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/7th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/7th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/7th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/7th-1.jpg)
 
 **Sixth Grade **
 
@@ -75,7 +75,7 @@ Love,
 
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/6th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/6th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/6th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/6th-1.jpg)
 
 **Seventh Grade**
 
@@ -89,7 +89,7 @@ Sincerely,
 
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/8th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/8th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/8th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/8th-1.jpg)
 
 **Eighth Grade **
 
@@ -101,7 +101,7 @@ Love, 
 
 You
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/9th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/9th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/9th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/9th-1.jpg)
 
 **Ninth Grade**
 
@@ -114,7 +114,7 @@ All I have to say to you right now is that those girls who made fun of you on Ye
 Sincerely,  
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/10th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/10th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/10th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/10th-1.jpg)
 
 **Tenth Grade**
 
@@ -131,7 +131,7 @@ Stand up for yourself, let things go, and never ever let the decisions of other 
 Love,  
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/11th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/11th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/11th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/11th-1.jpg)
 
 **Eleventh Grade **
 
@@ -143,7 +143,7 @@ Sincerely,
 
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/12th.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/12th-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/12th.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/12th-1.jpg)
 
 **Twelfth Grade **
 
@@ -155,19 +155,19 @@ Love, 
 
 Me
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/13th1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/13th1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/13th1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/13th1-1.jpg)
 
 **Freshman Year of College**
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/14th1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/14th1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/14th1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/14th1-1.jpg)
 
 **Sophomore Year of College**
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/15th1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/15th1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/15th1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/15th1-1.jpg)
 
 **Junior Year of College **
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/Brunie.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/Brunie-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/Brunie.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/Brunie-1.jpg)
 
 **Today **
 

@@ -27,7 +27,7 @@ _Are you single and constantly feeling the pressure of “not seeming good enoug
 
 ❤ : _Ari_
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/02/singles2Bpicture.jpg)](http://www.igobyari.com/wp-content/uploads/2015/02/singles2Bpicture.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/02/singles2Bpicture.jpg)](https://www.igobyari.com/wp-content/uploads/2015/02/singles2Bpicture.jpg)
 
 In an era where there are more single adults now than any time in history, there’s a surprisingly large amount of misperceptions and stereotypes about single adults that still persist. One of the most common myths about single adults is the general belief that because someone is single, there must be _something_ wrong with that person. In this article, I’ll address how this perception is emphasized among single adult members of the Church of Jesus Christ of Latter-day Saints (LDS or Mormon) and explain why this attitude is misplaced, inaccurate, and damaging.   
   
@@ -126,7 +126,7 @@ God has a plan for all of us, singles included. Allowing others to label us will
 
   
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/02/malcom2Bpict.png)](http://www.igobyari.com/wp-content/uploads/2015/02/malcom2Bpict.png)
+[![](https://www.igobyari.com/wp-content/uploads/2015/02/malcom2Bpict.png)](https://www.igobyari.com/wp-content/uploads/2015/02/malcom2Bpict.png)
 
   
 

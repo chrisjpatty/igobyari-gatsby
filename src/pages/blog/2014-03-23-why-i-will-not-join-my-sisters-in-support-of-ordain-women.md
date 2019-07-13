@@ -33,9 +33,9 @@ This week, my Facebook lit up with the news that the LDS Public Affairs Departme
 
 Here’s the statement in full:
 
-[![ordain women memo from lds public affairs 1](http://www.igobyari.com/wp-content/uploads/2014/03/ordain-women-memo-from-lds-public-affairs-1.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/ordain-women-memo-from-lds-public-affairs-1.jpg)
+[![ordain women memo from lds public affairs 1](https://www.igobyari.com/wp-content/uploads/2014/03/ordain-women-memo-from-lds-public-affairs-1.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/ordain-women-memo-from-lds-public-affairs-1.jpg)
 
-![ordain women memo from lds public affairs 2](http://www.igobyari.com/wp-content/uploads/2014/03/ordain-women-memo-from-lds-public-affairs-2.jpg)
+![ordain women memo from lds public affairs 2](https://www.igobyari.com/wp-content/uploads/2014/03/ordain-women-memo-from-lds-public-affairs-2.jpg)
 
 So there’s that. Consequently, there’s a renewed determination to stand in line for the priesthood session anyway coming from Ordain Women members.
 

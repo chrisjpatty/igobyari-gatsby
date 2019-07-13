@@ -26,7 +26,7 @@ tags:
   - writing
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/03/images4.jpg)](http://www.igobyari.com/wp-content/uploads/2013/03/images4-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/03/images4.jpg)](https://www.igobyari.com/wp-content/uploads/2013/03/images4-1.jpg)
 
 The girl at the beaten desk with hair akimbo wishes that the light in the dusty globe above her were more romantic, but what does _she_ have to be romantic about, anyway?
 

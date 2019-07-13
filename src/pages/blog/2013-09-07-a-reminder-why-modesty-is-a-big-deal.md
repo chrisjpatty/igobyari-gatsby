@@ -33,7 +33,7 @@ Can we pause for a second, though? Can we take the time to truly internalize the
 
 We know that they are, or at least, we know that we _should_ know that they are. Our parents have told us, our leaders have told us, and, most importantly, prophets have told us: 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/09/LoganTemple216x20.jpg)](http://www.igobyari.com/wp-content/uploads/2013/09/LoganTemple216x20-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/09/LoganTemple216x20.jpg)](https://www.igobyari.com/wp-content/uploads/2013/09/LoganTemple216x20-1.jpg)
 
 Logan Temple
 

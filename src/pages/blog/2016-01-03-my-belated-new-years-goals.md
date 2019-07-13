@@ -33,4 +33,4 @@ At the end of 2016, I want to be able to say that that is completely behind me a
 
 I am imperfect and weak and funny and smart and my hair is pretty okay and I can be fun to be around when I stop worrying about what other people think. Here’s to a year when I can fully embrace all of that.
 
-[![](http://www.igobyari.com/wp-content/uploads/2016/01/arinomakeblackandwhite.jpg)](http://www.igobyari.com/wp-content/uploads/2016/01/arinomakeblackandwhite-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2016/01/arinomakeblackandwhite.jpg)](https://www.igobyari.com/wp-content/uploads/2016/01/arinomakeblackandwhite-1.jpg)

@@ -72,13 +72,13 @@ Back in November when the Romney vs. Obama campaign was still fresh, I had the f
     **Commercials will never be void of bias. **  
     It’s just that simple. Whenever you see an ad for dishwasher detergent, a car, beauty supplies, or a political candidate, you are watching a company’s desperate attempt to get you to buy their product. They are going to completely disregard what their product might lack in order to convince you what their product has. How much money or how many votes do we throw away without knowing all of the facts? Let’s refer to the cigarette example. Given, doctors didn’t fully realize the dangers of cigarettes, but still. Check out this ad:
     
-    [![](http://www.igobyari.com/wp-content/uploads/2013/07/tobaccoadpseudoscience20.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/tobaccoadpseudoscience20-1.jpg)
+    [![](https://www.igobyari.com/wp-content/uploads/2013/07/tobaccoadpseudoscience20.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/tobaccoadpseudoscience20-1.jpg)
     
     Do you see this? Knowing what you know now about lung cancer and gum disease, isn’t it pretty ridiculous to imagine that cigarettes were sold under the illusion that they made us smarter? That they made us scientists and educators? We might have not known back then that they could be so damaging to us, but we do now, and the great thing about having the Internet at our fingertips is that we can instantly know if a product is good for us or not. We should never believe everything a commercial tells us until we do our research.
     
     This applies to political ads, too. Take the following ad from the Obama campaign in 2008:
     
-    [![](http://www.igobyari.com/wp-content/uploads/2013/07/barackhopeposter.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/barackhopeposter.jpg)
+    [![](https://www.igobyari.com/wp-content/uploads/2013/07/barackhopeposter.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/barackhopeposter.jpg)
     
     What did this ad tell us? Look at the colors. They tell us that Barack Obama is patriotic, that he can be both aggressive in fighting for the American people and that he can restore peace to Washington. Look at the word hope. Hope is evocative. It says something different for different people. It really says nothing at all, but it can never be seen as a negative. Look at his eyes. Looking upward, as if to the future. This ad literally didn’t have to say anything at all to convince people to champion Obama.
     
@@ -163,13 +163,13 @@ Back in November when the Romney vs. Obama campaign was still fresh, I had the f
     Trayvon’s Mother: Encounter Was An Accident, Shooting Was Not
     
     [  
-    ](http://www.igobyari.com/wp-content/uploads/2013/07/trayvon-martin-george-zimmerman-fake-photo-via-pinterest.png)Are you seeing this? Not _one_ of the headlines I looked through mentioned George Zimmerman by name. He is the defendant, the shooter, the racist, and the gunman. I don’t know if you realize this, but psychologically, that does a number on a person and who they choose to side with. All of the articles I scanned had a picture of Trayvon, but not Zimmerman. While any death of a child is truly a tragedy, the media managed to paint this picture of a slaying with no motive. With no real motive, what’s the first conclusion that will be jumped to? Racism.   
+    ](https://www.igobyari.com/wp-content/uploads/2013/07/trayvon-martin-george-zimmerman-fake-photo-via-pinterest.png)Are you seeing this? Not _one_ of the headlines I looked through mentioned George Zimmerman by name. He is the defendant, the shooter, the racist, and the gunman. I don’t know if you realize this, but psychologically, that does a number on a person and who they choose to side with. All of the articles I scanned had a picture of Trayvon, but not Zimmerman. While any death of a child is truly a tragedy, the media managed to paint this picture of a slaying with no motive. With no real motive, what’s the first conclusion that will be jumped to? Racism.   
       
       
     What angle is a journalist going to take when it comes right down to it? The least talked about. It’s not the fact that it was a shooting, but that the victim was black, a minority. They knew nothing about the case, but their headlines and their stories scream that they know everything. If the truth be told, they only picked a side to focus on. You don’t get to see any of the other sides.   
       
     
-    [![](http://www.igobyari.com/wp-content/uploads/2013/07/trayvon-martin-george-zimmerman-fake-photo-via-pinterest.png)](http://www.igobyari.com/wp-content/uploads/2013/07/trayvon-martin-george-zimmerman-fake-photo-via-pinterest.png)
+    [![](https://www.igobyari.com/wp-content/uploads/2013/07/trayvon-martin-george-zimmerman-fake-photo-via-pinterest.png)](https://www.igobyari.com/wp-content/uploads/2013/07/trayvon-martin-george-zimmerman-fake-photo-via-pinterest.png)
     
       
     Journalism today is what I like to call “publicity stunt” journalism. Any angle that could get more readers is considered worthwhile, even if it’s not fair. And some journalists choose their angles based on their own personal motivations. If I hate Stand Your Ground laws and I don’t want to show how much I hate them in my writing, I’m going to write about Trayvon Martin’s childhood. Immediately, I’m demanding sympathy from people. Just like that.   

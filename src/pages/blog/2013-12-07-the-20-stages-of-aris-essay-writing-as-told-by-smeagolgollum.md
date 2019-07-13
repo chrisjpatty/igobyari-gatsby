@@ -39,13 +39,13 @@ What is the worst way to write an essay, you might ask? Well, I’ll let Smeagol
 
 You heard me. Don’t do anything. This stage typically lasts for 3 1/2 weeks after the essay’s been assigned, and it’s glorious. At stage one, you just take it easy. You just completely forget that that paper exists. After all, you’re an English major. You’re smart, well-spoken, and you can make up stuff like it’s nobody’s business. Why waste your time thinking, organizing, or, heaven forbid, writing about a paper that you can write in one day? You owe it to yourself to forget about it; in fact, go buy yourself a Klondike Bar for actively choosing to not worry about your paper. THAT is an accomplishment. Go distract yourself with mindless pursuits, like using Facebook’s Graph Search to look up “Mormon boys from England who love Imagine Dragons,” or finding funny pictures on Reddit, or listening to Miley Cyrus mashups. Just do what makes you happy and DO NOT think about your paper.  
 
-![the lord of the rings (3589) Animated Gif on Giphy](http://www.igobyari.com/wp-content/uploads/2013/12/giphy.gif)
+![the lord of the rings (3589) Animated Gif on Giphy](https://www.igobyari.com/wp-content/uploads/2013/12/giphy.gif)
 
 **STAGE TWO: Making minimal a94wruzkfjalkdawui effort.**
 
 This stage occurs about two weeks before due date when you remember that you actually probably should be thinking about your paper. Open up Microsoft Word and pretend to be productive. Usually, when I do that, I start with, “This is my paper on something important. I’m supposed to talk about it. It’s pretty cool aaaaaaaand eoisdfweoituawe9r8398.” Doing this makes you feel really good and really productive, so that even when you’re not writing your paper, you can feel satisfaction. 
 
-![image](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mly4a9xUcS1re05f7.gif)
+![image](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mly4a9xUcS1re05f7.gif)
 
 “It’s the best I’ve got.” 
 
@@ -53,19 +53,19 @@ This stage occurs about two weeks before due date when you remember that you act
 
 This stage happens pretty close to due date, like, the week before, maybe, when you start hearing whispered conversations between girls who are freaking out about having nothing more than an outline. At this stage, you realize that your paper is one sentence of jibberish and suddenly, you wonder what kind of monster you’re dealing with. 
 
-![the lord of the rings (3589) Animated Gif on Giphy](http://www.igobyari.com/wp-content/uploads/2013/12/giphy-1.gif)
+![the lord of the rings (3589) Animated Gif on Giphy](https://www.igobyari.com/wp-content/uploads/2013/12/giphy-1.gif)
 
 **STAGE FOUR: The best dang note-taking sesh of your semester. **
 
  It’s a week before your paper’s due, and your professor is talking it up like it’s an end of semester survey. This is when you realize that you’re in over your head, and listen like your life depends upon it.
 
-![the hobbit (1163) Animated Gif on Giphy](http://www.igobyari.com/wp-content/uploads/2013/12/giphy-2.gif)
+![the hobbit (1163) Animated Gif on Giphy](https://www.igobyari.com/wp-content/uploads/2013/12/giphy-2.gif)
 
 **STAGE FIVE: Making plans and forgetting them. **
 
 After the mental chew-out you just gave yourself, you decide to be really productive the weekend before crunch week. You sleep in, watch movies, and completely forget said decision. Your inner couch potato sure seems to be happy about it though, giving you soothing words of comfort. You start giving yourself pep talks that don’t even make much sense, and you sure don’t deserve them. 
 
-![image](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mvre16goRr1qmjfuo.gif)
+![image](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mvre16goRr1qmjfuo.gif)
 
 **STAGE SIX: The night before freak out. **
 
@@ -77,7 +77,7 @@ This stage happens, obviously, the night before due date, when everything hits y
 
 Your alarm goes off at 5 A.M. FIVE O’ DARK A.M.
 
-![the lord of the rings (3589) Animated Gif on Giphy](http://www.igobyari.com/wp-content/uploads/2013/12/giphy-3.gif)
+![the lord of the rings (3589) Animated Gif on Giphy](https://www.igobyari.com/wp-content/uploads/2013/12/giphy-3.gif)
 
 **STAGE EIGHT: Intense passion about getting your intro done first. **
 
@@ -87,7 +87,7 @@ You crawl out of bed, you get your books in a stack, you pull your hair back, an
 
 **STAGE NINE: Distraction in the form of Facebook, epic soundtracks, puppies, and stupid, made up songs about Christmas, snow, and the color of the ceiling. **
 
-[![image](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mr2cdzufxC1qz4rgp.gif)](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mr2cdzufxC1qz4rgp.gif)
+[![image](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mr2cdzufxC1qz4rgp.gif)](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_mr2cdzufxC1qz4rgp.gif)
 
 **STAGE TEN: Intense and sudden introversion that forces you to run to your room and lock yourself up inside, pretending like your siblings and their loud voices don’t exist outside. **
 
@@ -111,7 +111,7 @@ You reread your paper. It horrifies you. 
 
 You suddenly realize how bad this is. 
 
-![the lord of the rings (3589) Animated Gif on Giphy](http://www.igobyari.com/wp-content/uploads/2013/12/giphy-4.gif)
+![the lord of the rings (3589) Animated Gif on Giphy](https://www.igobyari.com/wp-content/uploads/2013/12/giphy-4.gif)
 
 **STAGE FOURTEEN: Intense loathing of the English language, your major, and life in general. **
 
@@ -127,7 +127,7 @@ You turn into a mushy pile of burnt out mush in your chair. You’re suddenly ty
 
 Tears are literally running down your cheeks and you can’t stop saying “oh no.” You have two full paragraphs to go and the clock says 4:56, 4:57, 4:58. 
 
-![image](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_msj48uFUJH1qz4rgp.gif)
+![image](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_inline_msj48uFUJH1qz4rgp.gif)
 
 **STAGE SEVENTEEN: Watching the clock tick to 5:01 just as your paper is uploaded. **
 
@@ -145,7 +145,7 @@ After all, you didn’t make your deadline, but you didn’t die as punishment. 
 
 Let’s just pretend you actually finished that essay and didn’t accidentally cite a source you didn’t use and didn’t accidentally write knowledge twice in a row at one point. 
 
-[![the lord of the rings (3589) Animated Gif on Giphy](http://www.igobyari.com/wp-content/uploads/2013/12/giphy-5.gif)](http://www.igobyari.com/wp-content/uploads/2013/12/giphy-5.gif)
+[![the lord of the rings (3589) Animated Gif on Giphy](https://www.igobyari.com/wp-content/uploads/2013/12/giphy-5.gif)](https://www.igobyari.com/wp-content/uploads/2013/12/giphy-5.gif)
 
 **STAGE TWENTY: Realizing that procrastination has destroyed your life. **
 

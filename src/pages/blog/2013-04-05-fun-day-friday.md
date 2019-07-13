@@ -27,7 +27,7 @@ tags:
 ---
 Today was BEAUTIFUL. Just beautiful. It poured like a storm in Dickensian London, and I walked all the way to the Aztec from campus in the rain, puddle jumping like a boss in my yellow rain boots. It was SUH-WEET.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/04/rainstorm.jpg)](http://www.igobyari.com/wp-content/uploads/2013/04/rainstorm-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/04/rainstorm.jpg)](https://www.igobyari.com/wp-content/uploads/2013/04/rainstorm-1.jpg)
 
 Never tried rainy day selfies. They’re messy.
 
@@ -36,7 +36,7 @@ Got some fresh contacts, listened to Brooke Walker from Studio 5 talk about the 
 
 GOT SUSHI. OH YEAH. Go to Lee’s, get Hannah’s sushi. It’s the greatest thing in the whole world. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/04/sushi.jpg)](http://www.igobyari.com/wp-content/uploads/2013/04/sushi-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/04/sushi.jpg)](https://www.igobyari.com/wp-content/uploads/2013/04/sushi-1.jpg)
 
 This right here is bliss.
 
@@ -46,12 +46,12 @@ And it was great. And life is great.
 
 Look at these awesome Kim Jong-un memes:
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/04/images8.jpg)](http://www.igobyari.com/wp-content/uploads/2013/04/images8.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/04/images8.jpg)](https://www.igobyari.com/wp-content/uploads/2013/04/images8.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/04/35j6ve.jpg)](http://www.igobyari.com/wp-content/uploads/2013/04/35j6ve.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/04/35j6ve.jpg)](https://www.igobyari.com/wp-content/uploads/2013/04/35j6ve.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/04/870.jpg)](http://www.igobyari.com/wp-content/uploads/2013/04/870-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/04/870.jpg)](https://www.igobyari.com/wp-content/uploads/2013/04/870-1.jpg)
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/04/images9.jpg)](http://www.igobyari.com/wp-content/uploads/2013/04/images9.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/04/images9.jpg)](https://www.igobyari.com/wp-content/uploads/2013/04/images9.jpg)
 
 Pffffft.

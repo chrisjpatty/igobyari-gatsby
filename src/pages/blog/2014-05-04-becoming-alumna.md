@@ -33,11 +33,11 @@ Speakers, awards, each college standing and cheering for the study they’ve dev
 
 And thus it begins. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/college.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/college.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/college.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/college.jpg)
 
 I come home to a house decked in blue, white, and silver. Balloons on everything, cars marked up with “Graduate on board!” and “Please honk!” Kori plays the graduate march on her guitar, I play “Happy” and dance on the wooden floor in the dining room with the pugs. Mom sprays me with blue silly string and I cough it up, laughing. I fall asleep on the couch to 50’s jazz and a steaming enchilada. And I’m content. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/college1.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/college1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/college1.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/college1.jpg)
 
 Then it’s back up to campus again. Professors drape us in beads and pins outside, the English department’s small _I love you. Thanks for being a part of us._ The sun beats down and I feel as though I’ll hit the pavement, pass out, puke. We wait outside until we march, and once in the Spectrum, hundreds of people are clapping for us. I find my family and I feel secure knowing they are there among strangers. Then I imagine all of these strangers are clapping for just me. I see faces of Council members and friends I had creative writing classes with and the people who shared my experience in the English department. Who knows where they will go? Who knows where I will go. 
 
@@ -45,7 +45,7 @@ We sit through generic talks, generic congratulations, the speech of our Valedic
 
 And then they begin the procession. And I feel as though things are happening too fast. I step up to Dr. Graham, one of my last professors, who gives me a wide smile and an encouraging nudge, and says “Arianna Whitney Rees!” as I smile and fist pump and slip over to pick up my degree cover and pose for Mom, who has come down, all smiles, with the camera. Suddenly I’m back in my seat, ready to throw my cap. I never get to, because I guess they don’t do that in college, but in my head I’m flinging it so high that it becomes a massive shadow in the lights, the silver letters I’ve glued on top of it glittering like fire.  
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/college2.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/college2.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/college2.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/college2.jpg)
 
 I am an alumna, an Aggie, a graduate. 
 
@@ -53,7 +53,7 @@ USU is my alma mater. 
 
 Most importantly, I’m a member of a family who loves me and supports me and who I often feel I don’t deserve. Friends who encourage me to do amazing things. People who change me. The people that got me through four of the hardest years of my life. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/college4.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/college4.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/college4.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/college4.jpg)
 
 Another chapter has ended. 
 
@@ -61,4 +61,4 @@ A big, long, exciting, heartbreaking chapter that started with a twist I didn’
 
 Here’s to hoping the rest of the book blows our minds. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/college5.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/college5.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/college5.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/college5.jpg)

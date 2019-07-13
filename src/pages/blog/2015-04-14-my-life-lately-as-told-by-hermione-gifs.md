@@ -25,13 +25,13 @@ tags:
   - life
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/04/Hermione-2.jpg)](http://www.igobyari.com/wp-content/uploads/2015/04/Hermione-2.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/04/Hermione-2.jpg)](https://www.igobyari.com/wp-content/uploads/2015/04/Hermione-2.jpg)
 
 Back in February, I was discussing my quarter-life crisis with a good friend and trying to figure out what I should do. You should know that this happened post-breakup, post-becoming unemployed, post-severe anxiety, and I was a wreck. My friend and I talked about school, and I mentioned how I’d love to go back, as, at that time, I wasn’t meeting people, wasn’t feeling fulfillment with my degree, and wasn’t sure about my life. Something about school just drew me in. I talked with several Institute teachers about it and came to the conclusion that Heavenly Father wanted me to be doing more with my life and making my own choices, so I chose to pursue going back to school.
 
 Well, a few weeks ago I received a letter informing me that I have been re-accepted at Utah State University to try for a second bachelor’s degree. Guys…I’M GOING BACK TO SCHOOL!
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/04/cheering-gif-1.gif)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fprofessionalfangirls.com%2Fwp-content%2Fuploads%2F2014%2F10%2Fcheering-gif.gif&container=blogger&gadget=a&rewriteMime=image%2F*)
+[![](https://www.igobyari.com/wp-content/uploads/2015/04/cheering-gif-1.gif)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fprofessionalfangirls.com%2Fwp-content%2Fuploads%2F2014%2F10%2Fcheering-gif.gif&container=blogger&gadget=a&rewriteMime=image%2F*)
 
 I’ve never been more excited. Not even the first time I went to school. Given, I hated Utah State the first time I went to school, but that’s another story.
 
@@ -59,7 +59,7 @@ Fourth, life moves onward. The more rejections you receive, the less deterred yo
 
 So even though hunting for a job and not getting it is incredibly frustrating,
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/04/anigif_enhanced-buzz-30399-1374179370-19-2.gif)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fak-hdl.buzzfed.com%2Fstatic%2Fenhanced%2Fwebdr03%2F2013%2F7%2F18%2F16%2Fanigif_enhanced-buzz-30399-1374179370-19.gif&container=blogger&gadget=a&rewriteMime=image%2F*)
+[![](https://www.igobyari.com/wp-content/uploads/2015/04/anigif_enhanced-buzz-30399-1374179370-19-2.gif)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fak-hdl.buzzfed.com%2Fstatic%2Fenhanced%2Fwebdr03%2F2013%2F7%2F18%2F16%2Fanigif_enhanced-buzz-30399-1374179370-19.gif&container=blogger&gadget=a&rewriteMime=image%2F*)
 
 you have to keep on keeping on.
 

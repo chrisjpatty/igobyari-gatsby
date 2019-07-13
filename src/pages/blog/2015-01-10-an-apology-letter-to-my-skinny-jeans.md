@@ -23,7 +23,7 @@ tags:
   - life
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/skinjeans.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/skinjeans.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/skinjeans.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/skinjeans.jpg)
 
 Dear Pink Skinny Jeans, 
 

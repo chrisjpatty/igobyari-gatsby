@@ -23,7 +23,7 @@ tags:
   - Mormon
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/03/girl2Bpraying.jpg)](http://www.igobyari.com/wp-content/uploads/2015/03/girl2Bpraying.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/03/girl2Bpraying.jpg)](https://www.igobyari.com/wp-content/uploads/2015/03/girl2Bpraying.jpg)
 
 This past weekend, I had the unique opportunity to give a fireside about introversion, shyness, and Mormonism after [a local bishop read one of my blog posts](http://ldsliving.com/story/77816-7-ways-to-help-introverts-feel-more-comfortable-at-church). At first, I was pretty nervous (Introvert here, remember?), but in the middle of this fireside, I found myself feeling so at home and so happy to talk about something that, for me, is pretty personal. It was _a lot_ of fun, and I’m so grateful I had the chance to do it.\*
 

@@ -26,7 +26,7 @@ tags:
   - writing
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/03/yosemitewall.jpg)](http://www.igobyari.com/wp-content/uploads/2013/03/yosemitewall-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/03/yosemitewall.jpg)](https://www.igobyari.com/wp-content/uploads/2013/03/yosemitewall-1.jpg)
 
 Number One stretched his short legs out beneath the table, tearing his Naan into ragged trapezoids on his plate. His gray eyes were set in his head like a fennec fox’s and they would not leave mine in peace for a moment. Eighteen, stupid, I buried my self-consciousness beneath a mouthful of milk balls and a curtain of dirty blonde hair — this guy was the first man I’d ever dated, after all.
 

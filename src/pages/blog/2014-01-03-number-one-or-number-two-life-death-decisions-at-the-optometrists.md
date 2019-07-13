@@ -28,7 +28,7 @@ Today, I pinched its decrepit body out of my eye and watched with glee as its fl
 
 Going to the eye doctor is a necessary evil for people who are genetically impaired. It starts when you’re a shy little nine year-old who suddenly can’t see. Your mom takes you to the third floor of a somber brick building where a guy who looks like the young Bob Denver takes you to a room that smells like baby carrots. He hooks you up to all of this machinery that masks your face. It’s almost like you’re going to a masquerade ball, except for the fact that it’s actually the burial site of your last shred of dignity.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/01/420-woman-eye-examination-vision-insurance.imgcache.rev1333650148427.jpg)](http://www.igobyari.com/wp-content/uploads/2014/01/420-woman-eye-examination-vision-insurance.imgcache.rev1333650148427.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/01/420-woman-eye-examination-vision-insurance.imgcache.rev1333650148427.jpg)](https://www.igobyari.com/wp-content/uploads/2014/01/420-woman-eye-examination-vision-insurance.imgcache.rev1333650148427.jpg)
 
 This is the sad smile of dignity destroyed. 
 
@@ -42,7 +42,7 @@ Every single year, there’s a moment when you feel like your prescription has m
 
 The nurse hands you a plastic thing that looks like this:
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/01/eye_pinhole1.jpg)](http://www.igobyari.com/wp-content/uploads/2014/01/eye_pinhole1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/01/eye_pinhole1.jpg)](https://www.igobyari.com/wp-content/uploads/2014/01/eye_pinhole1.jpg)
 
 Classy business, I know. 
 
@@ -72,7 +72,7 @@ He does nothing, then switches the dial. Does nothing, switches the dial. Your v
 
 They’re supposed to get sharper now, right? The options? Indicating that you’re on the right path? But no. The options get blurrier, smoggier. You pick four. Four leads you astray.
 
-                  ![](http://www.igobyari.com/wp-content/uploads/2014/01/you-were-the-chosen-one.jpg)  
+                  ![](https://www.igobyari.com/wp-content/uploads/2014/01/you-were-the-chosen-one.jpg)  
 Panicking. Panicking. Panicking. Gilligan flicks through options, his hands near your nose. You guess again and again, unsure of yourself — it’s like last year’s Climage Change final all over again. They’re blurry, then sharp, then blurry. You can’t tell if it’s your vision or the tears building up in your eyes or what. Maybe Gilligan’s got a bad case of halitosis that causes cataracts. You’re just too overwhelmed to be here right now.
 
 Finally, the doctor pulls away the machine and says, “Well, you’re not going blind! Your right eye didn’t change at all. Left eye went down one. Yay!”
@@ -87,5 +87,5 @@ You are a sad little figure hunched over a mirror, tricked into thinking your ey
 
 You know immediately when you put in your new contacts if you guessed correctly or not. You know it by the small degree off perfect that you can sense in your left eye, by the way you nearly trip and fall down three flights of stairs.
 
-                                        ![you have chosen poorly](http://www.igobyari.com/wp-content/uploads/2014/01/you-have-chosen-poorly.jpg)  
+                                        ![you have chosen poorly](https://www.igobyari.com/wp-content/uploads/2014/01/you-have-chosen-poorly.jpg)  
 $49 for contacts that are STILL not accurately prescribed. Fruit loops.

@@ -25,7 +25,7 @@ tags:
 ---
 _I gave this talk in Sacrament Meeting today and thought I’d share it. As is usually the case, it was a spiritual buoy for me to write this week. _
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/01/e1b14a77d7491c70d30753f98ec2d13c.jpg)](http://www.igobyari.com/wp-content/uploads/2014/01/e1b14a77d7491c70d30753f98ec2d13c.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/01/e1b14a77d7491c70d30753f98ec2d13c.jpg)](https://www.igobyari.com/wp-content/uploads/2014/01/e1b14a77d7491c70d30753f98ec2d13c.jpg)
 
             I’m going to start with a question: what things does Heavenly Father ask you to do that you don’t think you can do? And one more question: why don’t you think you can do them? 
 

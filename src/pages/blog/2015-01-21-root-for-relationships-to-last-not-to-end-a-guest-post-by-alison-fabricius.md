@@ -27,7 +27,7 @@ _The following is a guest post by Alison Fabricius, one of my good friends. _
 
 ❤ : _Ari_
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/fsmoak.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/fsmoak.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/fsmoak.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/fsmoak.jpg)
 
 A still from _Arrow. _
 
@@ -59,7 +59,7 @@ We as human beings have this unique way of seeing a tiny bit of what someone els
 I don’t want a Felicity Smoak relationship, to simply move to the next man when the first one says goodbye and I love you. If I did, I would have been gone long ago. My fiancee has tried to warn me off a couple times, but I knew we had something and it was worth it, and for every warning he gave, he took each of those offers back. I know that the two of us have a power to change the world that we don’t have separately. We have a love that stops Satan’s minions in their tracks, and that is something worthwhile. Just like we all root for Felicity to eventually end up with Oliver or Kitty Pryde to end up with her man, please root for relationships to last, not to end.  
   
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/alisonpost1.png)](http://www.igobyari.com/wp-content/uploads/2015/01/alisonpost1.png)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/alisonpost1.png)](https://www.igobyari.com/wp-content/uploads/2015/01/alisonpost1.png)
 
   
 
@@ -71,4 +71,4 @@ You can follow her musings about how to make a difference in the world we live i
   
 
 You can also read more from her on this blog at  
-[http://www.igobyari.com/2015/01/accepting-bumps-in-road-guest-post-by.html](http://www.igobyari.com/2015/01/accepting-bumps-in-road-guest-post-by.html)
+[https://www.igobyari.com/2015/01/accepting-bumps-in-road-guest-post-by.html](https://www.igobyari.com/2015/01/accepting-bumps-in-road-guest-post-by.html)

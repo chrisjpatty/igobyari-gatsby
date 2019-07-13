@@ -25,13 +25,13 @@ tags:
   - rant
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/03/tumblr_mehcrbPGH51r1uuc8o1_r1_500.png)](http://www.igobyari.com/wp-content/uploads/2013/03/tumblr_mehcrbPGH51r1uuc8o1_r1_500.png)
+[![](https://www.igobyari.com/wp-content/uploads/2013/03/tumblr_mehcrbPGH51r1uuc8o1_r1_500.png)](https://www.igobyari.com/wp-content/uploads/2013/03/tumblr_mehcrbPGH51r1uuc8o1_r1_500.png)
 
 So I watched both Pocahontas movies for the first time in, literally, about ten years today. They were both pretty ridiculous. For example, did you notice how quickly John Smith and Pocahontas got past the language barrier in the first one? Sketchy.
 
 Anyway, I had forgotten about how dang attractive John Rolfe is. I realize that half the planet hates his guts for wooing Pocahontas and dragging her away from her beloved John Smith, but LOOK AT HIM.
 
-![](http://www.igobyari.com/wp-content/uploads/2013/03/tumblr_lpwbx4lo3L1qmyoflo1_500.gif)
+![](https://www.igobyari.com/wp-content/uploads/2013/03/tumblr_lpwbx4lo3L1qmyoflo1_500.gif)
 
 He’s got his smokey gray eyes, walnut colored hair, gentlemanly nod of respect towards his girl Pocahontas. Lest you forget, John Smith had a gun pointed at her face when they first met. A GUN. Rolfe may have been utterly ridiculous, but at least he tried to be polite.
 
@@ -57,10 +57,10 @@ Here are ten good reasons why JR is better than JS:
 
 9\. Look at that guy. He knows how to give a sincere compliment.
 
- ![](http://www.igobyari.com/wp-content/uploads/2013/03/tumblr_m72xn8tzjX1qm6oc3o1_500.gif)
+ ![](https://www.igobyari.com/wp-content/uploads/2013/03/tumblr_m72xn8tzjX1qm6oc3o1_500.gif)
 
 10\. LOOK AT HIM. LOOK AT THAT FACE. He would have done ANYTHING if he thought it was what Pocahontas wanted. HOW CAN YOU NOT MELT INTO A PILE OF FLESHY MUSH ABOUT THAT?!
 
-![](http://www.igobyari.com/wp-content/uploads/2013/03/tumblr_m7xnq8Dkom1qh1mzno1_500.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2013/03/tumblr_m7xnq8Dkom1qh1mzno1_500.jpg)
 
 I don’t care what people say. John Rolfe is _way _better than John Smith. End of story.

@@ -21,7 +21,7 @@ tags:
   - life
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/07/birthday.jpg)](http://www.igobyari.com/wp-content/uploads/2014/07/birthday.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/07/birthday.jpg)](https://www.igobyari.com/wp-content/uploads/2014/07/birthday.jpg)
 
 Yes. That hamburger is actually a cake, white cake on top and bottom, chocolate in the middle.  
 Instant coma. 
@@ -40,7 +40,7 @@ As far as birthdays go, however, yesterday’s was memorable, to say the least. 
 
 Here’s how it all went down:
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/07/oprebir.jpg)](http://www.igobyari.com/wp-content/uploads/2014/07/oprebir.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/07/oprebir.jpg)](https://www.igobyari.com/wp-content/uploads/2014/07/oprebir.jpg)
 
 **OPERATION REVERSE BIRTHDAY **
 

@@ -27,7 +27,7 @@ _The following is a guest post by Alison Fabricius, one of my good friends. _
 
 ❤ : _Ari_
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/road1.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/road1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/road1.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/road1.jpg)
 
 I stood up from pinning a quilt one day last year and felt something in my back give. For the next 24 hours, I was in agony, and upon my visit to the ER, I was told it was simply a deep tissue muscle spasm. I was told that with a week of bed rest, I would be fine, but three months later, that has proven not to be the case. I underwent a bi-lateral micro discectomy and have since been confined to the bed or couch whenever I’m not outside walking. This injury has given me a lot of time to ponder about my journey and where I’m meant to be. I’ve often wondered if I’m simply not on the right road and many times have felt an almost total melt down on the fringes. I found a scripture in my morning reading, and I wish I could remember the reference. But I remembered the part I needed to…hope is required for eternal life. I’ve made this my motto. Sure, I don’t know how I’m going to pay for next semester, or when I’m getting married or when I’m going to be able to return to work. But I know Heavenly Father put me here, He prepared for this “bump” in the road, as I call it. For Him it’s always simply been an opportunity.  How do I know this? Let me share how I’ve started learning about this principle.
 
@@ -53,7 +53,7 @@ Sometimes I feel like my entire young life went so smoothly along, with no bumps
 
 \-A learning young woman
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/alisonpost1-1.png)](http://www.igobyari.com/wp-content/uploads/2015/01/alisonpost1-1.png)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/alisonpost1-1.png)](https://www.igobyari.com/wp-content/uploads/2015/01/alisonpost1-1.png)
 
  Alison is a born and raised native of Cache Valley, Utah who loves the beauty of the mountains and staying up late to write history papers. She’s traveled around the world, both physically and metaphorically, and says she’s learned one thing: Heavenly Father makes a very reliable traveling companion.
 

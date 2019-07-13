@@ -21,7 +21,7 @@ tags:
   - life
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/08/sillyface.jpg)](http://www.igobyari.com/wp-content/uploads/2013/08/sillyface-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/08/sillyface.jpg)](https://www.igobyari.com/wp-content/uploads/2013/08/sillyface-1.jpg)
 
 A current photograph
 

@@ -23,7 +23,7 @@ tags:
   - Mormon
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/11/temple.jpg)](http://www.igobyari.com/wp-content/uploads/2014/11/temple.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/11/temple.jpg)](https://www.igobyari.com/wp-content/uploads/2014/11/temple.jpg)
 
 Wednesday, after an inspired and somewhat difficult journey getting there, I got to go through the temple for the very first time to become endowed. To be there with my family around me, particularly my grandpa, who struggles with various health issues and essentially fasted all day so his dietary problems wouldn’t keep him away, was probably the best part.
 

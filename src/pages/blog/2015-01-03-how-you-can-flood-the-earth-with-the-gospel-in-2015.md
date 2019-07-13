@@ -22,7 +22,7 @@ tags:
   - blog the gospel
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/blogthegosppost.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/blogthegosppost.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/blogthegosppost.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/blogthegosppost.jpg)
 
 [Photo by Thomas Leuthard](https://www.flickr.com/photos/thomasleuthard/)
 
@@ -50,7 +50,7 @@ A year ago, I would not have been able to tell you how a blog is supposed to do 
 
 Think, for a moment, of the Internet like it’s a busy city or billboard-infested highway. There are so many noises and sights and sounds screeching for your attention, begging for you to invest in something temporal and, often, not uplifting. We may not be able to block out all of those noises and sights and sounds, but each one of us can create a corner of the Internet where people can find safety and peace. And if every one of us were to create that corner with a blog, the Internet would be a far better thing than it is. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/blog2Barmy.jpg)](http://www.igobyari.com/wp-content/uploads/2015/01/blog2Barmy.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/blog2Barmy.jpg)](https://www.igobyari.com/wp-content/uploads/2015/01/blog2Barmy.jpg)
 
 Forgive me, Friberg, for messing with your painting. 
 
@@ -66,6 +66,6 @@ So, how do you start to blog? [Here’s a great place to start if you have abso
 
 This year, let’s Blog the Gospel. You can be an official part of that effort, receive blog prompts and tricks, and connect with other bloggers [at this new Facebook page created just for the occasion. ](https://www.facebook.com/pages/Blog-the-Gospel/878378612182299)
 
-[![](http://www.igobyari.com/wp-content/uploads/2015/01/blog2Bthe2Bgospel2Bbutton3.png)](http://www.igobyari.com/wp-content/uploads/2015/01/blog2Bthe2Bgospel2Bbutton3.png)
+[![](https://www.igobyari.com/wp-content/uploads/2015/01/blog2Bthe2Bgospel2Bbutton3.png)](https://www.igobyari.com/wp-content/uploads/2015/01/blog2Bthe2Bgospel2Bbutton3.png)
 
 If Elder Bednar says we can flood the earth with the gospel, then we need to be ready and willing to use the tools we have to do it. Blogging is one great tool. Don’t be afraid of it. Just do it! You never know whose life you’ll change for the better.

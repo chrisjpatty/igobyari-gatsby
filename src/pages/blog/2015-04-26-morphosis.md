@@ -23,7 +23,7 @@ tags:
   - writing
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/04/phoenix-bird.jpg)](http://www.igobyari.com/wp-content/uploads/2015/04/phoenix-bird.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/04/phoenix-bird.jpg)](https://www.igobyari.com/wp-content/uploads/2015/04/phoenix-bird.jpg)
 
 Over the sound of bicycle pawls tick, tick, ticking across a cracked country road, I hear a piano. The song sneaks through my headphones like a cold breeze through an almost-closed window. I know the sound. I know the name. Primavera by Ludovico Einaudi. The song that helped me survive. 
 

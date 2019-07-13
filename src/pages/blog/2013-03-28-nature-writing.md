@@ -25,7 +25,7 @@ tags:
   - writing
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/03/Dana_Stopler_DSC_0087.jpg)](http://www.igobyari.com/wp-content/uploads/2013/03/Dana_Stopler_DSC_0087-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/03/Dana_Stopler_DSC_0087.jpg)](https://www.igobyari.com/wp-content/uploads/2013/03/Dana_Stopler_DSC_0087-1.jpg)
 
 We strangers shuffle across Old Main’s sidewalks in what feels like the dead of winter. Chins buried in our scarves, shoes and boots slapping murky cement. Sometimes we walk hundreds of feet like that, not looking up, not wanting to exhale just to inhale ice. We stare at the ground with hopes that it will take us to class faster.
 

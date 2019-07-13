@@ -34,13 +34,13 @@ categories:
 
 <span style="color: #000000;">I was born on July 16th, 1992 to a man who was born at the cusp of Beatlemania and a woman whose hair icon may well have been Anni-Frid Lyngstad. By the time I had both little feet in the world in the early 90s, each of my parents still had one of theirs stuck in the late 80s. I suppose it shouldn’t be a surprise, then, that they took inspiration for my name &#8212; the defining word of my existence &#8212; from Alphaville, gods of puffy-haired proms and sticky teenage nostalgia.</span>
 
-<img class="alignnone size-medium wp-image-2969 aligncenter" src="http://www.igobyari.com/wp-content/uploads/2018/09/ariville-570x410.jpg" alt="ariville" width="570" height="410" />
+<img class="alignnone size-medium wp-image-2969 aligncenter" src="https://www.igobyari.com/wp-content/uploads/2018/09/ariville-570x410.jpg" alt="ariville" width="570" height="410" />
 
 <span style="font-weight: 400;">I<span style="color: #000000;"> was named after track five of Alphaville’s third album, </span></span><span style="color: #000000;"><i><span style="font-weight: 400;">The Breathtaking Blue</span></i><span style="font-weight: 400;">. The song opens with a yawning deep note reminiscent of the Lucasfilm THX movie trailer &#8212; I like to think that’s the sound the universe made when I came barreling out of the womb. After a bit of drums and guitar, Marian Gold sings, “Driving down the streets, listening to the radio. What do you get: Ariana.” This, coincidentally, was what my parents were doing when they got the idea for my name.</span></span>
 
 <span style="color: #000000;">The Ariana of “Ariana” is an It Girl. She’s in newspapers, she’s on the silver screen, “she’s got chic, she’s got class, she’s got style.” Here&#8217;s this girl&#8217;s rap sheet (a badly cropped version):</span>
 
-<img class="alignnone size-medium wp-image-2974 aligncenter" src="http://www.igobyari.com/wp-content/uploads/2018/09/alphaville-lyric-570x410.jpg" alt="alphaville lyric" width="570" height="410" />
+<img class="alignnone size-medium wp-image-2974 aligncenter" src="https://www.igobyari.com/wp-content/uploads/2018/09/alphaville-lyric-570x410.jpg" alt="alphaville lyric" width="570" height="410" />
   
 <span style="color: #000000;">Basically, my mom and dad lovingly named me after the fictional equivalent of impossible standards for women, never suspecting that their Ariana’s spin on chique, class, and style would one day equate to binge watching obscure European thrillers in unwashed sweat pants and hocking snot rockets from her nose during long bicycle rides, but I digress.</span>
 

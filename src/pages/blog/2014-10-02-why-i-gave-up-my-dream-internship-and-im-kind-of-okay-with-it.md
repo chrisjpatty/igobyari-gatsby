@@ -23,7 +23,7 @@ tags:
   - work
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/10/health2Binsurance2Bsalt2Blake2Bcity.jpg)](http://www.igobyari.com/wp-content/uploads/2014/10/health2Binsurance2Bsalt2Blake2Bcity.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/10/health2Binsurance2Bsalt2Blake2Bcity.jpg)](https://www.igobyari.com/wp-content/uploads/2014/10/health2Binsurance2Bsalt2Blake2Bcity.jpg)
 
 Well, hi. This is awkward.
 
@@ -33,7 +33,7 @@ Things have changed. Namely: this weekend I will be coming home and not returnin
 
 _The following meme is for my sake only._
 
-![](http://www.igobyari.com/wp-content/uploads/2014/10/df08c5420e771195ad39322da7e49d3e79b1d0db3cda441a56ef130864e6b311.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2014/10/df08c5420e771195ad39322da7e49d3e79b1d0db3cda441a56ef130864e6b311.jpg)
 
 \*cue interjectory Q&A session\* 
 
@@ -72,11 +72,11 @@ About two weeks ago, I had what I imagine a midlife crisis/mental breakdown is. 
 
 **Ari: ** 
 
-![Pride and Prejudice](http://www.igobyari.com/wp-content/uploads/2014/10/Pride-and-Prejudice.gif)
+![Pride and Prejudice](https://www.igobyari.com/wp-content/uploads/2014/10/Pride-and-Prejudice.gif)
 
-![harry potter animated GIF](http://www.igobyari.com/wp-content/uploads/2014/10/giphy-5.gif)
+![harry potter animated GIF](https://www.igobyari.com/wp-content/uploads/2014/10/giphy-5.gif)
 
-![how about no animated GIF](http://www.igobyari.com/wp-content/uploads/2014/10/giphy-6.gif)
+![how about no animated GIF](https://www.igobyari.com/wp-content/uploads/2014/10/giphy-6.gif)
 
 Sometimes I’ve sent unvoiced prayers to my Heavenly Father, asking him to please give me a poetic life, one that ends where it begins, that has meaning, that is emotive. That may sound silly, but so far, he’s doing a fairly good job.
 

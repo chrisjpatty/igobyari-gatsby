@@ -26,7 +26,7 @@ tags:
   - controversy
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/03/hippie-feminists-300x200.jpg)](http://www.igobyari.com/wp-content/uploads/2013/03/hippie-feminists-300x200.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/03/hippie-feminists-300x200.jpg)](https://www.igobyari.com/wp-content/uploads/2013/03/hippie-feminists-300x200.jpg)
 
 I love being a woman. I love that I get to wake up every day with so many things to think about and so many topics to talk about. I love that I find enjoyment in dressing nicely and harmonizing with the radio and being sensitive to little things. Being a woman is kind of like being a pair of eyes, endlessly seeing and wondering and taking in and reacting.
 

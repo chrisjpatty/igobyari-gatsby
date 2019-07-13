@@ -23,7 +23,7 @@ tags:
 ---
 _Disclaimer: this post is a general observation of late. I was grouchy when I wrote it, so please excuse my lack of etiquette when you find it. _  
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mwh5mfoSY51qdrsl2o1_500.jpg)](http://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mwh5mfoSY51qdrsl2o1_500-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mwh5mfoSY51qdrsl2o1_500.jpg)](https://www.igobyari.com/wp-content/uploads/2013/12/tumblr_mwh5mfoSY51qdrsl2o1_500-1.jpg)
 
   
 I am exhausted. I am completely and utterly exhausted. I am exhausted because there’s so much awfulness in the world to fight against and so many hard hearts and deaf ears. I am exhausted because seemingly overnight I’ve become one of the most unpopular, hated people in the country right now for what I believe. I am exhausted because, frankly, I’m too sensitive to be as opinionated as I am, and it physically ruins my health to get involved with what we in America like to call “civil discussions.” And I’ve been in a lot of them this week.

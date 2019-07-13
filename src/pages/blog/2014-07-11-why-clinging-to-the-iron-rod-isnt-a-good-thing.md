@@ -59,4 +59,4 @@ Stripping away my metaphor from the iron rod metaphor, we get to the basic truth
 
 The Savior is the rock of our salvation, the stumbling block to those who don’t seek or trust him, but also the glorious way to the top of the mountains and a divine view we can get no other way. We must only have faith in our capacity to climb and in the equipment he’s given us to help get us there. The way might be steep and narrow, our environment dark and confusing, but with the scriptures, with the prophets, and with our faith, we will _always_ reach the top. And let me tell you, the moon and the streets and the hills and the trees are stunningly beautiful up there.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/07/boulderinn.jpg)](http://www.igobyari.com/wp-content/uploads/2014/07/boulderinn.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/07/boulderinn.jpg)](https://www.igobyari.com/wp-content/uploads/2014/07/boulderinn.jpg)

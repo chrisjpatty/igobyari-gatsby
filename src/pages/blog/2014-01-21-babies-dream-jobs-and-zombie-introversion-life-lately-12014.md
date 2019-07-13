@@ -46,7 +46,7 @@ and this: 
 
 and this:
 
-![image](http://www.igobyari.com/wp-content/uploads/2014/01/tumblr_inline_ml53cwSSGx1qheoy4.gif)
+![image](https://www.igobyari.com/wp-content/uploads/2014/01/tumblr_inline_ml53cwSSGx1qheoy4.gif)
 
 My last semester of college isn’t letting me go without a fight. Saying that makes me want to cry. It’s my _last_ semester. Oh my goodness.
 

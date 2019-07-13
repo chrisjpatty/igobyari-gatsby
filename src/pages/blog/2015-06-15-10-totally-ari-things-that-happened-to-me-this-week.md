@@ -26,7 +26,7 @@ tags:
   - Totally Ari Things
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/06/goofy2Bblog.jpg)](http://www.igobyari.com/wp-content/uploads/2015/06/goofy2Bblog-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/06/goofy2Bblog.jpg)](https://www.igobyari.com/wp-content/uploads/2015/06/goofy2Bblog-1.jpg)
 
 _In an effort to see the bright side of life more often, I introduce to you my new blog series,_ Totally Ari Things. _Life is hilariously embarrassing and good. We need only choose to forget the bad, and enjoy the ride. So here are 10 totally Ari things that happened to me this week._
 
@@ -40,17 +40,17 @@ In case you didn’t get that last part, I broke the dang sprinkler pipe and sen
 
 What I hoped I looked like post sprinkler explosion:
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/635494164653916463-1567340737_giphy.gif)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/635494164653916463-1567340737_giphy.gif)
 
 Selena, you cheeky babe, you.
 
 What I definitely looked like post sprinkler explosion:
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/MQN31Rm.gif)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/MQN31Rm.gif)
 
 Except more like this soaking wet cat:
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/Soaking_Wet_Cat.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/Soaking_Wet_Cat.jpg)
 
 My day was made all the more enjoyable when I tried running a wheelbarrow full of topsoil up a steep driveway and it fell over almost on top of me. Good times, my friends. Good times.
 
@@ -62,7 +62,7 @@ We grabbed some sticks and started digging. Nay, scratching. It was more like sc
 
 Plus, I almost felt like Bear Grylls for five minutes. I wouldn’t give those five minutes away for anything.
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/bear_grylls_1420991a.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/bear_grylls_1420991a.jpg)
 
 Who wouldn’t want to be this dude?
 
@@ -72,13 +72,13 @@ Growing up, I was never the rebellious kid. I always did what I was asked to do 
 
 If, by rule breaking, we’re talking jaywalking across the street without blinking an eye. What up.
 
-![Don't you mean this guy will be unemployed??](http://www.igobyari.com/wp-content/uploads/2015/06/Don_308b0a7e5913e5f536a4fbc7b5eeb554.png)
+![Don't you mean this guy will be unemployed??](https://www.igobyari.com/wp-content/uploads/2015/06/Don_308b0a7e5913e5f536a4fbc7b5eeb554.png)
 
 So last Saturday, there was a women’s bike ride with a route that passed by my house. This ride happens every year. I forget about it every year. But this year, I didn’t forget. I decided to hop on my own bike and join them. Which is totally not legal. And course marshals get you in trouble when you do it. Because you just hog up the whole dang road more than necessary when you’re not registered to ride.
 
 I slipped in with everybody else, though, and conveniently, had a backpack to hide any possible race number. Then I just copied everyone else’s signals and biked like I’d been there the whole ride, the whole while glorying in my cleverness.
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/im_invisable_duck_dynasty.gif)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/im_invisable_duck_dynasty.gif)
 
 Then my dad showed up at mile 10 on a recumbent and that was the end of that. It was good, though, breaking the rules with Dad. We just do our own thing.
 
@@ -94,7 +94,7 @@ Because when I was in high school, I bought some lensless glasses to complete a 
 
 \*facepalm\*
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/tumblr_inline_mguo457aHm1re0jxj.gif)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/tumblr_inline_mguo457aHm1re0jxj.gif)
 
 ### 5\. **I improvised.**
 
@@ -108,7 +108,7 @@ Which means that I may have used pine boughs as toilet paper.
 
 Yeah. I know what you’re thinking.
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/post-31731-Rudy-Misfits-gif-disgusted-Img-QceB.gif)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/post-31731-Rudy-Misfits-gif-disgusted-Img-QceB.gif)
 
 BEAR GRYLLS FOR LIFE!
 
@@ -120,7 +120,7 @@ Well, this was one of those churches that has a nice little walled area around i
 
 Yeah. Didn’t realize that that nice little walled area was built in such a way that it had close to 100 brick-sized holes all over it. Which means that anyone looking could see into it. Which means that I sucked my body into a corner and changed faster than Jeb Bush’s opinions on Iraq.
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/anigif_enhanced-buzz-13065-1362418592-4.gif)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/anigif_enhanced-buzz-13065-1362418592-4.gif)
 
 Close to 200 people had the opportunity to see me. Ooh la la.
 
@@ -144,7 +144,7 @@ I nervously spluttered, “Does anybody by these things, because I feel so stu�
 
 Purchases in hand, I zipped out of that joint, my new possession safely stuffed away. And in case you’re wondering about my epic climbing picture…the sun got in my eyes and it ended up being a close up of my shoulder with a hill in the distance. That I didn’t notice until we were done climbing.
 
-![](http://www.igobyari.com/wp-content/uploads/2015/06/boshWHYYY.gif)
+![](https://www.igobyari.com/wp-content/uploads/2015/06/boshWHYYY.gif)
 
 ### **8\. I nearly died. **
 

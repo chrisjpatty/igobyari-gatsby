@@ -22,7 +22,7 @@ tags:
   - Mormon
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/02/famhist.jpg)](http://www.igobyari.com/wp-content/uploads/2015/02/famhist.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/02/famhist.jpg)](https://www.igobyari.com/wp-content/uploads/2015/02/famhist.jpg)
 
 When I was a teenager, there was one word I probably hated more than any of the others: genealogy.
 

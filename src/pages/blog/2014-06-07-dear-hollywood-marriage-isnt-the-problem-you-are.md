@@ -27,7 +27,7 @@ Dear Hollywood,
 
 I’m used to your dirty tricks and warped sense of reality by now, the way you suck people into your facade of glitz and glamour. I grew up watching my favorite Disney stars turn into animals with no sense of morality or decency, while you looked on and did nothing. I’ve watched kids who had a future resort to drugs, sex, alcohol, and lawlessness under your watch while all you did was lament “it’s just a phase” and kept looking on, doing nothing. Your fame is the Holy Grail of America, the thing regular kids aspire to, but kill themselves trying to attain. Everything about you is glittering and dark and filthy. You are everybody who seeks you, gets lost in you, and stays stuck in your merry-go-round of recklessness and rehab.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/06/hollywood.jpg)](http://www.igobyari.com/wp-content/uploads/2014/06/hollywood.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/06/hollywood.jpg)](https://www.igobyari.com/wp-content/uploads/2014/06/hollywood.jpg)
 
 You’re an example, but you are the worst example.
 

@@ -35,10 +35,10 @@ Then there is my sister and I. Complete dweebs who do whatever we want.
 
 Gotta have a few good tunes when you boulder. Also: apologies for the swear-laced popup comments. I have no idea how to hide those: 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/boulderingcollage.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/boulderingcollage.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/boulderingcollage.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/boulderingcollage.jpg)
 
 Bouldering rocks. Badumchhhh. But really. It kills, but it’s grand.   
 
 Also. Random fact of the day: guess what came out of hibernation today? My boardie board! Here’s to not wrecking my body more than I need to with all of my weird hobbies this year.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/03/meandtheboard.jpg)](http://www.igobyari.com/wp-content/uploads/2014/03/meandtheboard.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/03/meandtheboard.jpg)](https://www.igobyari.com/wp-content/uploads/2014/03/meandtheboard.jpg)

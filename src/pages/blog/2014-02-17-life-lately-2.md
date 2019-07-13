@@ -49,7 +49,7 @@ Later on Friday, I thought I was going to work alone Valentine’s night, but my
 
 Oh, and my parents bought me a beautiful pink one.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/02/meandfleurs.jpg)](http://www.igobyari.com/wp-content/uploads/2014/02/meandfleurs.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/02/meandfleurs.jpg)](https://www.igobyari.com/wp-content/uploads/2014/02/meandfleurs.jpg)
 
 I’m surrounded by flowers, guys, and they smell _soooooo_ good. I keep shoving my nose right into them. 
 
@@ -67,11 +67,11 @@ There was this brief period when I paid attention to the Olympics. For once. Win
 
 ![](http://images.newscred.com/cD1jOGM1YTg1MmE3Njk3ZjU0YWZiZDk0MGMyNmNjNzY0OSZnPWY2ZTk3NWM1MGVlZTJjZTAyOThhZGFmMDA4MmRlNTQ5?width=640&height=427)
 
-![](http://www.igobyari.com/wp-content/uploads/2014/02/201402131052391208405-p5.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2014/02/201402131052391208405-p5.jpg)
 
 He laid there in obvious pain until I watched him mentally and physically choose to finish his performance. And he did. And it was nearly perfect. 
 
-![](http://media.zenfs.com/en_US/Sports/USA_Today/20140110_pjc_bt1_273-7f0f6104eef8541b701f5751536792ce)
+![](https://media.zenfs.com/en_US/Sports/USA_Today/20140110_pjc_bt1_273-7f0f6104eef8541b701f5751536792ce)
 
 I watched a boy who walked from door to door, asking for money to fund his dream of being an Olympian, take the silver in his event. 
 

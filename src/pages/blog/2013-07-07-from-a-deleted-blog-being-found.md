@@ -21,7 +21,7 @@ tags:
   - Uncategorized
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/starme-1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/starme-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/starme-1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/starme-1.jpg)
 
 The sun twists its tendrils through my blinds and warms my face until I feel the heat of it, see it pink behind closed eyelids that I slowly heave open. I stretch my limbs until they crack and slide my legs like a pendulum off of my bed and to the floor. Muted pink carpet feels soft between my toes. My fingers ruffle my hair, gritty with nighttime residue. I yawn, and when my lips close, a gust of morning breath batters my gums, whips across the roof of my mouth, and slides into my nasal passages. It’s bitter. I scowl.
 

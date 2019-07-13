@@ -24,7 +24,7 @@ tags:
   - Mormon
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/12/122Bdays2Bchallenge.jpg)](http://www.igobyari.com/wp-content/uploads/2014/12/122Bdays2Bchallenge.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/12/122Bdays2Bchallenge.jpg)](https://www.igobyari.com/wp-content/uploads/2014/12/122Bdays2Bchallenge.jpg)
 
 Christmas is in a mere 18 days, and I realized this weekend that I’ve not been doing so hot at remembering its real meaning. Or any meaning, for that matter. Amid the hustle and bustle of gift buying, gift wrapping, gift hunting, and gift demanding, I’ve been pretty selfish, giving most of my attention to what I don’t have and how I feel like I don’t measure up. As you might expect, that doesn’t leave much room for Christmas cheer. 
 

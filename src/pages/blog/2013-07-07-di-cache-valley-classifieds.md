@@ -22,7 +22,7 @@ tags:
   - work
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/di.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/di-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/di.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/di-1.jpg)
 
 Two summers after I graduated from high school, I was emotionally and mentally a mess. I didn’t have a job to keep me busy, I didn’t have classes to go to, and though they never meant for it to hurt like it did, my siblings would sometimes make off-the-cuff retorts, such as, “Well, at least I have a job.”
 
@@ -46,4 +46,4 @@ I’m posting this on my blog because my intentions were drowned out in a sea of
 
 Know the good these organizations do. Don’t just cast judgment because you’re concerned with what you can get out of every possible situation. Do what helps and changes others. Stop doing what can barely help and never change you.
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/07/Christimage.jpg)](http://www.igobyari.com/wp-content/uploads/2013/07/Christimage-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/07/Christimage.jpg)](https://www.igobyari.com/wp-content/uploads/2013/07/Christimage-1.jpg)

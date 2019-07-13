@@ -25,23 +25,23 @@ tags:
 ---
 I graduate tomorrow. Like, from college. What. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/Grad1.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/Grad1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/Grad1.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/Grad1.jpg)
 
 It’s come so fast and I feel so unprepared for it. This was me yesterday! I swear it was yesterday. I was weird and kind of dumb and really awkward, just graduating from high school like it was no big deal. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/DSC01352.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/DSC01352.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/DSC01352.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/DSC01352.jpg)
 
 And here I am now, ready to call Utah State University my alma mater.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/Grad5.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/Grad5.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/Grad5.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/Grad5.jpg)
 
 At this point, I’m having an internal freak out. 
 
-![Brain Filler: 50 Freakout GIFs - Image 1](http://www.igobyari.com/wp-content/uploads/2014/05/35518b95c77b884802b9499c4c310750.gif)
+![Brain Filler: 50 Freakout GIFs - Image 1](https://www.igobyari.com/wp-content/uploads/2014/05/35518b95c77b884802b9499c4c310750.gif)
 
-![Brain Filler: 50 Freakout GIFs - Image 1](http://www.igobyari.com/wp-content/uploads/2014/05/296b7ef0403d4cb097ef56bb4375bbdc.gif)
+![Brain Filler: 50 Freakout GIFs - Image 1](https://www.igobyari.com/wp-content/uploads/2014/05/296b7ef0403d4cb097ef56bb4375bbdc.gif)
 
-![Brain Filler: 50 Freakout GIFs - Image 1](http://www.igobyari.com/wp-content/uploads/2014/05/ce735e2c4bbb568f6ce35d014df5aa60.gif)
+![Brain Filler: 50 Freakout GIFs - Image 1](https://www.igobyari.com/wp-content/uploads/2014/05/ce735e2c4bbb568f6ce35d014df5aa60.gif)
 
 On Wednesday, I took my last final. Today, I’m turning in my last paper. A week ago, I had my last class. It was probably the best of the whole semester, and I felt this deep ache because who knows if my learning experiences will ever be the same from now on. I love education. It is so important to me. But this fall will be the first fall in seventeen years that I don’t return to school. (I just had no time to think about or apply for grad school.)
 
@@ -51,7 +51,7 @@ _What are you going to do now? _
 
 Oh, the places you’ll go, Dr. Seuss writes. But he never says where. Where am I going to go? What is my place in the world now? 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/Grad4.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/Grad4.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/Grad4.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/Grad4.jpg)
 
 Going to school for Creative Writing was a risk. A big risk. I wanted to be a journalist at first, but then I realized that my real love rests in writing for myself, writing creatively. Ever since that moment when I chose to pursue a dream, I’ve been bombarded by questions. 
 
@@ -89,4 +89,4 @@ Love. 
 
 Tomorrow, when I walk across that stage and throw my cap into the air and say goodbye, for now, to Utah State University, I will be reborn. Reset, if you will. That degree is just one part of a huge, all-encompassing, beautiful plan. The first act of a play that outdoes Shakespeare’s in size, influence, and magnificence. And I’m one of the Lord’s most valuable players. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/GRADANNOUNCEMENT1.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/GRADANNOUNCEMENT1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/GRADANNOUNCEMENT1.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/GRADANNOUNCEMENT1.jpg)

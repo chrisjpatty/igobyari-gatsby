@@ -23,7 +23,7 @@ tags:
 ---
 _\*So I’ve decided that I need to write way more than I have been lately. I’m going to try to do daily (or at least weekly) writing prompt responses so that I’m not so rusty. Today’s prompt (from _[http://www.panthermoon.com/generator.php](http://www.panthermoon.com/generator.php)) _was to write a pre-cannon (basically the story before the story) story for fifteen minutes using the word “ripples” for inspiration. I wrote a sort of pre-prologue prologue for my project Redd. Enjoy! _
 
-![](http://www.igobyari.com/wp-content/uploads/2013/07/zepp2.jpg)
+![](https://www.igobyari.com/wp-content/uploads/2013/07/zepp2.jpg)
 
 The rain fell in sheets that smashed so loudly against the ground, nobody could hear the oncoming buzz of the narrow zeppelin in the night sky. Nor could they see its slow creep towards the Bates mansion at the top of the cliffs. 
 

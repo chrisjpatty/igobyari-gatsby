@@ -30,7 +30,7 @@ tags:
   - rant
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/1332344.png)](http://www.igobyari.com/wp-content/uploads/2014/05/1332344.png)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/1332344.png)](https://www.igobyari.com/wp-content/uploads/2014/05/1332344.png)
 
 _Disclaimer: This post was in no way written to marginalize missions and the great importance of missionaries, nor was it intended to be used to excuse unrighteous judgment and decisions in any way. Its purpose is to hopefully remove stigmas that I feel are not Christlike. It’s a hard world we live in, and we cannot allow the environment in our wards and hometowns to be just as hard for someone who is struggling. Be kind. _
 
@@ -75,7 +75,7 @@ That conversation has been at the back of my mind ever since, in multiple contex
 
 Too often, I think we misuse the scripture “by their fruits ye shall know them” in the context of missions. We assume that the mission _is_ the fruit, that obviously a young man is good and upstanding and worthy of being married in the temple because he’s served two full years. In reality, the mission is more like the climate the fruit has to grow in and fight in, just as the military or life or work or the critical culture of a hometown are the climates that other young men get to fight through. Half the Quorum of the Twelve are perfect examples of fruit flourishing without the aid of a mission. The fruit is simply what a person makes of themselves during and after their experiences.
 
-[![](http://www.igobyari.com/wp-content/uploads/2014/05/only_an_rm_is_a_real_man_tees-ra0638322e1d44c3e89c51550ccb5fb3c_804gy_512.jpg)](http://www.igobyari.com/wp-content/uploads/2014/05/only_an_rm_is_a_real_man_tees-ra0638322e1d44c3e89c51550ccb5fb3c_804gy_512.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2014/05/only_an_rm_is_a_real_man_tees-ra0638322e1d44c3e89c51550ccb5fb3c_804gy_512.jpg)](https://www.igobyari.com/wp-content/uploads/2014/05/only_an_rm_is_a_real_man_tees-ra0638322e1d44c3e89c51550ccb5fb3c_804gy_512.jpg)
 
 Two things.  
 1) Stop it, stop it, STOP IT.  

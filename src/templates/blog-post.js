@@ -25,7 +25,6 @@ export const BlogPostTemplate = ({
   relatedPosts
 }) => {
   const PostContent = contentComponent || Content
-  console.log(relatedPosts);
   return (
     <PageWrapper>
       {helmet || ''}
@@ -145,7 +144,7 @@ export const pageQuery = graphql`
         title
         featuredimage{
           childImageSharp{
-            resize(width: 350, height: 200){
+            fixed(width: 350, height: 200){
               tracedSVG
               aspectRatio
               src
@@ -164,7 +163,7 @@ export const pageQuery = graphql`
         title
         featuredimage{
           childImageSharp{
-            resize(width: 350, height: 200){
+            fixed(width: 350, height: 200){
               tracedSVG
               aspectRatio
               src
@@ -183,7 +182,7 @@ export const pageQuery = graphql`
         title
         featuredimage{
           childImageSharp{
-            resize(width: 350, height: 200){
+            fixed(width: 350, height: 200){
               tracedSVG
               aspectRatio
               src
@@ -242,6 +241,9 @@ const ContentWrapper = styled('article')({
   padding: '0px 20px',
   '& p': {
     // textAlign: 'justify'
+  },
+  '& img': {
+    maxWidth: '100%'
   },
   '&::first-letter': {
     fontSize: '475%',

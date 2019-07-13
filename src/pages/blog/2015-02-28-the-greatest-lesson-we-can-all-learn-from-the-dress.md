@@ -22,7 +22,7 @@ tags:
   - thoughts
 
 ---
-[![](http://www.igobyari.com/wp-content/uploads/2015/02/the2Bdress.jpg)](http://www.igobyari.com/wp-content/uploads/2015/02/the2Bdress.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2015/02/the2Bdress.jpg)](https://www.igobyari.com/wp-content/uploads/2015/02/the2Bdress.jpg)
 
 _Yes. I am going here. _
 

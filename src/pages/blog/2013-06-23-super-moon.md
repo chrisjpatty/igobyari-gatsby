@@ -23,4 +23,4 @@ tags:
 ---
 She was gorgeous. 
 
-[![](http://www.igobyari.com/wp-content/uploads/2013/06/moon1.jpg)](http://www.igobyari.com/wp-content/uploads/2013/06/moon1-1.jpg)
+[![](https://www.igobyari.com/wp-content/uploads/2013/06/moon1.jpg)](https://www.igobyari.com/wp-content/uploads/2013/06/moon1-1.jpg)
