@@ -7,29 +7,30 @@ import TriPostBlock from "./TriPostBlock";
 import AboutMeBlock from "./AboutMeBlock";
 import HorizontalPostBlock from "./HorizontalPostBlock";
 
-class BlogRoll extends React.Component {
-  render() {
-    const { data } = this.props;
-    const { indexPage, allPosts } = data;
-    const { edges: posts = [] } = allPosts;
-    const featuredPost = posts.slice(0, 1)[0];
-    const triPosts = posts.slice(1, 4);
-    const restPosts = posts.slice(4);
-    return (
-      <Wrapper>
-        <FeaturedPost post={featuredPost} />
-        <TriPostBlock posts={triPosts} />
-        <AboutMeBlock
-          photo={indexPage.frontmatter.profilePhoto}
-          biography={indexPage.frontmatter.biography}
-        />
-        {posts &&
-          restPosts.map(({ node: post }, i) => (
-            <HorizontalPostBlock post={post} reversed={i % 2 !== 0} />
-          ))}
-      </Wrapper>
-    );
-  }
+const BlogRoll = ({data}) => {
+  const [postLimit, setPostLimit] = React.useState(8);
+  const { indexPage, allPosts } = data;
+  const { edges: posts = [] } = allPosts;
+  const featuredPost = posts.slice(0, 1)[0];
+  const triPosts = posts.slice(1, 4);
+  const restPosts = posts.slice(4);
+  return (
+    <Wrapper>
+      <FeaturedPost post={featuredPost} />
+      <TriPostBlock posts={triPosts} />
+      <AboutMeBlock
+        photo={indexPage.frontmatter.profilePhoto}
+        biography={indexPage.frontmatter.biography}
+      />
+      {posts &&
+        restPosts.slice(0, postLimit).map(({ node: post }, i) => (
+          <HorizontalPostBlock post={post} reversed />
+        ))}
+      <LoadMoreRow>
+        <LoadMoreButton onClick={() => setPostLimit(limit => limit + 8)}>Load More</LoadMoreButton>
+    </LoadMoreRow>
+    </Wrapper>
+  );
 }
 
 BlogRoll.propTypes = {
@@ -111,6 +112,21 @@ const Wrapper = styled("div")`
   flex-direction: column;
   align-items: center;
 `;
+
+const LoadMoreRow = styled('div')`
+  display: flex;
+  justify-content: center;
+  width: 100%;
+`
+
+const LoadMoreButton = styled('button')`
+  border: none;
+  background: #efefef;
+  padding: 15px 20px;
+  &:hover{
+    background: #dad8d8;
+  }
+`
 
 const PostMeta = styled("div")(
   {},
