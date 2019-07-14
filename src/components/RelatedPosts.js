@@ -2,7 +2,7 @@ import React from 'react'
 import styled from '@emotion/styled'
 import Img from 'gatsby-image'
 
-export default ({posts}) => (
+export default ({posts = []}) => (
   <Row>
     {
       posts.map(post => (
