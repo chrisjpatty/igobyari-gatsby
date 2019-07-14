@@ -2,12 +2,16 @@ import React from 'react'
 import styled from '@emotion/styled'
 import { Link } from 'gatsby'
 import { css } from '@emotion/core'
+import MenuIcon from '../img/MenuIcon'
 
 const Navbar = class extends React.Component {
   render() {
-    const { hideNavigation } = this.props;
+    const { hideNavigation, onRequestMenuOpen } = this.props;
     return (
       <Header>
+        <MenuButton onClick={onRequestMenuOpen}>
+          <MenuIcon/>
+        </MenuButton>
         <Link to='/'>
           <Branding>
             I GO BY ARI
@@ -65,5 +69,22 @@ const linkStyles = css`
   border-bottom: 2px solid transparent;
   &:hover{
     border-bottom: 2px solid #aaaaaa;
+  }
+`
+
+const MenuButton = styled('button')`
+  background: none;
+  border: none;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  padding-left: 15px;
+  padding-top: 21px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  outline: none;
+  svg{
+    width: 35px;
+    fill: rgb(200, 200, 200);
   }
 `
