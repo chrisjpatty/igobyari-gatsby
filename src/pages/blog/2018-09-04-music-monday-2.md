@@ -1,27 +1,8 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 title: Music Monday
-author: ariwrees
-type: post
-date: 2018-09-04T06:46:08+00:00
-url: /?p=2947
-wpmm_postgrid_views:
-  - 332
-slide_template:
-  - default
-pmc_featured_category:
-  - 1
-pmc_featured_post:
-  - 1
-rima_post_layout:
-  - default
-rima_post_sidebar:
-  - default
-rima_gallery_post_layout:
-  - slideshow
-categories:
-  - Music
-
+date: 2018-09-04T06:46:08.000Z
+featuredimage: /img/icons8-team-643494-unsplash.jpg
 ---
 It will be midnight by the time I get this published, but what the heck. Here are a few tunes I&#8217;m really digging lately:
 
