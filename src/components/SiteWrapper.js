@@ -25,12 +25,12 @@ const SiteWrapper = ({ children, menuOpen, onRequestMenuClose }) => {
       onTransitionEnd={handleTransitionEnd}
     >
       <Helmet>
-        <meta name="theme-color" content={menuOpen ? "#456746" : "#ffffff"} />
+        <meta name="theme-color" content={menuOpen ? "#f08168" : "#ffffff"} />
       </Helmet>
       <Global
         styles={css`
           body {
-            background: ${menuOpen ? "#456746" : "none"};
+            background: ${menuOpen ? "#f08168" : "none"};
             overflow: ${menuOpen ? 'hidden' : ''};
             width: ${menuOpen ? '100vw' : ''};
             height: ${menuOpen ? '100vh' : ''};
@@ -64,7 +64,7 @@ const Wrapper = styled("div")(
           overflow: "auto",
           borderRadius: 20,
           transform: "scale(.8) translateX(80%)",
-          boxShadow: "0px 10px 500px -15px rgba(0,0,0,.4)",
+          boxShadow: "0px 10px 500px -15px rgba(131, 32, 0, 0.4)",
           pointerEvents: "none"
         }
       : {},
