@@ -13,15 +13,17 @@ const HorizontalPostBlock = ({ post, reversed }) => (
       <DateWrapper>{post.frontmatter.date}</DateWrapper>
       <Excerpt>{post.frontmatter.description || post.excerpt}</Excerpt>
     </Story>
-    {post.frontmatter.featuredimage ? (
-      <Img
-        className='f-image'
-        css={imgStyles}
-        fluid={post.frontmatter.featuredimage.childImageSharp.fluid}
-      />
-    ) : (
-      <ImagePlaceholder className='f-image f-placeholder' />
-    )}
+    <Link css={photoLinkStyles} to={post.fields.slug}>
+      {post.frontmatter.featuredimage ? (
+        <Img
+          className='f-image'
+          css={imgStyles}
+          fluid={post.frontmatter.featuredimage.childImageSharp.fluid}
+        />
+      ) : (
+        <ImagePlaceholder className='f-image f-placeholder' />
+      )}
+    </Link>
   </Wrapper>
 );
 
@@ -57,6 +59,14 @@ const linkStyles = css`
     text-decoration-color: rgb(189, 189, 189);
   }
 `;
+
+const photoLinkStyles = css`
+  width: 100%;
+  max-width: 300px;
+  @media (max-width: 740px){
+    max-width: 100%;
+  }
+`
 
 const Story = styled("div")`
   margin-right: ${({ reversed }) => (reversed ? 0 : 50)}px;

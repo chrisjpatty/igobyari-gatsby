@@ -28,6 +28,7 @@ const Wrapper = styled('section')`
   min-height: 300px;
   position: relative;
   margin: 30px 0px;
+  margin-top: 15px;
   padding: 280px 0px;
   overflow: hidden;
   @media(max-width: ${({theme}) => theme.breakpoints.sm}px){

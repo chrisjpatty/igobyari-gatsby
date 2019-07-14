@@ -49,7 +49,7 @@ const Title = styled("h2")`
 const DateWrapper = styled('span')`
   font-style: italic;
   color: rgb(115, 115, 115);
-  margin-top: -10px;
+  margin-top: -15px;
   margin-bottom: 15px;
 `
 
