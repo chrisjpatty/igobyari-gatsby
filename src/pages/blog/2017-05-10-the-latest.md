@@ -1,22 +1,11 @@
 ---
-templateKey: 'blog-post'
-title: Lately, I’ve been
 description: ''
-author: ariwrees
-type: post
-date: 2017-05-10T01:13:38+00:00
-url: /?p=2843
-layout:
-  - sidebar
-gallery_layout:
-  - tiled
-wpmm_postgrid_views:
-  - 214
-categories:
-  - Uncategorized
+templateKey: blog-post
+title: 'Lately, I’ve been'
+date: 2017-05-10T01:13:38.000Z
+featuredimage: /img/me-in-logan.jpg
 tags:
   - life
-
 ---
 <p style="text-align: left;">
   <strong>eating: </strong>lots of tacos. I ate six on Cinco de Mayo that were the size of my face and legitimately thought I was going to die. By the end of the summer, I plan on being the Cache Valley white girl taco expert. Thus far, the restaurant formerly known as El Salvador has hands down the best tacos I&#8217;ve ever eaten in my life. La Chispita is an okay choice, though, if it&#8217;s Taco Tuesday/Thursday and you&#8217;re not that far south. The owners are selfless dears, so I&#8217;ll recommend them any day.

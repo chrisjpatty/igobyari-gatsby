@@ -1,20 +1,9 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 title: 'When Human Beings are Nets : Thoughts on Suicide'
 description: ''
-author: ariwrees
-type: post
-date: 2017-05-03T03:20:03+00:00
-url: /?p=2821
-layout:
-  - sidebar
-gallery_layout:
-  - tiled
-wpmm_postgrid_views:
-  - 332
-categories:
-  - Uncategorized
-
+date: 2017-05-03T03:20:03.000Z
+featuredimage: /img/tina-hartung-vboedrv-chm-unsplash.jpg
 ---
 When you jump off the Golden Gate Bridge, you perhaps expect to slide effortlessly into the water below and quietly cease to exist, like a lit match under the open spout of a kitchen sink. You don&#8217;t expect waves to feel like concrete, ocean to chew and _then _swallow. But it does. Or so that&#8217;s what the man being interviewed on NPR says when the reporter asks him how it felt to attempt suicide.
 
