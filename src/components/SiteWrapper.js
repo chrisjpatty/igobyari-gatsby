@@ -26,7 +26,7 @@ const SiteWrapper = ({ children, menuOpen, onRequestMenuClose }) => {
       <Global
         styles={css`
           body {
-            background: ${menuOpen ? "#305831" : "none"};
+            background: ${menuOpen ? "#456746" : "none"};
             overflow: ${menuOpen ? 'hidden' : ''}
           }
         `}
@@ -53,7 +53,7 @@ const Wrapper = styled("div")(
           overflow: "auto",
           borderRadius: 20,
           transform: "scale(.8) translateX(80%)",
-          boxShadow: "0px 10px 300px -15px rgba(0,0,0,.4)",
+          boxShadow: "0px 10px 500px -15px rgba(0,0,0,.4)",
           pointerEvents: "none"
         }
       : {},

@@ -34,8 +34,8 @@ const MenuWrapper = styled('div')`
   position: fixed;
   left: 0px;
   top: 0px;
-  width: 75%;
-  height: 100%;
+  width: 75vw;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -71,7 +71,7 @@ const LinkWrapper = styled('nav')`
     color: #fff;
     text-decoration: none;
     font-weight: 300;
-    margin-bottom: 35px;
+    margin-bottom: 5vh;
     font-size: 30px;
     text-align: right;
     width: 100%;
