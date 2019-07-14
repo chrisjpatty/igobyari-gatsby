@@ -40,10 +40,11 @@ const MenuWrapper = styled('div')`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  animation: ${fadeIn} 500ms;
-  animation-delay: 300ms;
+  animation: ${fadeIn} 400ms;
+  animation-delay: 200ms;
   animation-fill-mode: forwards;
   opacity: 0;
+  will-change: transform;
 `
 
 const Branding = styled('h1')`

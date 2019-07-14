@@ -27,6 +27,7 @@ const SiteWrapper = ({ children, menuOpen, onRequestMenuClose }) => {
         styles={css`
           body {
             background: ${menuOpen ? "#305831" : "none"};
+            overflow: ${menuOpen ? 'hidden' : ''}
           }
         `}
       />
@@ -41,7 +42,7 @@ const Wrapper = styled("div")(
     background: "#ffffff",
     position: "relative",
     transform: "scale(1) translateX(0%)",
-    transition: "transform 500ms, border-radius 500ms",
+    transition: "transform 300ms, border-radius 300ms",
     transitionTimingFunction: 'cubic-bezier(0.785, 0.135, 0.15, 0.86)'
   },
   ({ menuOpen }) =>
