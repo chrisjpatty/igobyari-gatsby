@@ -25,9 +25,7 @@ const SiteWrapper = ({ children, menuOpen, onRequestMenuClose }) => {
       onTransitionEnd={handleTransitionEnd}
     >
       <Helmet>
-        <head>
-          <meta name="theme-color" content={menuOpen ? "#456746" : "#ffffff"} />
-        </head>
+        <meta name="theme-color" content={menuOpen ? "#456746" : "#ffffff"} />
       </Helmet>
       <Global
         styles={css`
