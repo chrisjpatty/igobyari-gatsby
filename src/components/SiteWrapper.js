@@ -27,7 +27,9 @@ const SiteWrapper = ({ children, menuOpen, onRequestMenuClose }) => {
         styles={css`
           body {
             background: ${menuOpen ? "#456746" : "none"};
-            overflow: ${menuOpen ? 'hidden' : ''}
+            overflow: ${menuOpen ? 'hidden' : ''};
+            width: ${menuOpen ? '100vw' : ''};
+            height: ${menuOpen ? '100vh' : ''};
           }
         `}
       />
