@@ -15,11 +15,12 @@ const HorizontalPostBlock = ({ post, reversed }) => (
     </Story>
     {post.frontmatter.featuredimage ? (
       <Img
+        className='f-image'
         css={imgStyles}
         fluid={post.frontmatter.featuredimage.childImageSharp.fluid}
       />
     ) : (
-      <ImagePlaceholder />
+      <ImagePlaceholder className='f-image f-placeholder' />
     )}
   </Wrapper>
 );
@@ -30,6 +31,22 @@ const Wrapper = styled("article")`
   justify-content: center;
   flex-direction: ${({ reversed }) => (reversed ? "row-reverse" : "row")};
   margin-bottom: 60px;
+  @media (max-width: ${({theme}) => theme.breakpoints.sm}px) {
+    flex-direction: column-reverse;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 45px;
+    .f-image{
+      max-width: 100%;
+      width: 100%;
+      height: 100%;
+      max-height: 250px;
+    }
+    .f-placeholder{
+      height: 250px;
+    }
+  }
 `;
 
 const linkStyles = css`
@@ -47,13 +64,31 @@ const Story = styled("div")`
   max-width: 300px;
   display: flex;
   flex-direction: column;
+  @media (max-width: ${({theme}) => theme.breakpoints.sm}px) {
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+  }
 `;
 
-const Title = styled("h2")``;
+const Title = styled("h2")`
+  margin-top: 0px;
+  margin-bottom: 5px;
+  @media (max-width: ${({theme}) => theme.breakpoints.sm}px){
+    margin-top: 15px;
+    font-size: 18px;
+  }
+`;
 
-const DateWrapper = styled("span")``;
+const DateWrapper = styled("span")`
+  color: rgb(115, 115, 115);
+  font-style: italic;
+`;
 
-const Excerpt = styled("p")``;
+const Excerpt = styled("p")`
+  line-height: 1.5;
+  margin-bottom: 0px;
+`;
 
 const imgStyles = css`
   width: 100%;

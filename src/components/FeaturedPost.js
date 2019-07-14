@@ -42,6 +42,9 @@ const DateWrapper = styled('div')`
 const ImageWrapper = styled('div')`
   position: relative;
   width: 100%;
+  @media(max-width: ${({theme}) => theme.breakpoints.sm}px){
+    margin-bottom: 30px;
+  }
 `
 
 const TitleWrapper = styled('div')`
@@ -50,6 +53,13 @@ const TitleWrapper = styled('div')`
   bottom: 10px;
   z-index: 9;
   width: 75%;
+  @media(max-width: ${({theme}) => theme.breakpoints.md}px){
+    left: 10px;
+  }
+  @media(max-width: ${({theme}) => theme.breakpoints.sm}px){
+    left: 20px;
+    bottom: -50px;
+  }
 `
 
 const Title = styled('h1')`
@@ -62,6 +72,9 @@ const Title = styled('h1')`
   line-height: 1.5;
   display: inline;
   font-weight: 400;
+  @media(max-width: ${({theme}) => theme.breakpoints.sm}px){
+    font-size: 24px;
+  }
 `
 
 const imageStyles = css`

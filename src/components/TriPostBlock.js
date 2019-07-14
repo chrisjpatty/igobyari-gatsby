@@ -18,6 +18,10 @@ const Row = styled('div')`
   align-items: flex-start;
   width: 100%;
   margin-top: 50px;
+  @media(max-width: ${({theme}) => theme.breakpoints.md + 100}px){
+    flex-direction: column;
+    align-items: center;
+  }
 `
 
 export default TriPostBlock

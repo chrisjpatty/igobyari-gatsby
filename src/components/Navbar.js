@@ -52,6 +52,9 @@ const Nav = styled('nav')`
   display: flex;
   justify-content: center;
   align-items: center;
+  @media (max-width: ${({theme}) => theme.breakpoints.md}px) {
+    display: none;
+  }
 `
 
 const linkStyles = css`

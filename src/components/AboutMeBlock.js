@@ -37,6 +37,11 @@ const BioWrapper = styled('div')`
   flex-direction: column;
   align-items: center;
   margin-right: 80px;
+  @media(max-width: ${({theme}) => theme.breakpoints.sm}px){
+    margin-right: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 `
 
 const Title = styled('h1')`
@@ -65,6 +70,9 @@ const ContentWrapper = styled('div')`
   z-index: 9;
   justify-content: center;
   align-items: center;
+  @media(max-width: ${({theme}) => theme.breakpoints.sm}px){
+    flex-direction: column-reverse;
+  }
 `
 
 const Background = styled('div')`

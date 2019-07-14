@@ -92,9 +92,6 @@ export default () => (
                       presentationHeight
                       aspectRatio
                     }
-                    fixed(width: 300, height: 200, quality: 75) {
-                      ...GatsbyImageSharpFixed
-                    }
                   }
                 }
               }
