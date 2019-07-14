@@ -1,9 +1,11 @@
 ---
 templateKey: blog-post
 title: The Worth of a Woman’s Soul is Great in the Sight of God
-description: ''
 date: 2018-10-02T04:40:40.000Z
+description: ''
 featuredimage: /img/tachina-lee-wjk_ssqce4-unsplash.jpg
+category:
+  - faith
 tags:
   - womanhood
 ---
