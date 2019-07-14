@@ -1,27 +1,8 @@
 ---
-templateKey: 'blog-post'
-title: Everybody, I’d Like You to Meet My Mental Illness
-author: ariwrees
-type: post
-date: 2017-12-14T00:51:12+00:00
-url: /?p=2903
-layout:
-  - sidebar
-gallery_layout:
-  - tiled
-wpmm_postgrid_views:
-  - 531
-slide_template:
-  - default
-rima_post_layout:
-  - default
-rima_post_sidebar:
-  - default
-rima_gallery_post_layout:
-  - slideshow
-categories:
-  - Life
-
+templateKey: blog-post
+title: 'Everybody, I’d Like You to Meet My Mental Illness'
+date: 2017-12-14T00:51:12.000Z
+featuredimage: /img/ian-espinosa-rx12b5ux7qm-unsplash.jpg
 ---
 <p class="graf graf--p">
   Running between the couches in my therapist’s office is a wooden coffee table with a chess set on top. The pieces on his side are charcoal gray. The pieces on mine are gold. We never touch them during our sessions, but we always play.
