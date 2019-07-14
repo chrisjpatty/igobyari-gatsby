@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "@emotion/styled";
 import { Global, css } from "@emotion/core";
+import Helmet from 'react-helmet'
 import { Link } from 'gatsby'
 
 const SiteWrapper = ({ children, menuOpen, onRequestMenuClose }) => {
@@ -23,6 +24,9 @@ const SiteWrapper = ({ children, menuOpen, onRequestMenuClose }) => {
       closing={closing}
       onTransitionEnd={handleTransitionEnd}
     >
+      <Helmet>
+        <meta name="theme-color" content={menuOpen && !closing ? "#456746" : "#fff"} />
+      </Helmet>
       <Global
         styles={css`
           body {
