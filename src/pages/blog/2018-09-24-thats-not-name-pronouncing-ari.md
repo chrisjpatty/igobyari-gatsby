@@ -1,28 +1,8 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 title: 'That’s Not My Name: How You Really Pronounce ‘Ari’'
-author: ariwrees
-type: post
-date: 2018-09-24T22:18:04+00:00
-url: /?p=2967
-slide_template:
-  - default
-pmc_featured_category:
-  - 1
-pmc_featured_post:
-  - 1
-rima_post_layout:
-  - default
-rima_post_sidebar:
-  - default
-rima_gallery_post_layout:
-  - slideshow
-wpmm_postgrid_views:
-  - 550
-categories:
-  - Life
-  - Music
-
+date: 2018-09-24T22:18:04.000Z
+featuredimage: /img/alphaville.jpg
 ---
 <span style="color: #000000;"><span style="font-weight: 400;">Did you know we’ve all been pronouncing Ariana Grande’s last name wrong? I didn’t until about a week ago when the Internet informed me that yes, I have in fact been accenting the ‘a’ and the ‘e’ incorrectly &#8212; it’s Gran-dee according to her grandfather. More to the point, can we talk about how people have been pronouncing my name wrong my whole life and Ariana Grande’s popularity is the worst thing that could happen to me?</span><span style="font-weight: 400;"><br /> </span><span style="font-weight: 400;"><br /> </span><span style="font-weight: 400;">Truth be told, my name is a conundrum, and it has been long before Ariana Grande became a household name and “Into You” became my secret jam. Compounded with my terror of drawing attention to myself in elementary school, my very passive aggressive nature in high school, and my exhaustion with correcting people as a grown adult, my first name has become the stuff of enigma. </span></span>
 
