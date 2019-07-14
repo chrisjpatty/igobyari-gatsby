@@ -49,11 +49,11 @@ const Wrapper = styled('a')`
     flex: 0 0 50%;
     width: 50%;
     padding: 0px;
-    &:first-child{
+    &:first-of-type{
       padding-left: 20px;
       padding-right: 10px;
     }
-    &:nth-child(2){
+    &:nth-of-type(2){
       padding-right: 20px;
       padding-left: 10px;
     }
