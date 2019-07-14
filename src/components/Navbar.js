@@ -5,6 +5,7 @@ import { css } from '@emotion/core'
 
 const Navbar = class extends React.Component {
   render() {
+    const { hideNavigation } = this.props;
     return (
       <Header>
         <Link to='/'>
@@ -12,17 +13,20 @@ const Navbar = class extends React.Component {
             I GO BY ARI
           </Branding>
         </Link>
-        <Nav
-          role="navigation"
-          aria-label="main-navigation"
-        >
-          <Link css={linkStyles} to='/life'>Life</Link>
-          <Link css={linkStyles} to='/humor'>Humor</Link>
-          <Link css={linkStyles} to='/faith'>Faith</Link>
-          <Link css={linkStyles} to='/culture'>Culture</Link>
-          <Link css={linkStyles} to='/adventure'>Adventure</Link>
-          <Link css={linkStyles} to='/freelance'>Freelance</Link>
-        </Nav>
+        {
+          !hideNavigation &&
+          <Nav
+            role="navigation"
+            aria-label="main-navigation"
+          >
+            <Link css={linkStyles} to='/life'>Life</Link>
+            <Link css={linkStyles} to='/humor'>Humor</Link>
+            <Link css={linkStyles} to='/faith'>Faith</Link>
+            <Link css={linkStyles} to='/culture'>Culture</Link>
+            <Link css={linkStyles} to='/adventure'>Adventure</Link>
+            <Link css={linkStyles} to='/freelance'>Freelance</Link>
+          </Nav>
+        }
       </Header>
     )
   }

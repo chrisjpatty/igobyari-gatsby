@@ -7,7 +7,7 @@ import useSiteMetadata from './SiteMetadata'
 import { ThemeProvider } from 'emotion-theming'
 import theme from '../theme.js'
 
-const TemplateWrapper = ({ children }) => {
+const TemplateWrapper = ({ children, hideNavigation }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
@@ -48,7 +48,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <ThemeProvider theme={theme}>
         <React.Fragment>
-          <Navbar />
+          <Navbar hideNavigation={hideNavigation} />
           <div>{children}</div>
           <Footer />
         </React.Fragment>

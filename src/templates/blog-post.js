@@ -71,7 +71,7 @@ BlogPostTemplate.propTypes = {
 const BlogPost = ({ data }) => {
   const { current: post, relatedPost1, relatedPost2, relatedPost3 } = data
   return (
-    <Layout>
+    <Layout hideNavigation>
       <BlogPostTemplate
         htmlAst={post.htmlAst}
         contentComponent={HTMLContent}
