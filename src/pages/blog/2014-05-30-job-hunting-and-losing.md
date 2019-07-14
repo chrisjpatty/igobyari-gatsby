@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Job Hunting and Losing
+description: ''
 author: ariwrees
 type: post
 date: 2014-05-30T16:24:00+00:00

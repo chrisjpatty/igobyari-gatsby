@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The 20 Stages of Ari’s Essay Writing (As Told by Smeagol/Gollum)
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-07T06:16:00+00:00

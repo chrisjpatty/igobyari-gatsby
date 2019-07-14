@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: An Open Letter to Donald Trump
+description: ''
 author: ariwrees
 type: post
 date: 2016-02-27T22:09:00+00:00

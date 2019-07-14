@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Greatest Lesson We Can All Learn From “The Dress”
+description: ''
 author: ariwrees
 type: post
 date: 2015-02-28T01:14:00+00:00

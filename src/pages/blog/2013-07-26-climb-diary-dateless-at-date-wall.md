@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Climb Diary: Dateless at Date Wall'
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-26T15:29:00+00:00

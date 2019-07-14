@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Sunday Thoughts: Fear Not What [Insert Noun Here] Can Do'
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-28T23:44:00+00:00

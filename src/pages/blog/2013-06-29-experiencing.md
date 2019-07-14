@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Experiencing
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-29T16:38:00+00:00

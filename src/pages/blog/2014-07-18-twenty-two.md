@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Twenty Two
+description: ''
 author: ariwrees
 type: post
 date: 2014-07-18T05:58:00+00:00

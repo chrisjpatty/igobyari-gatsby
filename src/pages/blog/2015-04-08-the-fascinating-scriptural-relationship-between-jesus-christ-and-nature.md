@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Fascinating Scriptural Relationship Between Jesus Christ and Nature
+description: ''
 author: ariwrees
 type: post
 date: 2015-04-08T20:05:00+00:00

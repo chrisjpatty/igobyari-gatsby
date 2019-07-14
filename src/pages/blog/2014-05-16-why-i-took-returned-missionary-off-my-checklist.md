@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why I Took “Returned Missionary” Off My Checklist
+description: ''
 author: ariwrees
 type: post
 date: 2014-05-16T18:00:00+00:00

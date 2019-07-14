@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Throwback Thursday: When Heavenly Father Messed Up My Future [:'
+description: ''
 author: ariwrees
 type: post
 date: 2013-08-16T03:36:00+00:00

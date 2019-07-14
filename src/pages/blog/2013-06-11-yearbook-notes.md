@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Yearbook Notes
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-11T17:05:00+00:00

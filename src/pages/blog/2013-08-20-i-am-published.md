@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: I am published!
+description: ''
 author: ariwrees
 type: post
 date: 2013-08-20T03:43:00+00:00

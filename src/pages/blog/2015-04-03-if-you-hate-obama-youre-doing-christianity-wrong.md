@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: If You Hate Obama, You’re Doing Christianity Wrong
+description: ''
 author: ariwrees
 type: post
 date: 2015-04-03T16:49:00+00:00

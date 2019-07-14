@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Of Mountains and Men
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-14T05:47:00+00:00

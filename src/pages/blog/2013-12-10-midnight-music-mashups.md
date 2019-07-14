@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Midnight Music Mashups
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-10T07:09:00+00:00

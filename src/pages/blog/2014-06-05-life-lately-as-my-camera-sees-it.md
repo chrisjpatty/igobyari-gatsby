@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Life Lately {As My Camera Sees It}'
+description: ''
 author: ariwrees
 type: post
 date: 2014-06-05T21:28:00+00:00

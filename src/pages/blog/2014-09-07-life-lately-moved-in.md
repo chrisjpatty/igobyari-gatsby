@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Life Lately: Moved In'
+description: ''
 author: ariwrees
 type: post
 date: 2014-09-07T14:23:00+00:00

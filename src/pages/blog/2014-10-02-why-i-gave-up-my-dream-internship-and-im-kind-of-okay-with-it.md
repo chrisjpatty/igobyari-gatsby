@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why I Gave Up My Dream Internship and I’m (Kind of) Okay With It
+description: ''
 author: ariwrees
 type: post
 date: 2014-10-02T19:12:00+00:00

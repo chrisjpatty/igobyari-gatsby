@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Dark Side of Blogging that Only a Blogger Understands
+description: ''
 author: ariwrees
 type: post
 date: 2015-03-31T04:46:00+00:00

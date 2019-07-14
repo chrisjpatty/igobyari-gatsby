@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Zombie Blog
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-02T23:18:00+00:00

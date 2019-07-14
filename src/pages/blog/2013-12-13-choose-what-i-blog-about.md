@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Choose What I Blog About!
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-13T16:55:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 4 Ways to Be More Christlike Online
+description: ''
 author: ariwrees
 type: post
 date: 2015-04-07T21:07:00+00:00

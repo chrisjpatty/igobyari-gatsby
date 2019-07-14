@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Starting Over
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-28T17:01:00+00:00

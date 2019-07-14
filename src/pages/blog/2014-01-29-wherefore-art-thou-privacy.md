@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Wherefore Art Thou, Privacy?
+description: ''
 author: ariwrees
 type: post
 date: 2014-01-29T21:57:00+00:00

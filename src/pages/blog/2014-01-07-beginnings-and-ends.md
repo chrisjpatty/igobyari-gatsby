@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Beginnings and Ends
+description: ''
 author: ariwrees
 type: post
 date: 2014-01-07T05:06:00+00:00

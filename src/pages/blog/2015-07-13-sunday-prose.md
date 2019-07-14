@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Sunday Prose
+description: ''
 author: ariwrees
 type: post
 date: 2015-07-13T03:25:00+00:00

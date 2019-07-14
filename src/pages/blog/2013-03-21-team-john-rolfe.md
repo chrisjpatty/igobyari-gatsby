@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Team John Rolfe!
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-21T01:22:00+00:00

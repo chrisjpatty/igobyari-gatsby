@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Redeeming Peach
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-31T18:59:00+00:00

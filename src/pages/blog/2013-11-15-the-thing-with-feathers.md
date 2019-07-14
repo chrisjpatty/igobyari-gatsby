@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Thing with Feathers
+description: ''
 author: ariwrees
 type: post
 date: 2013-11-15T16:14:00+00:00

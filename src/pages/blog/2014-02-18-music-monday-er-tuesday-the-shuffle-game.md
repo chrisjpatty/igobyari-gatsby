@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Music Monday (Er, Tuesday): The Shuffle Game'
+description: ''
 author: ariwrees
 type: post
 date: 2014-02-18T07:06:00+00:00

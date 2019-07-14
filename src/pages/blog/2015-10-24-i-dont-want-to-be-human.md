@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: I don’t want to be human.
+description: ''
 author: ariwrees
 type: post
 date: 2015-10-24T02:12:00+00:00

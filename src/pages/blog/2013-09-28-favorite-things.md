@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Favorite Things
+description: ''
 author: ariwrees
 type: post
 date: 2013-09-28T23:34:00+00:00

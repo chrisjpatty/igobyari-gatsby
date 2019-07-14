@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Prayer You’re Not Saying that the Lord Wants to Hear
+description: ''
 author: ariwrees
 type: post
 date: 2015-03-24T14:31:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: '#LiveAuthentic'
+description: ''
 author: ariwrees
 type: post
 date: 2015-09-29T04:24:00+00:00

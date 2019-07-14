@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 6 Awesome Gospel Lessons as Taught by “The Hobbit”
+description: ''
 author: ariwrees
 type: post
 date: 2014-12-03T21:07:00+00:00

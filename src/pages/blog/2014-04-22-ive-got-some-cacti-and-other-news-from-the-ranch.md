@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: I’VE GOT SOME CACTI AND OTHER NEWS FROM THE RANCH
+description: ''
 author: ariwrees
 type: post
 date: 2014-04-22T04:13:00+00:00

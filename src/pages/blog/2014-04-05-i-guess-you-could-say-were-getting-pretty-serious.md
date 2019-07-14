@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: I GUESS YOU COULD SAY WE’RE GETTING PRETTY SERIOUS
+description: ''
 author: ariwrees
 type: post
 date: 2014-04-05T04:15:00+00:00

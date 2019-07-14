@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Now That You’ve Unfriended Half of Facebook, Here’s a Slight Suggestion: STOP IT!'
+description: ''
 author: ariwrees
 type: post
 date: 2015-11-08T18:50:00+00:00

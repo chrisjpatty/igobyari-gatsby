@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: How YOU Can Flood the Earth with the Gospel in 2015
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-03T18:47:00+00:00

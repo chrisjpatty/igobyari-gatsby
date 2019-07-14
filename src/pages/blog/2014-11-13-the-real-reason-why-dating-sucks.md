@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Real Reason Why “Dating Sucks”
+description: ''
 author: ariwrees
 type: post
 date: 2014-11-13T18:53:00+00:00

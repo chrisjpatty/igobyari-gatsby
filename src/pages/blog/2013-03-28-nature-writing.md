@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Nature Writing
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-28T23:33:00+00:00

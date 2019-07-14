@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: My Name’s Ari, and I’m Human
+description: ''
 author: ariwrees
 type: post
 date: 2015-11-13T01:30:00+00:00

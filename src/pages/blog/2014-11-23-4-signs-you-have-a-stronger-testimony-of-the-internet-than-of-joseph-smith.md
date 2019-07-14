@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 4 Signs You Have a Stronger Testimony of the Internet than of Joseph Smith
+description: ''
 author: ariwrees
 type: post
 date: 2014-11-23T05:15:00+00:00

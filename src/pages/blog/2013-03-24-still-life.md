@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Still Life
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-24T05:22:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Wedded Bliss
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-06T05:37:00+00:00

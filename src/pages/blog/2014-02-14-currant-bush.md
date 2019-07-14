@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Currant Bush
+description: ''
 author: ariwrees
 type: post
 date: 2014-02-14T06:32:00+00:00

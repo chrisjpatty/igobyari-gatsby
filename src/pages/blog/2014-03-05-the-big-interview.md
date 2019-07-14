@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Big Interview
+description: ''
 author: ariwrees
 type: post
 date: 2014-03-05T04:59:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: A Not Very Nice Post
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-21T21:43:00+00:00

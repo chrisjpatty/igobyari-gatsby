@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Music Monday: Songs for Your 22nd Birthday (That Aren’t T-Swift’s)'
+description: ''
 author: ariwrees
 type: post
 date: 2014-07-14T20:10:00+00:00

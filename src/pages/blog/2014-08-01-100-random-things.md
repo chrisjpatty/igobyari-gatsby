@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 100 Random Things
+description: ''
 author: ariwrees
 type: post
 date: 2014-08-01T19:12:00+00:00

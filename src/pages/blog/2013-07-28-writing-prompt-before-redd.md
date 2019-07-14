@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Writing Prompt: “Before Redd”'
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-28T16:04:00+00:00

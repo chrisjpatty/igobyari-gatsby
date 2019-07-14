@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: It Was the Best of Times, It Was the Worst of Times
+description: ''
 author: ariwrees
 type: post
 date: 2017-01-01T03:31:43+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Now that the semester’s over, I can finally:'
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-27T02:53:00+00:00

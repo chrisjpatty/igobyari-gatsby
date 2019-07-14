@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Throwback Thursday: Old Writing'
+description: ''
 author: ariwrees
 type: post
 date: 2014-01-31T05:16:00+00:00

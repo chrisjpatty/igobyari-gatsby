@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'That’s Not My Name: How You Really Pronounce ‘Ari’'
+description: ''
 date: 2018-09-24T22:18:04.000Z
 featuredimage: /img/alphaville.jpg
 ---

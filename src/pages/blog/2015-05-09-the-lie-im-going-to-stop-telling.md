@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Lie I’m Going to Stop Telling
+description: ''
 author: ariwrees
 type: post
 date: 2015-05-09T04:34:00+00:00

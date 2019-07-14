@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: How I Ended Up Camping With Three Indian Men in the Middle of Nowhere Yosemite
+description: ''
 author: ariwrees
 type: post
 date: 2016-10-28T03:02:53+00:00

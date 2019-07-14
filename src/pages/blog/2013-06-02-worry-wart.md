@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Worry Wart
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-02T22:49:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: “Ask and Ye Shall Receive” DOES NOT Mean “Ask and Ye Shall be Excommunicated”
+description: ''
 author: ariwrees
 type: post
 date: 2014-06-21T20:54:00+00:00

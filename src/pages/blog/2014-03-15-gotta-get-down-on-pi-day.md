@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: GOTTA GET DOWN ON PI DAY
+description: ''
 author: ariwrees
 type: post
 date: 2014-03-15T06:22:00+00:00

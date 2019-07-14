@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: A Quick Testimony
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-29T01:43:00+00:00

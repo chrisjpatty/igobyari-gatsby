@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Jumping from Planes
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-20T16:51:00+00:00

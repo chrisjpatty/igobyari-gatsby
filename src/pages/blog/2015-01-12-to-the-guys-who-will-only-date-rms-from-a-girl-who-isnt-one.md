@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: To the Guys Who Will Only Date RMs, From a Girl Who Isn’t One
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-12T18:28:00+00:00

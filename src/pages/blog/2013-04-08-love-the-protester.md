@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Love the Protester
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-08T01:42:00+00:00

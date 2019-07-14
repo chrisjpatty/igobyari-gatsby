@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Throwback Post: A Letter to Mr. Mine'
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-05T18:02:00+00:00

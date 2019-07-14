@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Chivalry is Sick
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-14T16:25:00+00:00

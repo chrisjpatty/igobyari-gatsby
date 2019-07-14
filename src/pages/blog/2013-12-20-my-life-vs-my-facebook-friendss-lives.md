@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: My Life vs. My Facebook Friends’s Lives
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-20T19:13:00+00:00

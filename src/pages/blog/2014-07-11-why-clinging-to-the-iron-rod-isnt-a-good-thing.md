@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why Clinging to the Iron Rod Isn’t a Good Thing
+description: ''
 author: ariwrees
 type: post
 date: 2014-07-11T17:45:00+00:00

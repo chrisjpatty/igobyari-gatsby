@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Climb Diary: The First Sport Climb of ’13'
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-13T22:58:00+00:00

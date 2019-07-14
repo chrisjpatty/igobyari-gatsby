@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Insecurities & Adventures || My Life Lately'
+description: ''
 author: ariwrees
 type: post
 date: 2015-06-07T05:20:00+00:00

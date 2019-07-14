@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Written Word Wednesday: Late Night Prose from the Bakery'
+description: ''
 author: ariwrees
 type: post
 date: 2014-06-19T05:59:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Jesus Makes Our Brokenness Beautiful
+description: ''
 author: ariwrees
 type: post
 date: 2016-03-27T10:45:05+00:00

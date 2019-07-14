@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: What to Say to That Boy Who Came to Church Wearing Blue Jeans
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-15T19:26:00+00:00

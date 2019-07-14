@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Mormon Message Monday
+description: ''
 author: ariwrees
 type: post
 date: 2014-06-24T04:21:00+00:00

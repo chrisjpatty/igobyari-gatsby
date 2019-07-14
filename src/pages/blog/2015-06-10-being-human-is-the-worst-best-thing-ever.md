@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Being Human is the Worst Best Thing Ever
+description: ''
 author: ariwrees
 type: post
 date: 2015-06-10T05:17:00+00:00

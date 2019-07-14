@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Men Who I Dress Modestly For
+description: ''
 author: ariwrees
 type: post
 date: 2014-06-04T16:08:00+00:00

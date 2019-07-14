@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Root for Relationships to Last, Not to End (A Guest Post by Alison Fabricius)
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-21T15:00:00+00:00

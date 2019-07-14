@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'On “RMs and Checklists” : From the Horse’s Mouth'
+description: ''
 author: ariwrees
 type: post
 date: 2014-05-20T17:01:00+00:00

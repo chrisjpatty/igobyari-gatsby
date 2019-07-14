@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Music Monday
+description: ''
 date: 2018-09-04T06:46:08.000Z
 featuredimage: /img/icons8-team-643494-unsplash.jpg
 ---

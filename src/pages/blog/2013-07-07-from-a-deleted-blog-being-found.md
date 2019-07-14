@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'From a Deleted Blog: “Being Found”'
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-07T04:05:00+00:00

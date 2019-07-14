@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: New Benefit to Scripture Study
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-13T00:41:00+00:00

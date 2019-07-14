@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: People I Don’t Want to Be
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-15T00:12:00+00:00

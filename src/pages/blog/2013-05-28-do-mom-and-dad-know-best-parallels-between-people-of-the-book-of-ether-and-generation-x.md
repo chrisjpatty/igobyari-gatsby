@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Do Mom and Dad Know Best? : Parallels Between People of the Book of Ether and Generation X'
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-28T16:43:00+00:00

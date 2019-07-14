@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Sunday Short: The Nativity that Made My Monday'
+description: ''
 author: ariwrees
 type: post
 date: 2016-11-21T04:57:40+00:00

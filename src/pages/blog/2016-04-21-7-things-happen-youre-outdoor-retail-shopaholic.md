@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 7 Things that Happen When You’re an Outdoor Retail Shopaholic
+description: ''
 author: ariwrees
 type: post
 date: 2016-04-21T05:34:43+00:00

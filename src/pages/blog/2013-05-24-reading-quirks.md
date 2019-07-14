@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Reading Quirks
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-24T15:46:00+00:00

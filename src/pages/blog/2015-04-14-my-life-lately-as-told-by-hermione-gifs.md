@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: My Life Lately (As Told by Hermione GIFs)
+description: ''
 author: ariwrees
 type: post
 date: 2015-04-14T05:21:00+00:00

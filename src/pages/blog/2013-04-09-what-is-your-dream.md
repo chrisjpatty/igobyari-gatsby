@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: What is your dream?
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-09T21:57:00+00:00

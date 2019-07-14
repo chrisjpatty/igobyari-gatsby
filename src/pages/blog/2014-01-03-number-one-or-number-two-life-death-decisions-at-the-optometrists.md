@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Number One or Number Two? : Life & Death Decisions at the Optometrist’s'
+description: ''
 author: ariwrees
 type: post
 date: 2014-01-03T06:21:00+00:00

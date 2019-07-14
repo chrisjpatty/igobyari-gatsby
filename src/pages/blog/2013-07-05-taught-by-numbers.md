@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Taught by Numbers
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-05T17:04:00+00:00

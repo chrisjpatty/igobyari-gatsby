@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Today I Learned that I’m Living the Gospel Wrong
+description: ''
 author: ariwrees
 type: post
 date: 2015-03-21T05:54:00+00:00

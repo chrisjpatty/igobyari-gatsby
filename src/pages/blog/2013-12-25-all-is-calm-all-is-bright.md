@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: All is Calm, All is Bright
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-25T06:52:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 7 Reasons Why Black Friday Needs to Die
+description: ''
 author: ariwrees
 type: post
 date: 2013-11-29T21:00:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why Van Gogh Inspires Me
+description: ''
 author: ariwrees
 type: post
 date: 2014-11-20T06:20:00+00:00

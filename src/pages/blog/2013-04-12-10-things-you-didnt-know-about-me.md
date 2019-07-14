@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 10 Things You Didn’t Know About Me
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-12T04:15:00+00:00

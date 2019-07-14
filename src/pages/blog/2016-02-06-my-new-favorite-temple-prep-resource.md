@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: My New Favorite Temple Prep Resource
+description: ''
 author: ariwrees
 type: post
 date: 2016-02-06T23:14:00+00:00

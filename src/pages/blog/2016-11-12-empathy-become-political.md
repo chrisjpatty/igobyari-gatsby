@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: When Did Empathy Become So Political?
+description: ''
 author: ariwrees
 type: post
 date: 2016-11-12T03:44:04+00:00

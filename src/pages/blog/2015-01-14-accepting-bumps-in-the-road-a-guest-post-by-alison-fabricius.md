@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Accepting Bumps in the Road (A Guest Post by Alison Fabricius)
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-14T17:30:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: How I’m Doing
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-16T18:38:00+00:00

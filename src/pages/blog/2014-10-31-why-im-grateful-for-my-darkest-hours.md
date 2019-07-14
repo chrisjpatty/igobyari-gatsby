@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why I’m Grateful for My Darkest Hours
+description: ''
 author: ariwrees
 type: post
 date: 2014-10-31T19:02:00+00:00

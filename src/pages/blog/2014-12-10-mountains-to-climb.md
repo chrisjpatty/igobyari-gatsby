@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Mountains to Climb
+description: ''
 author: ariwrees
 type: post
 date: 2014-12-10T18:24:00+00:00

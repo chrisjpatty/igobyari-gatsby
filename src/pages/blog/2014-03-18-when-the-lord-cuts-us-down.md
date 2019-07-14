@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: WHEN THE LORD CUTS US DOWN
+description: ''
 author: ariwrees
 type: post
 date: 2014-03-18T14:54:00+00:00

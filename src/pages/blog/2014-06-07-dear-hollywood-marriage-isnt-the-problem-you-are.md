@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Dear Hollywood: Marriage Isn’t the Problem, You Are'
+description: ''
 author: ariwrees
 type: post
 date: 2014-06-07T15:56:00+00:00

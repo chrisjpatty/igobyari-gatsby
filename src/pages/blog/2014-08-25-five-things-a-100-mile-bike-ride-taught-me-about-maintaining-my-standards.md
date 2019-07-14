@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Five Things a 100-Mile Bike Ride Taught Me About Maintaining My Standards
+description: ''
 author: ariwrees
 type: post
 date: 2014-08-25T00:54:00+00:00

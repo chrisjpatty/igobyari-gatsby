@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: How We are Failing the Young Men in the Church
+description: ''
 author: ariwrees
 type: post
 date: 2015-03-26T22:56:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Media Stupid: How We Don’t Understand Bias and How it’s Making Us Ignorant'
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-23T19:47:00+00:00

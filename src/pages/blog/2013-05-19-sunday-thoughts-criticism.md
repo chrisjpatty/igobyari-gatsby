@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Sunday Thoughts: Criticism'
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-19T15:29:00+00:00

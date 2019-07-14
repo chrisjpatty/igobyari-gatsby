@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Week One of Year Four
+description: ''
 author: ariwrees
 type: post
 date: 2013-08-30T00:45:00+00:00

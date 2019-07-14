@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Be the Good in a World Gone Mad
+description: ''
 author: ariwrees
 type: post
 date: 2016-07-09T04:47:17+00:00

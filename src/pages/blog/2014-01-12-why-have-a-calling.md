@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why Have a Calling?
+description: ''
 author: ariwrees
 type: post
 date: 2014-01-12T23:59:00+00:00

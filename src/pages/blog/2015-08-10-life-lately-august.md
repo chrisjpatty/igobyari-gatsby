@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Life Lately / August
+description: ''
 author: ariwrees
 type: post
 date: 2015-08-10T04:40:00+00:00

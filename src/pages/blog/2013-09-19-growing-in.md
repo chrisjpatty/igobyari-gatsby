@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Growing In
+description: ''
 author: ariwrees
 type: post
 date: 2013-09-19T01:19:00+00:00

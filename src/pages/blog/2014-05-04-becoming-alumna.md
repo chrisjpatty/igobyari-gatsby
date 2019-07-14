@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Becoming Alumna
+description: ''
 author: ariwrees
 type: post
 date: 2014-05-04T17:09:00+00:00

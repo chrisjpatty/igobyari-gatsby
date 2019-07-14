@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 10 Totally Ari Things that Happened to Me This Week
+description: ''
 author: ariwrees
 type: post
 date: 2015-06-15T04:22:00+00:00

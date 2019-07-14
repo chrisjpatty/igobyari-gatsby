@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'A Reminder: Why Modesty is a Big Deal'
+description: ''
 author: ariwrees
 type: post
 date: 2013-09-07T19:05:00+00:00

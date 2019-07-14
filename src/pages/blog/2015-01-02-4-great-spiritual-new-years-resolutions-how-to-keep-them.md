@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: '4 Great Spiritual New Year’s Resolutions & How to Keep Them'
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-02T23:01:00+00:00

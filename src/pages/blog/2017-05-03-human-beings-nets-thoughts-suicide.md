@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'When Human Beings are Nets : Thoughts on Suicide'
+description: ''
 author: ariwrees
 type: post
 date: 2017-05-03T03:20:03+00:00

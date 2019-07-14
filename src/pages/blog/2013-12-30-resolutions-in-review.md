@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Resolutions in Review
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-30T04:25:00+00:00

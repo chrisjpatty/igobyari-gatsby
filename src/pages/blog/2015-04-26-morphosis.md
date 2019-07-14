@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Morphosis
+description: ''
 author: ariwrees
 type: post
 date: 2015-04-26T04:58:00+00:00

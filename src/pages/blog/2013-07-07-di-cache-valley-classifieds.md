@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'DI > Cache Valley Classifieds'
+description: ''
 author: ariwrees
 type: post
 date: 2013-07-07T03:04:00+00:00

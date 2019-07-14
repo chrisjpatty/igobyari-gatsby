@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Art of Publicly Sucking at Stuff
+description: ''
 author: ariwrees
 type: post
 date: 2017-03-02T05:03:58+00:00

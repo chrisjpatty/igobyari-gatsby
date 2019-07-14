@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Being Single ≠ Something’s Wrong With Me
+description: ''
 author: ariwrees
 type: post
 date: 2015-02-09T17:13:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Inside the Lives of Bookworms
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-22T03:11:00+00:00

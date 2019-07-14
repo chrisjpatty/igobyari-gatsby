@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 100 End of Year Reflections
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-28T03:57:00+00:00

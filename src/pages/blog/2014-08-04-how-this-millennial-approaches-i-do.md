@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: How THIS Millennial Approaches ‘I Do’
+description: ''
 author: ariwrees
 type: post
 date: 2014-08-04T03:27:00+00:00

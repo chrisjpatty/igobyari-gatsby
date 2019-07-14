@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why You Should Blog About Your Beliefs (A Guest Post by Al Fox)
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-11T21:05:00+00:00

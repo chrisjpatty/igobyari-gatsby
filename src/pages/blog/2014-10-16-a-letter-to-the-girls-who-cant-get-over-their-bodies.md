@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: A Letter to the Girls Who Can’t Get Over Their Bodies
+description: ''
 author: ariwrees
 type: post
 date: 2014-10-16T16:37:00+00:00

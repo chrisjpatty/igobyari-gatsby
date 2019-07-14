@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 5 Reasons You Should Break Up With “The Bachelor”
+description: ''
 author: ariwrees
 type: post
 date: 2015-02-24T01:31:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'me, my thoughts, & i'
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-16T06:35:00+00:00

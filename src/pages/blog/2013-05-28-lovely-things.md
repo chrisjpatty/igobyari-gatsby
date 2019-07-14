@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Lovely Things
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-28T06:17:00+00:00

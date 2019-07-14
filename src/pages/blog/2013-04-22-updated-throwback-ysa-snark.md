@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Updated Throwback: YSA Snark'
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-22T03:59:00+00:00

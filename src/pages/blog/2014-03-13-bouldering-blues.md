@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: BOULDERING BLUES
+description: ''
 author: ariwrees
 type: post
 date: 2014-03-13T03:26:00+00:00

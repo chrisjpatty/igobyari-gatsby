@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'How I Stopped Hating Family History & Learned to Love it Instead'
+description: ''
 author: ariwrees
 type: post
 date: 2015-02-06T04:43:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Fun Day Friday
+description: ''
 author: ariwrees
 type: post
 date: 2013-04-05T21:07:00+00:00

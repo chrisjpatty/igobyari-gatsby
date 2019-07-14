@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Unemployment, My Old Friend'
+description: ''
 date: 2018-09-20T23:20:18.000Z
 featuredimage: /img/eutah-mizushima-2tlasvhqil0-unsplash.jpg
 ---

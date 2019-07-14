@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: An Apology Letter to My Skinny Jeans
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-10T00:12:00+00:00

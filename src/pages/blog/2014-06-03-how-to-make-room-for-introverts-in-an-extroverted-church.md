@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: How to Make Room for Introverts in an Extroverted Church
+description: ''
 author: ariwrees
 type: post
 date: 2014-06-03T05:07:00+00:00

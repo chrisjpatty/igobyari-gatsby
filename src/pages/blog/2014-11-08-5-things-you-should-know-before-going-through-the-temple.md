@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 5 Things You Should Know Before Going Through the Temple
+description: ''
 author: ariwrees
 type: post
 date: 2014-11-08T19:35:00+00:00

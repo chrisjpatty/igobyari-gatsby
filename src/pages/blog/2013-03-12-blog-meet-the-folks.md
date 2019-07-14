@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Blog, meet the folks.
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-12T23:40:00+00:00

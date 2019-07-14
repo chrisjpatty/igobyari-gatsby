@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why My Social Anxiety Is My Greatest Blessing
+description: ''
 author: ariwrees
 type: post
 date: 2014-11-17T20:05:00+00:00

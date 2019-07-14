@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: I Cannot Forget Her
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-29T14:34:00+00:00

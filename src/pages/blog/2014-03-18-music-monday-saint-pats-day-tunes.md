@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'MUSIC MONDAY: SAINT PAT’S DAY TUNES'
+description: ''
 author: ariwrees
 type: post
 date: 2014-03-18T03:50:00+00:00

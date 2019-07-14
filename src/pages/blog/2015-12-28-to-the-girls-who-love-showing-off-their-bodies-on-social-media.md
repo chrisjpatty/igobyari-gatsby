@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: To the Girls Who Love Showing Off Their Bodies on Social Media
+description: ''
 author: ariwrees
 type: post
 date: 2015-12-28T03:26:00+00:00

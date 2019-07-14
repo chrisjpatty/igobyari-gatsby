@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 16 Things that Happen When You Have a Weird Name
+description: ''
 author: ariwrees
 type: post
 date: 2014-10-17T18:11:00+00:00

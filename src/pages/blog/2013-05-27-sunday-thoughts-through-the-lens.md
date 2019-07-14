@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Sunday Thoughts: Through the Lens'
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-27T00:08:00+00:00

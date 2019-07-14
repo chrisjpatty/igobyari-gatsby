@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Imagine Dragons
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-22T02:53:00+00:00

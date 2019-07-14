@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Today USU, Tomorrow the World
+description: ''
 author: ariwrees
 type: post
 date: 2014-05-02T18:15:00+00:00

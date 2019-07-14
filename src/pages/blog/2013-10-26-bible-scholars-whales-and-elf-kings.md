@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Bible Scholars, Whales, and Elf Kings
+description: ''
 author: ariwrees
 type: post
 date: 2013-10-26T16:31:00+00:00

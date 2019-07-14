@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Babies, Dream Jobs, and Zombie Introversion : Life Lately 1/20/14'
+description: ''
 author: ariwrees
 type: post
 date: 2014-01-21T06:37:00+00:00

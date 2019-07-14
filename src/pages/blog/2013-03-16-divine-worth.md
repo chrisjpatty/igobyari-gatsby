@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Divine Worth
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-16T03:04:00+00:00

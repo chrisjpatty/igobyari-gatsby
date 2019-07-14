@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Thoughts on the Atonement
+description: ''
 author: ariwrees
 type: post
 date: 2015-10-26T01:03:00+00:00

@@ -1,89 +1,101 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import styled from '@emotion/styled'
-import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
+import React from "react";
+import PropTypes from "prop-types";
+import styled from "@emotion/styled";
+import { Link, graphql, StaticQuery } from "gatsby";
+import FeaturedPost from "./FeaturedPost";
+import TriPostBlock from "./TriPostBlock";
+import AboutMeBlock from "./AboutMeBlock";
+import HorizontalPostBlock from "./HorizontalPostBlock";
 
 class BlogRoll extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
-
+    const { data } = this.props;
+    const { indexPage, allPosts } = data;
+    const { edges: posts = [] } = allPosts;
+    const featuredPost = posts.slice(0, 1)[0];
+    const triPosts = posts.slice(1, 4);
+    const restPosts = posts.slice(4);
     return (
-      <div className="columns is-multiline">
+      <Wrapper>
+        <FeaturedPost post={featuredPost} />
+        <TriPostBlock posts={triPosts} />
+        <AboutMeBlock
+          photo={indexPage.frontmatter.profilePhoto}
+          biography={indexPage.frontmatter.biography}
+        />
         {posts &&
-          posts.map(({ node: post }, i) => (
-            <PostWrapper key={post.id}>
-              <article>
-                <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div>
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${
-                            post.title
-                          }`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <PostMeta className="post-meta">
-                    <Link
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <DateWrapper>
-                      {post.frontmatter.date}
-                    </DateWrapper>
-                  </PostMeta>
-                </header>
-                <Excerpt>
-                  {post.excerpt}
-                </Excerpt>
-              </article>
-            </PostWrapper>
+          restPosts.map(({ node: post }, i) => (
+            <HorizontalPostBlock post={post} reversed={i % 2 !== 0} />
           ))}
-      </div>
-    )
+      </Wrapper>
+    );
   }
 }
 
 BlogRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  }),
-}
+      edges: PropTypes.array
+    })
+  })
+};
 
 export default () => (
   <StaticQuery
     query={graphql`
       query BlogRollQuery {
-        allMarkdownRemark(
+        indexPage: markdownRemark(
+          frontmatter: { templateKey: { eq: "index-page" } }
+        ) {
+          frontmatter {
+            title
+            biography
+            profilePhoto {
+              childImageSharp {
+                fixed(width: 240, height: 240, quality: 90) {
+                  width
+                  height
+                  src
+                  srcSet
+                  base64
+                  aspectRatio
+                }
+              }
+            }
+          }
+        }
+        allPosts: allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {
             node {
-              excerpt(pruneLength: 250)
+              excerpt(pruneLength: 150)
               id
               fields {
                 slug
               }
               frontmatter {
                 title
+                description
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
-                # featuredimage {
-                #   childImageSharp {
-                #     fluid(maxWidth: 120, quality: 100) {
-                #       ...GatsbyImageSharpFluid
-                #     }
-                #   }
-                # }
+                date(formatString: "MMMM D, YYYY")
+                featuredimage {
+                  childImageSharp {
+                    fluid(maxWidth: 900, quality: 80) {
+                      base64
+                      sizes
+                      srcSet
+                      src
+                      presentationWidth
+                      presentationHeight
+                      aspectRatio
+                    }
+                    fixed(width: 300, height: 200, quality: 75) {
+                      ...GatsbyImageSharpFixed
+                    }
+                  }
+                }
               }
             }
           }
@@ -92,49 +104,60 @@ export default () => (
     `}
     render={(data, count) => <BlogRoll data={data} count={count} />}
   />
-)
+);
 
-const PostMeta = styled('div')({
+const Wrapper = styled("div")`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
 
-}, ({theme}) => ({
-  display: 'flex',
-  flexDirection: 'column',
-  position: 'relative',
-  '& a': {
-    fontFamily: theme.fonts.title,
-    color: 'inherit',
-    // textTransform: 'uppercase',
-    fontSize: 36,
-    textDecoration: 'none',
-    // paddingLeft: 20
-  }
-}), ({theme}) => ({
-  [theme.media.sm]: {
-    '& a': {
-      fontSize: 28
+const PostMeta = styled("div")(
+  {},
+  ({ theme }) => ({
+    display: "flex",
+    flexDirection: "column",
+    position: "relative",
+    "& a": {
+      fontFamily: theme.fonts.title,
+      color: "inherit",
+      // textTransform: 'uppercase',
+      fontSize: 36,
+      textDecoration: "none"
+      // paddingLeft: 20
     }
-  }
-}))
+  }),
+  ({ theme }) => ({
+    [theme.media.sm]: {
+      "& a": {
+        fontSize: 28
+      }
+    }
+  })
+);
 
-const PostWrapper = styled('div')({
-  margin: '60px 0px',
-  '&:first-of-type': {
-    marginTop: 0
+const PostWrapper = styled("div")(
+  {
+    margin: "60px 0px",
+    "&:first-of-type": {
+      marginTop: 0
+    },
+    "&:last-child": {
+      marginBottom: 0
+    }
   },
-  '&:last-child': {
-    marginBottom: 0
-  }
-}, ({theme}) => ({
-  [theme.media.sm]: {
-    padding: '0px 20px',
-  }
-}))
+  ({ theme }) => ({
+    [theme.media.sm]: {
+      padding: "0px 20px"
+    }
+  })
+);
 
-const Excerpt = styled('p')`
+const Excerpt = styled("p")`
   line-height: 1.5;
-`
+`;
 
-const DateWrapper = styled('span')({
-  opacity: .5,
-  fontStyle: 'italic'
-})
+const DateWrapper = styled("span")({
+  opacity: 0.5,
+  fontStyle: "italic"
+});

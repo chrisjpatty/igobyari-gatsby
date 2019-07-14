@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Dream Hatched in an Airport
+description: ''
 author: ariwrees
 type: post
 date: 2013-10-17T05:13:00+00:00

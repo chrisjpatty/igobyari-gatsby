@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Climb Diary: Fucoidal Quartzite & Sweet Hiking'
+description: ''
 author: ariwrees
 type: post
 date: 2013-05-16T01:59:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why “The Bachelor” is the Worst Thing on Television
+description: ''
 author: ariwrees
 type: post
 date: 2014-03-11T17:50:00+00:00

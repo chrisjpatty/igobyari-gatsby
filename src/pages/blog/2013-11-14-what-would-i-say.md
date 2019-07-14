@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: what would i say?
+description: ''
 author: ariwrees
 type: post
 date: 2013-11-14T03:49:00+00:00

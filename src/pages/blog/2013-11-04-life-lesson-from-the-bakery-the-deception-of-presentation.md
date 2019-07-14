@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Life Lesson from the Bakery: The Deception of Presentation'
+description: ''
 author: ariwrees
 type: post
 date: 2013-11-04T04:19:00+00:00

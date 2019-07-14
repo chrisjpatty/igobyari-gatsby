@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Exciting News!
+description: ''
 author: ariwrees
 type: post
 date: 2014-07-24T04:38:00+00:00

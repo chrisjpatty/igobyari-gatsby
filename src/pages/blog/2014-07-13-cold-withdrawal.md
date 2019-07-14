@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Cold Withdrawal
+description: ''
 author: ariwrees
 type: post
 date: 2014-07-13T05:39:00+00:00

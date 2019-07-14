@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'The Night I Failed at Snowboarding: A True Account'
+description: ''
 author: ariwrees
 type: post
 date: 2015-01-22T22:25:00+00:00

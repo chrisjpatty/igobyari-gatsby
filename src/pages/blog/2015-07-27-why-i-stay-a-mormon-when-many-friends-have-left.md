@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Why I Stay a Mormon When Many Friends Have Left
+description: ''
 author: ariwrees
 type: post
 date: 2015-07-27T03:52:00+00:00

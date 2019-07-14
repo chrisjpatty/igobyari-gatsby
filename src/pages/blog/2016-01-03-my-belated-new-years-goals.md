@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: My Belated New Year’s Goals
+description: ''
 author: ariwrees
 type: post
 date: 2016-01-03T03:07:00+00:00

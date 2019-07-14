@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Dear Anonymous Internet Commenters
+description: ''
 author: ariwrees
 type: post
 date: 2014-11-26T07:58:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: A Challenge to Get You in the Christmas Spirit
+description: ''
 author: ariwrees
 type: post
 date: 2014-12-07T18:25:00+00:00

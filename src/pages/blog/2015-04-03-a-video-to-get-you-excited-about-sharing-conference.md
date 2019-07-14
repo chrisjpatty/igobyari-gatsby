@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: A Video to Get You Excited About Sharing Conference
+description: ''
 author: ariwrees
 type: post
 date: 2015-04-03T21:28:00+00:00

@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Crocodiles
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-22T03:19:00+00:00

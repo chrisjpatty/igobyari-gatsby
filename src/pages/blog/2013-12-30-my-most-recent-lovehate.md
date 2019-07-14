@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: My Most Recent Love/Hate
+description: ''
 author: ariwrees
 type: post
 date: 2013-12-30T22:40:00+00:00

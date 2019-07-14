@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Immobility
+description: ''
 author: ariwrees
 type: post
 date: 2014-09-09T14:40:00+00:00

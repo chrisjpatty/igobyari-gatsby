@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: The Charmed Life of an Unattached 21-Year Old
+description: ''
 author: ariwrees
 type: post
 date: 2013-08-07T14:16:00+00:00

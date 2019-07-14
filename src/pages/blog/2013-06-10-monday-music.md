@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Monday Music
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-10T14:33:00+00:00

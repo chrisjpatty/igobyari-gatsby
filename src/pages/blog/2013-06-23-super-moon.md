@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Super Moon
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-23T16:51:00+00:00

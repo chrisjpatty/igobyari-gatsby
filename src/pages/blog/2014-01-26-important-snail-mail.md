@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Important Snail Mail
+description: ''
 author: ariwrees
 type: post
 date: 2014-01-26T03:24:00+00:00

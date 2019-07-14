@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: FYI (if you’re an Internet user)
+description: ''
 author: ariwrees
 type: post
 date: 2013-09-05T18:25:00+00:00

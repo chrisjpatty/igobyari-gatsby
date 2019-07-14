@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Sunday Thoughts: Falling'
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-17T00:16:00+00:00

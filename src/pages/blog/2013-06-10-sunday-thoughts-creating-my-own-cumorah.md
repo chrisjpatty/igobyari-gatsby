@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Sunday Thoughts: Creating My Own Cumorah'
+description: ''
 author: ariwrees
 type: post
 date: 2013-06-10T05:14:00+00:00

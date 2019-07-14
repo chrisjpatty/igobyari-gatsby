@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: WHY I WILL NOT JOIN MY SISTERS IN SUPPORT OF “ORDAIN WOMEN”
+description: ''
 author: ariwrees
 type: post
 date: 2014-03-23T01:18:00+00:00

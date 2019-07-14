@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'LDS Feminism: My Take'
+description: ''
 author: ariwrees
 type: post
 date: 2013-03-19T23:40:00+00:00

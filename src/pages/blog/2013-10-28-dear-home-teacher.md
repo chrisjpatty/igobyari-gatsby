@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Dear Home Teacher
+description: ''
 author: ariwrees
 type: post
 date: 2013-10-28T02:07:00+00:00

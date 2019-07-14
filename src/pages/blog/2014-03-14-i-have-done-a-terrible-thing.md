@@ -1,6 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: I HAVE DONE A TERRIBLE THING
+description: ''
 author: ariwrees
 type: post
 date: 2014-03-14T05:02:00+00:00
