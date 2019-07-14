@@ -34,8 +34,8 @@ const Wrapper = styled("article")`
   @media (max-width: ${({theme}) => theme.breakpoints.sm}px) {
     flex-direction: column-reverse;
     align-items: center;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     margin-bottom: 45px;
     .f-image{
       max-width: 100%;

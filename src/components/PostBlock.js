@@ -18,6 +18,7 @@ const PostBlock = ({ post: { node: post } }) => (
       )}
     </ImgWrapper>
     <Title>{post.frontmatter.title}</Title>
+    <DateWrapper>{post.frontmatter.date}</DateWrapper>
     <Excerpt>{post.excerpt}</Excerpt>
   </Link>
 );
@@ -40,14 +41,22 @@ const wrapperStyles = css`
 `;
 
 const Title = styled("h2")`
-  font-size: 18px;
+  font-size: 20px;
   font-family: ${({ theme }) => theme.fonts.title};
   line-height: 1.3;
 `;
 
+const DateWrapper = styled('span')`
+  font-style: italic;
+  color: rgb(115, 115, 115);
+  margin-top: -10px;
+  margin-bottom: 15px;
+`
+
 const Excerpt = styled("p")`
   width: 100%;
   margin-top: 0px;
+  line-height: 1.5
 `;
 
 const ImagePlaceholder = styled("div")`

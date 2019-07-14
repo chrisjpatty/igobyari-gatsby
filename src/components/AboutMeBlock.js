@@ -30,6 +30,10 @@ const Wrapper = styled('section')`
   margin: 30px 0px;
   padding: 280px 0px;
   overflow: hidden;
+  @media(max-width: ${({theme}) => theme.breakpoints.sm}px){
+    padding-top: 400px;
+    padding-bottom: 400px;
+  }
 `
 
 const BioWrapper = styled('div')`
@@ -51,6 +55,9 @@ const Title = styled('h1')`
   margin-top: 40px;
   text-align: center;
   font-family: ${({theme}) => theme.fonts.title};
+  @media(max-width: ${({theme}) => theme.breakpoints.sm}px){
+    margin-top: 20px;
+  }
 `
 
 const Biography = styled(`p`)`
@@ -82,7 +89,7 @@ const Background = styled('div')`
   top: 100px;
   width: calc(100% + 200px);
   height: calc(100% - 200px);
-  background: #efefef;
+  background: #fcf1ed;
   transform: rotate(-7deg);
 `
 
