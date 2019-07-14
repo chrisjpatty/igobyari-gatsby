@@ -4,6 +4,8 @@ templateKey: blog-post
 title: 'Lately, I’ve been'
 date: 2017-05-10T01:13:38.000Z
 featuredimage: /img/me-in-logan.jpg
+category:
+  - life
 tags:
   - life
 ---

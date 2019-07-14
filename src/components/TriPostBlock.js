@@ -5,8 +5,8 @@ import PostBlock from './PostBlock'
 const TriPostBlock = ({posts}) => (
   <Row>
     {
-      posts.map(post => (
-        <PostBlock post={post} />
+      posts.map((post, i) => (
+        <PostBlock post={post} key={i} />
       ))
     }
   </Row>

@@ -4,6 +4,8 @@ title: 'Unemployment, My Old Friend'
 description: ''
 date: 2018-09-20T23:20:18.000Z
 featuredimage: /img/eutah-mizushima-2tlasvhqil0-unsplash.jpg
+category:
+  - life
 ---
 Today was my last day at a company I&#8217;ve worked at for 3 1/2 years. It doesn&#8217;t sound like a lot &#8212; when compared to the 25 years my dad&#8217;s put into his job, 3 1/2 is the blink of an eye &#8212; but giving this job up comes with the weight of sacrifice.
 

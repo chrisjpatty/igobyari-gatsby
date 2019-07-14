@@ -4,6 +4,8 @@ title: The Art of Publicly Sucking at Stuff
 description: ''
 date: 2017-03-02T05:03:58.000Z
 featuredimage: /img/snowbord.jpg
+category:
+  - life
 ---
 Picture a finger sliding smoothly across the surface of an iced chocolate fudge cake and you&#8217;d have a microscopic idea of how I looked on my fourth or fifth time snowboarding; instead of a finger, however, imagine my lifeless body, and instead of an iced cake, imagine ice.
 

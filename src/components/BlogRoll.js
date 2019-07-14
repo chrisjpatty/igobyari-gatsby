@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styled from "@emotion/styled";
-import { Link, graphql, StaticQuery } from "gatsby";
+import { graphql, StaticQuery } from "gatsby";
 import FeaturedPost from "./FeaturedPost";
 import TriPostBlock from "./TriPostBlock";
 import AboutMeBlock from "./AboutMeBlock";
@@ -24,7 +24,7 @@ const BlogRoll = ({data}) => {
       />
       {posts &&
         restPosts.slice(0, postLimit).map(({ node: post }, i) => (
-          <HorizontalPostBlock post={post} reversed />
+          <HorizontalPostBlock post={post} reversed key={i} />
         ))}
       <LoadMoreRow>
         <LoadMoreButton onClick={() => setPostLimit(limit => limit + 8)}>Load More</LoadMoreButton>
@@ -124,53 +124,3 @@ const LoadMoreButton = styled('button')`
     background: #dad8d8;
   }
 `
-
-const PostMeta = styled("div")(
-  {},
-  ({ theme }) => ({
-    display: "flex",
-    flexDirection: "column",
-    position: "relative",
-    "& a": {
-      fontFamily: theme.fonts.title,
-      color: "inherit",
-      // textTransform: 'uppercase',
-      fontSize: 36,
-      textDecoration: "none"
-      // paddingLeft: 20
-    }
-  }),
-  ({ theme }) => ({
-    [theme.media.sm]: {
-      "& a": {
-        fontSize: 28
-      }
-    }
-  })
-);
-
-const PostWrapper = styled("div")(
-  {
-    margin: "60px 0px",
-    "&:first-of-type": {
-      marginTop: 0
-    },
-    "&:last-child": {
-      marginBottom: 0
-    }
-  },
-  ({ theme }) => ({
-    [theme.media.sm]: {
-      padding: "0px 20px"
-    }
-  })
-);
-
-const Excerpt = styled("p")`
-  line-height: 1.5;
-`;
-
-const DateWrapper = styled("span")({
-  opacity: 0.5,
-  fontStyle: "italic"
-});

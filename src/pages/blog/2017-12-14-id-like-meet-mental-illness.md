@@ -4,6 +4,8 @@ title: 'Everybody, I’d Like You to Meet My Mental Illness'
 description: ''
 date: 2017-12-14T00:51:12.000Z
 featuredimage: /img/ian-espinosa-rx12b5ux7qm-unsplash.jpg
+category:
+  - life
 ---
   Running between the couches in my therapist’s office is a wooden coffee table with a chess set on top. The pieces on his side are charcoal gray. The pieces on mine are gold. We never touch them during our sessions, but we always play.
 

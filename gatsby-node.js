@@ -32,7 +32,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges
     const postsByTags = getPostsByTags(posts)
-    
+
     posts.forEach(edge => {
       const id = edge.node.id
       const relatedIds = getRelatedPosts(edge, postsByTags, posts)
@@ -73,6 +73,24 @@ exports.createPages = ({ actions, graphql }) => {
         context: {
           tag,
         },
+      })
+    })
+
+    let categories = [
+      'life',
+      'humor',
+      'faith',
+      'culture',
+      'adventure'
+    ]
+
+    categories.forEach(category => {
+      createPage({
+        path: `/${category}`,
+        component: path.resolve(`src/templates/category.js`),
+        context: {
+          category
+        }
       })
     })
   })
