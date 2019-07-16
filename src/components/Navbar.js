@@ -87,4 +87,7 @@ const MenuButton = styled('button')`
     width: 35px;
     fill: rgb(200, 200, 200);
   }
+  @media (min-width: ${({theme}) => theme.breakpoints.md}px) {
+    display: none;
+  }
 `

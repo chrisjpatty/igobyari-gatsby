@@ -65,7 +65,7 @@ const Wrapper = styled("div")(
           borderRadius: 20,
           transform: "scale(.8) translateX(80%)",
           boxShadow: "0px 10px 500px -15px rgba(131, 32, 0, 0.4)",
-          pointerEvents: "none"
+          pointerEvents: "none",
         }
       : {},
   ({ closing }) =>
